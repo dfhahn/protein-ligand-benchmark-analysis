@@ -1,0 +1,26 @@
+#1_edge   2_ddg  3_ddg_err
+#all values in kJ/mol
+edge_jmc_23_ejm_55  -0.33  0.19
+edge_ejm_44_ejm_55  -4.19  0.29
+edge_ejm_49_ejm_31  -0.87  0.12
+edge_ejm_31_ejm_46  -1.04  0.21
+edge_jmc_28_jmc_27  -0.69  0.05
+edge_ejm_42_ejm_48  0.57  0.47
+edge_ejm_31_ejm_43  1.37  0.23
+edge_ejm_50_ejm_42  -0.47  0.13
+edge_ejm_42_ejm_55  -1.13  0.07
+edge_jmc_23_ejm_46  0.00  0.11
+edge_ejm_31_ejm_45  0.03  0.13
+edge_ejm_55_ejm_54  -0.86  0.25
+edge_ejm_45_ejm_42  0.14  0.08
+edge_ejm_31_jmc_28   nan   nan
+edge_ejm_31_ejm_48  0.62  0.37
+edge_ejm_47_ejm_31  0.23  0.23
+edge_ejm_47_ejm_55  -1.12  0.25
+edge_ejm_44_ejm_42  -2.66  0.51
+edge_jmc_23_jmc_27  0.12  0.13
+edge_ejm_43_ejm_55  -3.01  0.24
+edge_jmc_23_jmc_30  -0.32  0.07
+edge_jmc_28_jmc_30  -1.03  0.05
+edge_ejm_42_ejm_54  -1.63  0.11
+edge_ejm_49_ejm_50  -1.46  0.16
