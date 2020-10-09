@@ -24,6 +24,7 @@ dependencies:
   - matplotlib
   - networkx
   - openforcefield
+  - gitpython 
 
     # Pip-only installs
   - pip:
