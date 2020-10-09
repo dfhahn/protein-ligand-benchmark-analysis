@@ -1,62 +1,62 @@
 #1_edge   2_ddg  3_ddg_err
 #all values in kJ/mol
- edge_3a_7   nan   nan
-edge_3a_5m   nan   nan
-edge_3a_3b   nan   nan
-edge_5f_5a   nan   nan
-edge_5f_5i   nan   nan
-edge_5f_5l   nan   nan
-edge_8e_5k   nan   nan
-edge_8e_8a   nan   nan
-edge_8e_8b   nan   nan
-edge_8e_8c   nan   nan
-edge_5l_5e   nan   nan
-edge_5l_5j   nan   nan
-edge_5l_5p   nan   nan
-edge_8b_8a   nan   nan
-edge_8b_8f   nan   nan
-edge_8b_8d   nan   nan
-edge_5g_5a   nan   nan
-edge_5g_5b   nan   nan
-edge_5g_5d   nan   nan
-edge_5g_5h   nan   nan
-edge_1b_1a   nan   nan
-edge_1b_5h   nan   nan
-edge_1b_5d   nan   nan
-edge_1b_5n   nan   nan
-edge_1b_5c   nan   nan
-edge_5e_5a   nan   nan
-edge_5e_5i   nan   nan
-edge_5e_5h   nan   nan
-edge_5e_5k   nan   nan
-edge_5e_5p   nan   nan
-edge_5e_5n   nan   nan
-edge_5i_5a   nan   nan
-edge_5i_5o   nan   nan
-edge_5i_5m  -0.11  0.14
-edge_8d_1a   nan   nan
-edge_8d_8f   nan   nan
-edge_8d_8c   nan   nan
-edge_5b_5o   nan   nan
-edge_5b_5n   nan   nan
-edge_5b_5c   nan   nan
-edge_5b_5j   nan   nan
-edge_5h_5m   nan   nan
-edge_8c_5k   nan   nan
-edge_5a_5k   nan   nan
-edge_5a_5j   nan   nan
-edge_5a_5d   nan   nan
-edge_5a_5n  0.16  0.19
-edge_5a_5c   nan   nan
-edge_5k_5d   nan   nan
- edge_7_3b  0.37  0.15
- edge_7_5d   nan   nan
- edge_7_5j  0.51  0.17
- edge_7_8a   nan   nan
-edge_5p_5n   nan   nan
-edge_1a_5d   nan   nan
-edge_8f_5m   nan   nan
-edge_8f_8a   nan   nan
-edge_8a_5d   nan   nan
-edge_5o_5m   nan   nan
-edge_5d_5m   nan   nan
+ edge_3a_7  1.04  0.17
+edge_3a_5m  -1.65  0.22
+edge_3a_3b  -0.43  0.07
+edge_5f_5a  -0.83  0.13
+edge_5f_5i  -1.84  0.13
+edge_5f_5l  -0.92  0.13
+edge_8e_5k  1.58  0.65
+edge_8e_8a  -2.13  0.18
+edge_8e_8b  -3.58  0.18
+edge_8e_8c  0.30  0.11
+edge_5l_5e  -0.11  0.38
+edge_5l_5j  -0.89  0.16
+edge_5l_5p  -0.72  0.50
+edge_8b_8a  0.77  0.10
+edge_8b_8f  0.73  0.16
+edge_8b_8d  -0.34  0.14
+edge_5g_5a  -0.52  0.13
+edge_5g_5b  -0.81  0.14
+edge_5g_5d  -1.20  0.26
+edge_5g_5h  1.44  0.14
+edge_1b_1a  1.27  0.12
+edge_1b_5h  0.31  0.23
+edge_1b_5d  -1.90  0.19
+edge_1b_5n  -1.26  0.32
+edge_1b_5c  -0.78  0.17
+edge_5e_5a  -0.24  0.17
+edge_5e_5i  -1.57  0.19
+edge_5e_5h  1.10  0.21
+edge_5e_5k  -0.16  0.13
+edge_5e_5p  -1.59  0.32
+edge_5e_5n  -0.38  0.23
+edge_5i_5a  1.70  0.15
+edge_5i_5o  -0.58  0.24
+edge_5i_5m  -0.15  0.14
+edge_8d_1a  3.89  0.30
+edge_8d_8f  -0.05  0.11
+edge_8d_8c  2.15  0.09
+edge_5b_5o  -1.02  0.21
+edge_5b_5n  0.70  0.30
+edge_5b_5c  0.97  0.13
+edge_5b_5j  -0.51  0.15
+edge_5h_5m  -2.26  0.18
+edge_8c_5k  -0.74  0.20
+edge_5a_5k  0.60  0.38
+edge_5a_5j  -1.03  0.14
+edge_5a_5d  -0.24  0.13
+edge_5a_5n  -0.35  0.26
+edge_5a_5c  -0.47  0.20
+edge_5k_5d  -0.65  0.12
+ edge_7_3b  -1.51  0.16
+ edge_7_5d  -0.87  0.15
+ edge_7_5j  -1.80  0.13
+ edge_7_8a  -0.54  0.98
+edge_5p_5n  1.15  0.11
+edge_1a_5d  -3.27  0.22
+edge_8f_5m  -2.34  0.37
+edge_8f_8a  0.49  0.22
+edge_8a_5d  -1.03  0.26
+edge_5o_5m  1.30  0.24
+edge_5d_5m  -0.68  0.14
