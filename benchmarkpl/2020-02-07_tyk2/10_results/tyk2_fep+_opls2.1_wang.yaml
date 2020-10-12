@@ -1,0 +1,144 @@
+tyk2_edge_ejm_31_ejm_43:
+  DDG: 1.59
+  LigandA: ejm_31
+  LigandB: ejm_43
+  dDDG: 0.09
+  unit: kilocalories / mole
+tyk2_edge_ejm_31_ejm_45:
+  DDG: 0.01
+  LigandA: ejm_31
+  LigandB: ejm_45
+  dDDG: 0.09
+  unit: kilocalories / mole
+tyk2_edge_ejm_31_ejm_46:
+  DDG: -0.75
+  LigandA: ejm_31
+  LigandB: ejm_46
+  dDDG: 0.1
+  unit: kilocalories / mole
+tyk2_edge_ejm_31_ejm_48:
+  DDG: 1.03
+  LigandA: ejm_31
+  LigandB: ejm_48
+  dDDG: 0.11
+  unit: kilocalories / mole
+tyk2_edge_ejm_31_jmc_28:
+  DDG: -0.39
+  LigandA: ejm_31
+  LigandB: jmc_28
+  dDDG: 0.1
+  unit: kilocalories / mole
+tyk2_edge_ejm_42_ejm_48:
+  DDG: 1.22
+  LigandA: ejm_42
+  LigandB: ejm_48
+  dDDG: 0.1
+  unit: kilocalories / mole
+tyk2_edge_ejm_42_ejm_54:
+  DDG: -1.07
+  LigandA: ejm_42
+  LigandB: ejm_54
+  dDDG: 0.11
+  unit: kilocalories / mole
+tyk2_edge_ejm_42_ejm_55:
+  DDG: -0.84
+  LigandA: ejm_42
+  LigandB: ejm_55
+  dDDG: 0.09
+  unit: kilocalories / mole
+tyk2_edge_ejm_43_ejm_55:
+  DDG: -2.48
+  LigandA: ejm_43
+  LigandB: ejm_55
+  dDDG: 0.1
+  unit: kilocalories / mole
+tyk2_edge_ejm_44_ejm_42:
+  DDG: -2.27
+  LigandA: ejm_44
+  LigandB: ejm_42
+  dDDG: 0.1
+  unit: kilocalories / mole
+tyk2_edge_ejm_44_ejm_55:
+  DDG: -4.03
+  LigandA: ejm_44
+  LigandB: ejm_55
+  dDDG: 0.11
+  unit: kilocalories / mole
+tyk2_edge_ejm_45_ejm_42:
+  DDG: -0.28
+  LigandA: ejm_45
+  LigandB: ejm_42
+  dDDG: 0.09
+  unit: kilocalories / mole
+tyk2_edge_ejm_47_ejm_31:
+  DDG: -0.87
+  LigandA: ejm_47
+  LigandB: ejm_31
+  dDDG: 0.1
+  unit: kilocalories / mole
+tyk2_edge_ejm_47_ejm_55:
+  DDG: -1.05
+  LigandA: ejm_47
+  LigandB: ejm_55
+  dDDG: 0.09
+  unit: kilocalories / mole
+tyk2_edge_ejm_49_ejm_31:
+  DDG: -0.95
+  LigandA: ejm_49
+  LigandB: ejm_31
+  dDDG: 0.11
+  unit: kilocalories / mole
+tyk2_edge_ejm_49_ejm_50:
+  DDG: -0.76
+  LigandA: ejm_49
+  LigandB: ejm_50
+  dDDG: 0.13
+  unit: kilocalories / mole
+tyk2_edge_ejm_50_ejm_42:
+  DDG: -0.24
+  LigandA: ejm_50
+  LigandB: ejm_42
+  dDDG: 0.1
+  unit: kilocalories / mole
+tyk2_edge_ejm_55_ejm_54:
+  DDG: -0.1
+  LigandA: ejm_55
+  LigandB: ejm_54
+  dDDG: 0.09
+  unit: kilocalories / mole
+tyk2_edge_jmc_23_ejm_46:
+  DDG: 0.6
+  LigandA: jmc_23
+  LigandB: ejm_46
+  dDDG: 0.09
+  unit: kilocalories / mole
+tyk2_edge_jmc_23_ejm_55:
+  DDG: 0.83
+  LigandA: jmc_23
+  LigandB: ejm_55
+  dDDG: 0.1
+  unit: kilocalories / mole
+tyk2_edge_jmc_23_jmc_27:
+  DDG: 0.16
+  LigandA: jmc_23
+  LigandB: jmc_27
+  dDDG: 0.09
+  unit: kilocalories / mole
+tyk2_edge_jmc_23_jmc_30:
+  DDG: 0.54
+  LigandA: jmc_23
+  LigandB: jmc_30
+  dDDG: 0.1
+  unit: kilocalories / mole
+tyk2_edge_jmc_28_jmc_27:
+  DDG: -0.57
+  LigandA: jmc_28
+  LigandB: jmc_27
+  dDDG: 0.09
+  unit: kilocalories / mole
+tyk2_edge_jmc_28_jmc_30:
+  DDG: -0.52
+  LigandA: jmc_28
+  LigandB: jmc_30
+  dDDG: 0.09
+  unit: kilocalories / mole

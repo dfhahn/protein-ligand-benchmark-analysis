@@ -1,0 +1,348 @@
+bace_edge_CAT-13a_CAT-13m:
+  DDG: 0.33
+  dDDG: 0.0
+  ligandA: CAT-13a
+  ligandB: CAT-13m
+  unit: kilojoules / mole
+bace_edge_CAT-13a_CAT-17g:
+  DDG: -3.77
+  dDDG: 0.0
+  ligandA: CAT-13a
+  ligandB: CAT-17g
+  unit: kilojoules / mole
+bace_edge_CAT-13a_CAT-17i:
+  DDG: -2.64
+  dDDG: 0.0
+  ligandA: CAT-13a
+  ligandB: CAT-17i
+  unit: kilojoules / mole
+bace_edge_CAT-13b_CAT-17g:
+  DDG: -2.59
+  dDDG: 0.0
+  ligandA: CAT-13b
+  ligandB: CAT-17g
+  unit: kilojoules / mole
+bace_edge_CAT-13c_CAT-17i:
+  DDG: -0.63
+  dDDG: 0.0
+  ligandA: CAT-13c
+  ligandB: CAT-17i
+  unit: kilojoules / mole
+bace_edge_CAT-13d_CAT-13b:
+  DDG: 5.65
+  dDDG: 0.0
+  ligandA: CAT-13d
+  ligandB: CAT-13b
+  unit: kilojoules / mole
+bace_edge_CAT-13d_CAT-13f:
+  DDG: 5.77
+  dDDG: 0.0
+  ligandA: CAT-13d
+  ligandB: CAT-13f
+  unit: kilojoules / mole
+bace_edge_CAT-13d_CAT-13h:
+  DDG: 3.51
+  dDDG: 0.0
+  ligandA: CAT-13d
+  ligandB: CAT-13h
+  unit: kilojoules / mole
+bace_edge_CAT-13d_CAT-13i:
+  DDG: 5.02
+  dDDG: 0.0
+  ligandA: CAT-13d
+  ligandB: CAT-13i
+  unit: kilojoules / mole
+bace_edge_CAT-13d_CAT-17a:
+  DDG: -1.09
+  dDDG: 0.0
+  ligandA: CAT-13d
+  ligandB: CAT-17a
+  unit: kilojoules / mole
+bace_edge_CAT-13d_CAT-17d:
+  DDG: 4.39
+  dDDG: 0.0
+  ligandA: CAT-13d
+  ligandB: CAT-17d
+  unit: kilojoules / mole
+bace_edge_CAT-13d_CAT-17h:
+  DDG: 0.59
+  dDDG: 0.0
+  ligandA: CAT-13d
+  ligandB: CAT-17h
+  unit: kilojoules / mole
+bace_edge_CAT-13e_CAT-17g:
+  DDG: 0.92
+  dDDG: 0.0
+  ligandA: CAT-13e
+  ligandB: CAT-17g
+  unit: kilojoules / mole
+bace_edge_CAT-13e_CAT-17i:
+  DDG: 2.05
+  dDDG: 0.0
+  ligandA: CAT-13e
+  ligandB: CAT-17i
+  unit: kilojoules / mole
+bace_edge_CAT-13g_CAT-17g:
+  DDG: -2.72
+  dDDG: 0.0
+  ligandA: CAT-13g
+  ligandB: CAT-17g
+  unit: kilojoules / mole
+bace_edge_CAT-13g_CAT-17i:
+  DDG: -1.59
+  dDDG: 0.0
+  ligandA: CAT-13g
+  ligandB: CAT-17i
+  unit: kilojoules / mole
+bace_edge_CAT-13h_CAT-17i:
+  DDG: 0.67
+  dDDG: 0.0
+  ligandA: CAT-13h
+  ligandB: CAT-17i
+  unit: kilojoules / mole
+bace_edge_CAT-13j_CAT-4o:
+  DDG: -2.72
+  dDDG: 0.0
+  ligandA: CAT-13j
+  ligandB: CAT-4o
+  unit: kilojoules / mole
+bace_edge_CAT-13k_CAT-4b:
+  DDG: 0.29
+  dDDG: 0.0
+  ligandA: CAT-13k
+  ligandB: CAT-4b
+  unit: kilojoules / mole
+bace_edge_CAT-13k_CAT-4d:
+  DDG: 2.47
+  dDDG: 0.0
+  ligandA: CAT-13k
+  ligandB: CAT-4d
+  unit: kilojoules / mole
+bace_edge_CAT-13n_CAT-13a:
+  DDG: -1.26
+  dDDG: 0.0
+  ligandA: CAT-13n
+  ligandB: CAT-13a
+  unit: kilojoules / mole
+bace_edge_CAT-13n_CAT-13k:
+  DDG: -4.85
+  dDDG: 0.0
+  ligandA: CAT-13n
+  ligandB: CAT-13k
+  unit: kilojoules / mole
+bace_edge_CAT-13n_CAT-4i:
+  DDG: 1.17
+  dDDG: 0.0
+  ligandA: CAT-13n
+  ligandB: CAT-4i
+  unit: kilojoules / mole
+bace_edge_CAT-13o_CAT-17h:
+  DDG: -7.49
+  dDDG: 0.0
+  ligandA: CAT-13o
+  ligandB: CAT-17h
+  unit: kilojoules / mole
+bace_edge_CAT-13o_CAT-17i:
+  DDG: -3.89
+  dDDG: 0.0
+  ligandA: CAT-13o
+  ligandB: CAT-17i
+  unit: kilojoules / mole
+bace_edge_CAT-17b_CAT-13d:
+  DDG: -1.88
+  dDDG: 0.0
+  ligandA: CAT-17b
+  ligandB: CAT-13d
+  unit: kilojoules / mole
+bace_edge_CAT-17b_CAT-17e:
+  DDG: 0.0
+  dDDG: 0.0
+  ligandA: CAT-17b
+  ligandB: CAT-17e
+  unit: kilojoules / mole
+bace_edge_CAT-17c_CAT-17e:
+  DDG: -0.67
+  dDDG: 0.0
+  ligandA: CAT-17c
+  ligandB: CAT-17e
+  unit: kilojoules / mole
+bace_edge_CAT-17f_CAT-17e:
+  DDG: -2.51
+  dDDG: 0.0
+  ligandA: CAT-17f
+  ligandB: CAT-17e
+  unit: kilojoules / mole
+bace_edge_CAT-17g_CAT-13c:
+  DDG: 1.76
+  dDDG: 0.0
+  ligandA: CAT-17g
+  ligandB: CAT-13c
+  unit: kilojoules / mole
+bace_edge_CAT-17g_CAT-13i:
+  DDG: 1.97
+  dDDG: 0.0
+  ligandA: CAT-17g
+  ligandB: CAT-13i
+  unit: kilojoules / mole
+bace_edge_CAT-17g_CAT-17c:
+  DDG: -0.5
+  dDDG: 0.0
+  ligandA: CAT-17g
+  ligandB: CAT-17c
+  unit: kilojoules / mole
+bace_edge_CAT-17g_CAT-17d:
+  DDG: 1.34
+  dDDG: 0.0
+  ligandA: CAT-17g
+  ligandB: CAT-17d
+  unit: kilojoules / mole
+bace_edge_CAT-17g_CAT-17f:
+  DDG: 1.34
+  dDDG: 0.0
+  ligandA: CAT-17g
+  ligandB: CAT-17f
+  unit: kilojoules / mole
+bace_edge_CAT-17i_CAT-13f:
+  DDG: 1.59
+  dDDG: 0.0
+  ligandA: CAT-17i
+  ligandB: CAT-13f
+  unit: kilojoules / mole
+bace_edge_CAT-17i_CAT-17a:
+  DDG: -5.27
+  dDDG: 0.0
+  ligandA: CAT-17i
+  ligandB: CAT-17a
+  unit: kilojoules / mole
+bace_edge_CAT-24_CAT-17e:
+  DDG: 5.56
+  dDDG: 0.0
+  ligandA: CAT-24
+  ligandB: CAT-17e
+  unit: kilojoules / mole
+bace_edge_CAT-24_CAT-17i:
+  DDG: 7.87
+  dDDG: 0.0
+  ligandA: CAT-24
+  ligandB: CAT-17i
+  unit: kilojoules / mole
+bace_edge_CAT-4a_CAT-13k:
+  DDG: -7.41
+  dDDG: 0.0
+  ligandA: CAT-4a
+  ligandB: CAT-13k
+  unit: kilojoules / mole
+bace_edge_CAT-4a_CAT-4o:
+  DDG: -6.07
+  dDDG: 0.0
+  ligandA: CAT-4a
+  ligandB: CAT-4o
+  unit: kilojoules / mole
+bace_edge_CAT-4c_CAT-4o:
+  DDG: -6.4
+  dDDG: 0.0
+  ligandA: CAT-4c
+  ligandB: CAT-4o
+  unit: kilojoules / mole
+bace_edge_CAT-4i_CAT-13m:
+  DDG: -2.09
+  dDDG: 0.0
+  ligandA: CAT-4i
+  ligandB: CAT-13m
+  unit: kilojoules / mole
+bace_edge_CAT-4j_CAT-4o:
+  DDG: -1.51
+  dDDG: 0.0
+  ligandA: CAT-4j
+  ligandB: CAT-4o
+  unit: kilojoules / mole
+bace_edge_CAT-4k_CAT-4o:
+  DDG: -6.4
+  dDDG: 0.0
+  ligandA: CAT-4k
+  ligandB: CAT-4o
+  unit: kilojoules / mole
+bace_edge_CAT-4l_CAT-13k:
+  DDG: -1.51
+  dDDG: 0.0
+  ligandA: CAT-4l
+  ligandB: CAT-13k
+  unit: kilojoules / mole
+bace_edge_CAT-4m_CAT-13j:
+  DDG: 1.76
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-13j
+  unit: kilojoules / mole
+bace_edge_CAT-4m_CAT-13k:
+  DDG: -2.3
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-13k
+  unit: kilojoules / mole
+bace_edge_CAT-4m_CAT-13m:
+  DDG: 1.63
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-13m
+  unit: kilojoules / mole
+bace_edge_CAT-4m_CAT-4c:
+  DDG: 5.44
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-4c
+  unit: kilojoules / mole
+bace_edge_CAT-4m_CAT-4j:
+  DDG: 0.54
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-4j
+  unit: kilojoules / mole
+bace_edge_CAT-4m_CAT-4k:
+  DDG: 5.44
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-4k
+  unit: kilojoules / mole
+bace_edge_CAT-4m_CAT-4l:
+  DDG: -0.79
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-4l
+  unit: kilojoules / mole
+bace_edge_CAT-4m_CAT-4n:
+  DDG: 0.25
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-4n
+  unit: kilojoules / mole
+bace_edge_CAT-4m_CAT-4p:
+  DDG: -3.89
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-4p
+  unit: kilojoules / mole
+bace_edge_CAT-4n_CAT-13k:
+  DDG: -2.55
+  dDDG: 0.0
+  ligandA: CAT-4n
+  ligandB: CAT-13k
+  unit: kilojoules / mole
+bace_edge_CAT-4o_CAT-4b:
+  DDG: -1.05
+  dDDG: 0.0
+  ligandA: CAT-4o
+  ligandB: CAT-4b
+  unit: kilojoules / mole
+bace_edge_CAT-4o_CAT-4d:
+  DDG: 1.13
+  dDDG: 0.0
+  ligandA: CAT-4o
+  ligandB: CAT-4d
+  unit: kilojoules / mole
+bace_edge_CAT-4p_CAT-13k:
+  DDG: 1.59
+  dDDG: 0.0
+  ligandA: CAT-4p
+  ligandB: CAT-13k
+  unit: kilojoules / mole

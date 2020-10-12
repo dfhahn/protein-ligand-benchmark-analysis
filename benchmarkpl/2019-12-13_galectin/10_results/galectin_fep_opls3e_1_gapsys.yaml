@@ -1,0 +1,42 @@
+galectin_edge_02_ligOMe_05_ligOEt:
+  DDG: 4.24
+  dDDG: 0.28
+  ligandA: 02_ligOMe
+  ligandB: 05_ligOEt
+  unit: kilojoules / mole
+galectin_edge_03_ligNHMe_02_ligOMe:
+  DDG: 0.07
+  dDDG: 0.31
+  ligandA: 03_ligNHMe
+  ligandB: 02_ligOMe
+  unit: kilojoules / mole
+galectin_edge_03_ligNHMe_04_ligNMe2:
+  DDG: 2.8
+  dDDG: 0.3
+  ligandA: 03_ligNHMe
+  ligandB: 04_ligNMe2
+  unit: kilojoules / mole
+galectin_edge_04_ligNMe2_08_ligNH2:
+  DDG: -2.32
+  dDDG: 1.14
+  ligandA: 04_ligNMe2
+  ligandB: 08_ligNH2
+  unit: kilojoules / mole
+galectin_edge_06_ligPyr_01_ligF:
+  DDG: -8.35
+  dDDG: 0.65
+  ligandA: 06_ligPyr
+  ligandB: 01_ligF
+  unit: kilojoules / mole
+galectin_edge_07_ligOH_01_ligF:
+  DDG: -2.23
+  dDDG: 0.29
+  ligandA: 07_ligOH
+  ligandB: 01_ligF
+  unit: kilojoules / mole
+galectin_edge_07_ligOH_02_ligOMe:
+  DDG: 0.07
+  dDDG: 0.49
+  ligandA: 07_ligOH
+  ligandB: 02_ligOMe
+  unit: kilojoules / mole

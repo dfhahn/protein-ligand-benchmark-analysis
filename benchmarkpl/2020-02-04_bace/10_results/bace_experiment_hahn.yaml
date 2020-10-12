@@ -1,0 +1,348 @@
+bace_edge_CAT-13a_CAT-13m:
+  DDG: 0.08
+  dDDG: 0.0
+  ligandA: CAT-13a
+  ligandB: CAT-13m
+  unit: kilocalories / mole
+bace_edge_CAT-13a_CAT-17g:
+  DDG: -0.9
+  dDDG: 0.0
+  ligandA: CAT-13a
+  ligandB: CAT-17g
+  unit: kilocalories / mole
+bace_edge_CAT-13a_CAT-17i:
+  DDG: -0.63
+  dDDG: 0.0
+  ligandA: CAT-13a
+  ligandB: CAT-17i
+  unit: kilocalories / mole
+bace_edge_CAT-13b_CAT-17g:
+  DDG: -0.62
+  dDDG: 0.0
+  ligandA: CAT-13b
+  ligandB: CAT-17g
+  unit: kilocalories / mole
+bace_edge_CAT-13c_CAT-17i:
+  DDG: -0.14
+  dDDG: 0.0
+  ligandA: CAT-13c
+  ligandB: CAT-17i
+  unit: kilocalories / mole
+bace_edge_CAT-13d_CAT-13b:
+  DDG: 1.35
+  dDDG: 0.0
+  ligandA: CAT-13d
+  ligandB: CAT-13b
+  unit: kilocalories / mole
+bace_edge_CAT-13d_CAT-13f:
+  DDG: 1.37
+  dDDG: 0.0
+  ligandA: CAT-13d
+  ligandB: CAT-13f
+  unit: kilocalories / mole
+bace_edge_CAT-13d_CAT-13h:
+  DDG: 0.83
+  dDDG: 0.0
+  ligandA: CAT-13d
+  ligandB: CAT-13h
+  unit: kilocalories / mole
+bace_edge_CAT-13d_CAT-13i:
+  DDG: 1.2
+  dDDG: 0.0
+  ligandA: CAT-13d
+  ligandB: CAT-13i
+  unit: kilocalories / mole
+bace_edge_CAT-13d_CAT-17a:
+  DDG: -0.27
+  dDDG: 0.0
+  ligandA: CAT-13d
+  ligandB: CAT-17a
+  unit: kilocalories / mole
+bace_edge_CAT-13d_CAT-17d:
+  DDG: 1.04
+  dDDG: 0.0
+  ligandA: CAT-13d
+  ligandB: CAT-17d
+  unit: kilocalories / mole
+bace_edge_CAT-13d_CAT-17h:
+  DDG: 0.14
+  dDDG: 0.0
+  ligandA: CAT-13d
+  ligandB: CAT-17h
+  unit: kilocalories / mole
+bace_edge_CAT-13e_CAT-17g:
+  DDG: 0.22
+  dDDG: 0.0
+  ligandA: CAT-13e
+  ligandB: CAT-17g
+  unit: kilocalories / mole
+bace_edge_CAT-13e_CAT-17i:
+  DDG: 0.49
+  dDDG: 0.0
+  ligandA: CAT-13e
+  ligandB: CAT-17i
+  unit: kilocalories / mole
+bace_edge_CAT-13g_CAT-17g:
+  DDG: -0.64
+  dDDG: 0.0
+  ligandA: CAT-13g
+  ligandB: CAT-17g
+  unit: kilocalories / mole
+bace_edge_CAT-13g_CAT-17i:
+  DDG: -0.37
+  dDDG: 0.0
+  ligandA: CAT-13g
+  ligandB: CAT-17i
+  unit: kilocalories / mole
+bace_edge_CAT-13h_CAT-17i:
+  DDG: 0.17
+  dDDG: 0.0
+  ligandA: CAT-13h
+  ligandB: CAT-17i
+  unit: kilocalories / mole
+bace_edge_CAT-13j_CAT-4o:
+  DDG: -0.64
+  dDDG: 0.0
+  ligandA: CAT-13j
+  ligandB: CAT-4o
+  unit: kilocalories / mole
+bace_edge_CAT-13k_CAT-4b:
+  DDG: 0.06
+  dDDG: 0.0
+  ligandA: CAT-13k
+  ligandB: CAT-4b
+  unit: kilocalories / mole
+bace_edge_CAT-13k_CAT-4d:
+  DDG: 0.59
+  dDDG: 0.0
+  ligandA: CAT-13k
+  ligandB: CAT-4d
+  unit: kilocalories / mole
+bace_edge_CAT-13n_CAT-13a:
+  DDG: -0.3
+  dDDG: 0.0
+  ligandA: CAT-13n
+  ligandB: CAT-13a
+  unit: kilocalories / mole
+bace_edge_CAT-13n_CAT-13k:
+  DDG: -1.16
+  dDDG: 0.0
+  ligandA: CAT-13n
+  ligandB: CAT-13k
+  unit: kilocalories / mole
+bace_edge_CAT-13n_CAT-4i:
+  DDG: 0.28
+  dDDG: 0.0
+  ligandA: CAT-13n
+  ligandB: CAT-4i
+  unit: kilocalories / mole
+bace_edge_CAT-13o_CAT-17h:
+  DDG: -1.79
+  dDDG: 0.0
+  ligandA: CAT-13o
+  ligandB: CAT-17h
+  unit: kilocalories / mole
+bace_edge_CAT-13o_CAT-17i:
+  DDG: -0.93
+  dDDG: 0.0
+  ligandA: CAT-13o
+  ligandB: CAT-17i
+  unit: kilocalories / mole
+bace_edge_CAT-17b_CAT-13d:
+  DDG: -0.45
+  dDDG: 0.0
+  ligandA: CAT-17b
+  ligandB: CAT-13d
+  unit: kilocalories / mole
+bace_edge_CAT-17b_CAT-17e:
+  DDG: 0.0
+  dDDG: 0.0
+  ligandA: CAT-17b
+  ligandB: CAT-17e
+  unit: kilocalories / mole
+bace_edge_CAT-17c_CAT-17e:
+  DDG: -0.16
+  dDDG: 0.0
+  ligandA: CAT-17c
+  ligandB: CAT-17e
+  unit: kilocalories / mole
+bace_edge_CAT-17f_CAT-17e:
+  DDG: -0.59
+  dDDG: 0.0
+  ligandA: CAT-17f
+  ligandB: CAT-17e
+  unit: kilocalories / mole
+bace_edge_CAT-17g_CAT-13c:
+  DDG: 0.41
+  dDDG: 0.0
+  ligandA: CAT-17g
+  ligandB: CAT-13c
+  unit: kilocalories / mole
+bace_edge_CAT-17g_CAT-13i:
+  DDG: 0.47
+  dDDG: 0.0
+  ligandA: CAT-17g
+  ligandB: CAT-13i
+  unit: kilocalories / mole
+bace_edge_CAT-17g_CAT-17c:
+  DDG: -0.12
+  dDDG: 0.0
+  ligandA: CAT-17g
+  ligandB: CAT-17c
+  unit: kilocalories / mole
+bace_edge_CAT-17g_CAT-17d:
+  DDG: 0.31
+  dDDG: 0.0
+  ligandA: CAT-17g
+  ligandB: CAT-17d
+  unit: kilocalories / mole
+bace_edge_CAT-17g_CAT-17f:
+  DDG: 0.31
+  dDDG: 0.0
+  ligandA: CAT-17g
+  ligandB: CAT-17f
+  unit: kilocalories / mole
+bace_edge_CAT-17i_CAT-13f:
+  DDG: 0.37
+  dDDG: 0.0
+  ligandA: CAT-17i
+  ligandB: CAT-13f
+  unit: kilocalories / mole
+bace_edge_CAT-17i_CAT-17a:
+  DDG: -1.27
+  dDDG: 0.0
+  ligandA: CAT-17i
+  ligandB: CAT-17a
+  unit: kilocalories / mole
+bace_edge_CAT-24_CAT-17e:
+  DDG: 1.74
+  dDDG: 0.0
+  ligandA: CAT-24
+  ligandB: CAT-17e
+  unit: kilocalories / mole
+bace_edge_CAT-24_CAT-17i:
+  DDG: 2.29
+  dDDG: 0.0
+  ligandA: CAT-24
+  ligandB: CAT-17i
+  unit: kilocalories / mole
+bace_edge_CAT-4a_CAT-13k:
+  DDG: -1.77
+  dDDG: 0.0
+  ligandA: CAT-4a
+  ligandB: CAT-13k
+  unit: kilocalories / mole
+bace_edge_CAT-4a_CAT-4o:
+  DDG: -1.45
+  dDDG: 0.0
+  ligandA: CAT-4a
+  ligandB: CAT-4o
+  unit: kilocalories / mole
+bace_edge_CAT-4c_CAT-4o:
+  DDG: -1.53
+  dDDG: 0.0
+  ligandA: CAT-4c
+  ligandB: CAT-4o
+  unit: kilocalories / mole
+bace_edge_CAT-4i_CAT-13m:
+  DDG: -0.5
+  dDDG: 0.0
+  ligandA: CAT-4i
+  ligandB: CAT-13m
+  unit: kilocalories / mole
+bace_edge_CAT-4j_CAT-4o:
+  DDG: -0.36
+  dDDG: 0.0
+  ligandA: CAT-4j
+  ligandB: CAT-4o
+  unit: kilocalories / mole
+bace_edge_CAT-4k_CAT-4o:
+  DDG: -1.53
+  dDDG: 0.0
+  ligandA: CAT-4k
+  ligandB: CAT-4o
+  unit: kilocalories / mole
+bace_edge_CAT-4l_CAT-13k:
+  DDG: -0.36
+  dDDG: 0.0
+  ligandA: CAT-4l
+  ligandB: CAT-13k
+  unit: kilocalories / mole
+bace_edge_CAT-4m_CAT-13j:
+  DDG: 0.41
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-13j
+  unit: kilocalories / mole
+bace_edge_CAT-4m_CAT-13k:
+  DDG: -0.55
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-13k
+  unit: kilocalories / mole
+bace_edge_CAT-4m_CAT-13m:
+  DDG: 0.39
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-13m
+  unit: kilocalories / mole
+bace_edge_CAT-4m_CAT-4c:
+  DDG: 1.3
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-4c
+  unit: kilocalories / mole
+bace_edge_CAT-4m_CAT-4j:
+  DDG: 0.13
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-4j
+  unit: kilocalories / mole
+bace_edge_CAT-4m_CAT-4k:
+  DDG: 1.3
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-4k
+  unit: kilocalories / mole
+bace_edge_CAT-4m_CAT-4l:
+  DDG: -0.19
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-4l
+  unit: kilocalories / mole
+bace_edge_CAT-4m_CAT-4n:
+  DDG: 0.05
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-4n
+  unit: kilocalories / mole
+bace_edge_CAT-4m_CAT-4p:
+  DDG: -0.93
+  dDDG: 0.0
+  ligandA: CAT-4m
+  ligandB: CAT-4p
+  unit: kilocalories / mole
+bace_edge_CAT-4n_CAT-13k:
+  DDG: -0.6
+  dDDG: 0.0
+  ligandA: CAT-4n
+  ligandB: CAT-13k
+  unit: kilocalories / mole
+bace_edge_CAT-4o_CAT-4b:
+  DDG: -0.26
+  dDDG: 0.0
+  ligandA: CAT-4o
+  ligandB: CAT-4b
+  unit: kilocalories / mole
+bace_edge_CAT-4o_CAT-4d:
+  DDG: 0.27
+  dDDG: 0.0
+  ligandA: CAT-4o
+  ligandB: CAT-4d
+  unit: kilocalories / mole
+bace_edge_CAT-4p_CAT-13k:
+  DDG: 0.38
+  dDDG: 0.0
+  ligandA: CAT-4p
+  ligandB: CAT-13k
+  unit: kilocalories / mole

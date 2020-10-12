@@ -1,0 +1,96 @@
+edge_1a_3b:
+  DDG: 0.69
+  LigandA: 1a
+  LigandB: 3b
+  dDDG: 0.08
+  unit: kilocalories / mole
+edge_1a_5:
+  DDG: 0.08
+  LigandA: 1a
+  LigandB: '5'
+  dDDG: 0.08
+  unit: kilocalories / mole
+edge_1b_1a:
+  DDG: 1.06
+  LigandA: 1b
+  LigandB: 1a
+  dDDG: 0.08
+  unit: kilocalories / mole
+edge_1b_1c:
+  DDG: -0.45
+  LigandA: 1b
+  LigandB: 1c
+  dDDG: 0.07
+  unit: kilocalories / mole
+edge_1b_3b:
+  DDG: 0.21
+  LigandA: 1b
+  LigandB: 3b
+  dDDG: 0.08
+  unit: kilocalories / mole
+edge_1b_7a:
+  DDG: -0.09
+  LigandA: 1b
+  LigandB: 7a
+  dDDG: 0.09
+  unit: kilocalories / mole
+edge_1d_1a:
+  DDG: 2.42
+  LigandA: 1d
+  LigandB: 1a
+  dDDG: 0.1
+  unit: kilocalories / mole
+edge_1d_1c:
+  DDG: 0.23
+  LigandA: 1d
+  LigandB: 1c
+  dDDG: 0.06
+  unit: kilocalories / mole
+edge_1d_5:
+  DDG: 3.02
+  LigandA: 1d
+  LigandB: '5'
+  dDDG: 0.07
+  unit: kilocalories / mole
+edge_1d_6e:
+  DDG: 1.08
+  LigandA: 1d
+  LigandB: 6e
+  dDDG: 0.08
+  unit: kilocalories / mole
+edge_1d_7a:
+  DDG: 0.79
+  LigandA: 1d
+  LigandB: 7a
+  dDDG: 0.07
+  unit: kilocalories / mole
+edge_3a_1b:
+  DDG: -0.35
+  LigandA: 3a
+  LigandB: 1b
+  dDDG: 0.07
+  unit: kilocalories / mole
+edge_3a_1d:
+  DDG: -0.83
+  LigandA: 3a
+  LigandB: 1d
+  dDDG: 0.06
+  unit: kilocalories / mole
+edge_6a_1b:
+  DDG: 0.29
+  LigandA: 6a
+  LigandB: 1b
+  dDDG: 0.07
+  unit: kilocalories / mole
+edge_6a_6b:
+  DDG: -0.41
+  LigandA: 6a
+  LigandB: 6b
+  dDDG: 0.08
+  unit: kilocalories / mole
+edge_6e_6b:
+  DDG: -0.49
+  LigandA: 6e
+  LigandB: 6b
+  dDDG: 0.08
+  unit: kilocalories / mole

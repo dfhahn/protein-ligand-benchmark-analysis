@@ -1,0 +1,150 @@
+cdk2_edge_17_1h1q:
+  DDG: 1.9
+  dDDG: 0.35
+  ligandA: '17'
+  ligandB: 1h1q
+  unit: kilojoules / mole
+cdk2_edge_17_21:
+  DDG: -3.33
+  dDDG: 0.33
+  ligandA: '17'
+  ligandB: '21'
+  unit: kilojoules / mole
+cdk2_edge_17_22:
+  DDG: 0.86
+  dDDG: 0.53
+  ligandA: '17'
+  ligandB: '22'
+  unit: kilojoules / mole
+cdk2_edge_1h1r_1oi9:
+  DDG: -6.92
+  dDDG: 0.75
+  ligandA: 1h1r
+  ligandB: 1oi9
+  unit: kilojoules / mole
+cdk2_edge_1h1r_21:
+  DDG: -3.75
+  dDDG: 0.86
+  ligandA: 1h1r
+  ligandB: '21'
+  unit: kilojoules / mole
+cdk2_edge_1h1s_1oiy:
+  DDG: 7.39
+  dDDG: 1.78
+  ligandA: 1h1s
+  ligandB: 1oiy
+  unit: kilojoules / mole
+cdk2_edge_1h1s_26:
+  DDG: 12.93
+  dDDG: 1.09
+  ligandA: 1h1s
+  ligandB: '26'
+  unit: kilojoules / mole
+cdk2_edge_1oi9_20:
+  DDG: 5.9
+  dDDG: 1.52
+  ligandA: 1oi9
+  ligandB: '20'
+  unit: kilojoules / mole
+cdk2_edge_1oiu_1h1q:
+  DDG: 15.87
+  dDDG: 2.05
+  ligandA: 1oiu
+  ligandB: 1h1q
+  unit: kilojoules / mole
+cdk2_edge_1oiu_26:
+  DDG: 6.35
+  dDDG: 1.2
+  ligandA: 1oiu
+  ligandB: '26'
+  unit: kilojoules / mole
+cdk2_edge_1oiy_1h1q:
+  DDG: 10.38
+  dDDG: 0.51
+  ligandA: 1oiy
+  ligandB: 1h1q
+  unit: kilojoules / mole
+cdk2_edge_1oiy_1oi9:
+  DDG: -1.37
+  dDDG: 1.19
+  ligandA: 1oiy
+  ligandB: 1oi9
+  unit: kilojoules / mole
+cdk2_edge_1oiy_29:
+  DDG: -3.24
+  dDDG: 0.88
+  ligandA: 1oiy
+  ligandB: '29'
+  unit: kilojoules / mole
+cdk2_edge_1oiy_31:
+  DDG: -0.01
+  dDDG: 1.02
+  ligandA: 1oiy
+  ligandB: '31'
+  unit: kilojoules / mole
+cdk2_edge_1oiy_32:
+  DDG: 0.45
+  dDDG: 1.94
+  ligandA: 1oiy
+  ligandB: '32'
+  unit: kilojoules / mole
+cdk2_edge_20_1h1q:
+  DDG: 5.31
+  dDDG: 0.54
+  ligandA: '20'
+  ligandB: 1h1q
+  unit: kilojoules / mole
+cdk2_edge_22_1h1r:
+  DDG: 1.56
+  dDDG: 0.86
+  ligandA: '22'
+  ligandB: 1h1r
+  unit: kilojoules / mole
+cdk2_edge_26_1h1q:
+  DDG: 4.77
+  dDDG: 0.79
+  ligandA: '26'
+  ligandB: 1h1q
+  unit: kilojoules / mole
+cdk2_edge_26_1oi9:
+  DDG: -2.59
+  dDDG: 1.34
+  ligandA: '26'
+  ligandB: 1oi9
+  unit: kilojoules / mole
+cdk2_edge_28_26:
+  DDG: 10.71
+  dDDG: 1.15
+  ligandA: '28'
+  ligandB: '26'
+  unit: kilojoules / mole
+cdk2_edge_28_31:
+  DDG: 1.32
+  dDDG: 1.52
+  ligandA: '28'
+  ligandB: '31'
+  unit: kilojoules / mole
+cdk2_edge_29_26:
+  DDG: 6.19
+  dDDG: 0.85
+  ligandA: '29'
+  ligandB: '26'
+  unit: kilojoules / mole
+cdk2_edge_30_26:
+  DDG: 6.6
+  dDDG: 1.27
+  ligandA: '30'
+  ligandB: '26'
+  unit: kilojoules / mole
+cdk2_edge_30_31:
+  DDG: -23.43
+  dDDG: 7.04
+  ligandA: '30'
+  ligandB: '31'
+  unit: kilojoules / mole
+cdk2_edge_31_32:
+  DDG: 0.88
+  dDDG: 1.67
+  ligandA: '31'
+  ligandB: '32'
+  unit: kilojoules / mole

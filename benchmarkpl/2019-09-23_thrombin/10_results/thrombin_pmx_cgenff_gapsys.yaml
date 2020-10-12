@@ -1,0 +1,96 @@
+thrombin_edge_1a_3b:
+  DDG: -6.35
+  dDDG: 1.27
+  ligandA: 1a
+  ligandB: 3b
+  unit: kilojoules / mole
+thrombin_edge_1a_5:
+  DDG: 2.6
+  dDDG: 0.75
+  ligandA: 1a
+  ligandB: '5'
+  unit: kilojoules / mole
+thrombin_edge_1b_1a:
+  DDG: 3.38
+  dDDG: 1.26
+  ligandA: 1b
+  ligandB: 1a
+  unit: kilojoules / mole
+thrombin_edge_1b_1c:
+  DDG: -0.01
+  dDDG: 0.77
+  ligandA: 1b
+  ligandB: 1c
+  unit: kilojoules / mole
+thrombin_edge_1b_3b:
+  DDG: -4.47
+  dDDG: 1.04
+  ligandA: 1b
+  ligandB: 3b
+  unit: kilojoules / mole
+thrombin_edge_1b_7a:
+  DDG: 0.3
+  dDDG: 0.46
+  ligandA: 1b
+  ligandB: 7a
+  unit: kilojoules / mole
+thrombin_edge_1d_1a:
+  DDG: 5.63
+  dDDG: 4.37
+  ligandA: 1d
+  ligandB: 1a
+  unit: kilojoules / mole
+thrombin_edge_1d_1c:
+  DDG: 1.85
+  dDDG: 0.49
+  ligandA: 1d
+  ligandB: 1c
+  unit: kilojoules / mole
+thrombin_edge_1d_5:
+  DDG: 1.71
+  dDDG: 3.88
+  ligandA: 1d
+  ligandB: '5'
+  unit: kilojoules / mole
+thrombin_edge_1d_6e:
+  DDG: 14.52
+  dDDG: 1.88
+  ligandA: 1d
+  ligandB: 6e
+  unit: kilojoules / mole
+thrombin_edge_1d_7a:
+  DDG: 1.96
+  dDDG: 0.98
+  ligandA: 1d
+  ligandB: 7a
+  unit: kilojoules / mole
+thrombin_edge_3a_1b:
+  DDG: 1.44
+  dDDG: 0.85
+  ligandA: 3a
+  ligandB: 1b
+  unit: kilojoules / mole
+thrombin_edge_3a_1d:
+  DDG: 1.12
+  dDDG: 0.59
+  ligandA: 3a
+  ligandB: 1d
+  unit: kilojoules / mole
+thrombin_edge_6a_1b:
+  DDG: 1.33
+  dDDG: 0.53
+  ligandA: 6a
+  ligandB: 1b
+  unit: kilojoules / mole
+thrombin_edge_6a_6b:
+  DDG: 0.05
+  dDDG: 0.39
+  ligandA: 6a
+  ligandB: 6b
+  unit: kilojoules / mole
+thrombin_edge_6e_6b:
+  DDG: -11.48
+  dDDG: 0.3
+  ligandA: 6e
+  ligandB: 6b
+  unit: kilojoules / mole

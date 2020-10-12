@@ -1,0 +1,336 @@
+p38_edge_p38a_2aa_p38a_2bb:
+  DDG: -0.32
+  dDDG: 3.61
+  ligandA: p38a_2aa
+  ligandB: p38a_2bb
+  unit: kilojoules / mole
+p38_edge_p38a_2aa_p38a_3flw:
+  DDG: -5.44
+  dDDG: 0.92
+  ligandA: p38a_2aa
+  ligandB: p38a_3flw
+  unit: kilojoules / mole
+p38_edge_p38a_2e_p38a_2j:
+  DDG: -3.47
+  dDDG: 0.89
+  ligandA: p38a_2e
+  ligandB: p38a_2j
+  unit: kilojoules / mole
+p38_edge_p38a_2ee_p38a_2j:
+  DDG: 0.3
+  dDDG: 0.66
+  ligandA: p38a_2ee
+  ligandB: p38a_2j
+  unit: kilojoules / mole
+p38_edge_p38a_2ee_p38a_3fln:
+  DDG: -1.94
+  dDDG: 1.26
+  ligandA: p38a_2ee
+  ligandB: p38a_3fln
+  unit: kilojoules / mole
+p38_edge_p38a_2g_p38a_2c:
+  DDG: -7.06
+  dDDG: 2.55
+  ligandA: p38a_2g
+  ligandB: p38a_2c
+  unit: kilojoules / mole
+p38_edge_p38a_2g_p38a_2f:
+  DDG: 3.08
+  dDDG: 0.7
+  ligandA: p38a_2g
+  ligandB: p38a_2f
+  unit: kilojoules / mole
+p38_edge_p38a_2g_p38a_2h:
+  DDG: 11.59
+  dDDG: 1.17
+  ligandA: p38a_2g
+  ligandB: p38a_2h
+  unit: kilojoules / mole
+p38_edge_p38a_2g_p38a_2i:
+  DDG: 0.52
+  dDDG: 0.77
+  ligandA: p38a_2g
+  ligandB: p38a_2i
+  unit: kilojoules / mole
+p38_edge_p38a_2gg_p38a_2j:
+  DDG: -1.45
+  dDDG: 1.28
+  ligandA: p38a_2gg
+  ligandB: p38a_2j
+  unit: kilojoules / mole
+p38_edge_p38a_2j_p38a_2f:
+  DDG: 2.38
+  dDDG: 0.74
+  ligandA: p38a_2j
+  ligandB: p38a_2f
+  unit: kilojoules / mole
+p38_edge_p38a_2j_p38a_2ff:
+  DDG: -3.12
+  dDDG: 0.64
+  ligandA: p38a_2j
+  ligandB: p38a_2ff
+  unit: kilojoules / mole
+p38_edge_p38a_2j_p38a_2h:
+  DDG: 9.18
+  dDDG: 0.98
+  ligandA: p38a_2j
+  ligandB: p38a_2h
+  unit: kilojoules / mole
+p38_edge_p38a_2j_p38a_2q:
+  DDG: -4.11
+  dDDG: 1.1
+  ligandA: p38a_2j
+  ligandB: p38a_2q
+  unit: kilojoules / mole
+p38_edge_p38a_2j_p38a_2r:
+  DDG: 1.02
+  dDDG: 1.44
+  ligandA: p38a_2j
+  ligandB: p38a_2r
+  unit: kilojoules / mole
+p38_edge_p38a_2l_p38a_2j:
+  DDG: 4.28
+  dDDG: 1.71
+  ligandA: p38a_2l
+  ligandB: p38a_2j
+  unit: kilojoules / mole
+p38_edge_p38a_2l_p38a_2n:
+  DDG: -0.3
+  dDDG: 0.42
+  ligandA: p38a_2l
+  ligandB: p38a_2n
+  unit: kilojoules / mole
+p38_edge_p38a_2l_p38a_2o:
+  DDG: 7.71
+  dDDG: 1.43
+  ligandA: p38a_2l
+  ligandB: p38a_2o
+  unit: kilojoules / mole
+p38_edge_p38a_2l_p38a_2p:
+  DDG: 2.62
+  dDDG: 1.51
+  ligandA: p38a_2l
+  ligandB: p38a_2p
+  unit: kilojoules / mole
+p38_edge_p38a_2m_p38a_2j:
+  DDG: 5.29
+  dDDG: 1.88
+  ligandA: p38a_2m
+  ligandB: p38a_2j
+  unit: kilojoules / mole
+p38_edge_p38a_2m_p38a_2k:
+  DDG: 6.89
+  dDDG: 1.5
+  ligandA: p38a_2m
+  ligandB: p38a_2k
+  unit: kilojoules / mole
+p38_edge_p38a_2s_p38a_2l:
+  DDG: -5.75
+  dDDG: 0.5
+  ligandA: p38a_2s
+  ligandB: p38a_2l
+  unit: kilojoules / mole
+p38_edge_p38a_2t_p38a_2j:
+  DDG: 2.87
+  dDDG: 0.59
+  ligandA: p38a_2t
+  ligandB: p38a_2j
+  unit: kilojoules / mole
+p38_edge_p38a_2u_p38a_2k:
+  DDG: 10.99
+  dDDG: 9.03
+  ligandA: p38a_2u
+  ligandB: p38a_2k
+  unit: kilojoules / mole
+p38_edge_p38a_2u_p38a_2q:
+  DDG: -2.64
+  dDDG: 2.02
+  ligandA: p38a_2u
+  ligandB: p38a_2q
+  unit: kilojoules / mole
+p38_edge_p38a_2v_p38a_2bb:
+  DDG: -1.39
+  dDDG: 1.64
+  ligandA: p38a_2v
+  ligandB: p38a_2bb
+  unit: kilojoules / mole
+p38_edge_p38a_2v_p38a_2j:
+  DDG: -11.45
+  dDDG: 3.49
+  ligandA: p38a_2v
+  ligandB: p38a_2j
+  unit: kilojoules / mole
+p38_edge_p38a_2v_p38a_2x:
+  DDG: -4.89
+  dDDG: 1.24
+  ligandA: p38a_2v
+  ligandB: p38a_2x
+  unit: kilojoules / mole
+p38_edge_p38a_2v_p38a_2y:
+  DDG: -6.49
+  dDDG: 1.71
+  ligandA: p38a_2v
+  ligandB: p38a_2y
+  unit: kilojoules / mole
+p38_edge_p38a_2v_p38a_3fln:
+  DDG: -9.13
+  dDDG: 2.47
+  ligandA: p38a_2v
+  ligandB: p38a_3fln
+  unit: kilojoules / mole
+p38_edge_p38a_2v_p38a_3fly:
+  DDG: -6.73
+  dDDG: 0.46
+  ligandA: p38a_2v
+  ligandB: p38a_3fly
+  unit: kilojoules / mole
+p38_edge_p38a_2v_p38a_3fmh:
+  DDG: -5.6
+  dDDG: 0.98
+  ligandA: p38a_2v
+  ligandB: p38a_3fmh
+  unit: kilojoules / mole
+p38_edge_p38a_2v_p38a_3fmk:
+  DDG: -16.28
+  dDDG: 1.13
+  ligandA: p38a_2v
+  ligandB: p38a_3fmk
+  unit: kilojoules / mole
+p38_edge_p38a_2z_p38a_2aa:
+  DDG: 1.64
+  dDDG: 0.84
+  ligandA: p38a_2z
+  ligandB: p38a_2aa
+  unit: kilojoules / mole
+p38_edge_p38a_2z_p38a_2y:
+  DDG: 3.43
+  dDDG: 1.99
+  ligandA: p38a_2z
+  ligandB: p38a_2y
+  unit: kilojoules / mole
+p38_edge_p38a_2z_p38a_3flq:
+  DDG: -4.43
+  dDDG: 2.02
+  ligandA: p38a_2z
+  ligandB: p38a_3flq
+  unit: kilojoules / mole
+p38_edge_p38a_2z_p38a_3flw:
+  DDG: 1.02
+  dDDG: 3.23
+  ligandA: p38a_2z
+  ligandB: p38a_3flw
+  unit: kilojoules / mole
+p38_edge_p38a_2z_p38a_3fmk:
+  DDG: 0.67
+  dDDG: 1.37
+  ligandA: p38a_2z
+  ligandB: p38a_3fmk
+  unit: kilojoules / mole
+p38_edge_p38a_3fln_p38a_2e:
+  DDG: 4.85
+  dDDG: 0.32
+  ligandA: p38a_3fln
+  ligandB: p38a_2e
+  unit: kilojoules / mole
+p38_edge_p38a_3fln_p38a_2ff:
+  DDG: -1.71
+  dDDG: 0.2
+  ligandA: p38a_3fln
+  ligandB: p38a_2ff
+  unit: kilojoules / mole
+p38_edge_p38a_3fln_p38a_2g:
+  DDG: -0.57
+  dDDG: 0.45
+  ligandA: p38a_3fln
+  ligandB: p38a_2g
+  unit: kilojoules / mole
+p38_edge_p38a_3fln_p38a_2gg:
+  DDG: 2.75
+  dDDG: 1.32
+  ligandA: p38a_3fln
+  ligandB: p38a_2gg
+  unit: kilojoules / mole
+p38_edge_p38a_3fln_p38a_2i:
+  DDG: -1.5
+  dDDG: 0.23
+  ligandA: p38a_3fln
+  ligandB: p38a_2i
+  unit: kilojoules / mole
+p38_edge_p38a_3fln_p38a_2k:
+  DDG: 3.23
+  dDDG: 0.48
+  ligandA: p38a_3fln
+  ligandB: p38a_2k
+  unit: kilojoules / mole
+p38_edge_p38a_3fln_p38a_2n:
+  DDG: -3.78
+  dDDG: 0.9
+  ligandA: p38a_3fln
+  ligandB: p38a_2n
+  unit: kilojoules / mole
+p38_edge_p38a_3fln_p38a_2o:
+  DDG: 5.33
+  dDDG: 1.04
+  ligandA: p38a_3fln
+  ligandB: p38a_2o
+  unit: kilojoules / mole
+p38_edge_p38a_3fln_p38a_2p:
+  DDG: -2.06
+  dDDG: 1.18
+  ligandA: p38a_3fln
+  ligandB: p38a_2p
+  unit: kilojoules / mole
+p38_edge_p38a_3fln_p38a_2r:
+  DDG: 0.68
+  dDDG: 1.24
+  ligandA: p38a_3fln
+  ligandB: p38a_2r
+  unit: kilojoules / mole
+p38_edge_p38a_3fln_p38a_2s:
+  DDG: 1.24
+  dDDG: 1.16
+  ligandA: p38a_3fln
+  ligandB: p38a_2s
+  unit: kilojoules / mole
+p38_edge_p38a_3fln_p38a_2t:
+  DDG: -2.44
+  dDDG: 0.78
+  ligandA: p38a_3fln
+  ligandB: p38a_2t
+  unit: kilojoules / mole
+p38_edge_p38a_3fln_p38a_3flz:
+  DDG: 2.94
+  dDDG: 1.05
+  ligandA: p38a_3fln
+  ligandB: p38a_3flz
+  unit: kilojoules / mole
+p38_edge_p38a_3fly_p38a_2x:
+  DDG: 2.12
+  dDDG: 1.61
+  ligandA: p38a_3fly
+  ligandB: p38a_2x
+  unit: kilojoules / mole
+p38_edge_p38a_3fly_p38a_3flq:
+  DDG: 3.85
+  dDDG: 0.84
+  ligandA: p38a_3fly
+  ligandB: p38a_3flq
+  unit: kilojoules / mole
+p38_edge_p38a_3fly_p38a_3fmh:
+  DDG: -0.09
+  dDDG: 2.27
+  ligandA: p38a_3fly
+  ligandB: p38a_3fmh
+  unit: kilojoules / mole
+p38_edge_p38a_3flz_p38a_2c:
+  DDG: -3.18
+  dDDG: 1.48
+  ligandA: p38a_3flz
+  ligandB: p38a_2c
+  unit: kilojoules / mole
+p38_edge_p38a_3flz_p38a_2g:
+  DDG: -3.28
+  dDDG: 0.31
+  ligandA: p38a_3flz
+  ligandB: p38a_2g
+  unit: kilojoules / mole

@@ -1,0 +1,144 @@
+tyk2_edge_ejm_31_ejm_43:
+  DDG: 7.37
+  dDDG: 0.51
+  ligandA: ejm_31
+  ligandB: ejm_43
+  unit: kilojoules / mole
+tyk2_edge_ejm_31_ejm_45:
+  DDG: -1.32
+  dDDG: 0.64
+  ligandA: ejm_31
+  ligandB: ejm_45
+  unit: kilojoules / mole
+tyk2_edge_ejm_31_ejm_46:
+  DDG: -2.55
+  dDDG: 0.4
+  ligandA: ejm_31
+  ligandB: ejm_46
+  unit: kilojoules / mole
+tyk2_edge_ejm_31_ejm_48:
+  DDG: 5.42
+  dDDG: 1.16
+  ligandA: ejm_31
+  ligandB: ejm_48
+  unit: kilojoules / mole
+tyk2_edge_ejm_31_jmc_28:
+  DDG: 3.27
+  dDDG: 0.68
+  ligandA: ejm_31
+  ligandB: jmc_28
+  unit: kilojoules / mole
+tyk2_edge_ejm_42_ejm_48:
+  DDG: 6.96
+  dDDG: 0.44
+  ligandA: ejm_42
+  ligandB: ejm_48
+  unit: kilojoules / mole
+tyk2_edge_ejm_42_ejm_54:
+  DDG: -4.84
+  dDDG: 0.53
+  ligandA: ejm_42
+  ligandB: ejm_54
+  unit: kilojoules / mole
+tyk2_edge_ejm_42_ejm_55:
+  DDG: -3.29
+  dDDG: 0.76
+  ligandA: ejm_42
+  ligandB: ejm_55
+  unit: kilojoules / mole
+tyk2_edge_ejm_43_ejm_55:
+  DDG: -10.54
+  dDDG: 0.71
+  ligandA: ejm_43
+  ligandB: ejm_55
+  unit: kilojoules / mole
+tyk2_edge_ejm_44_ejm_42:
+  DDG: -19.45
+  dDDG: 2.5
+  ligandA: ejm_44
+  ligandB: ejm_42
+  unit: kilojoules / mole
+tyk2_edge_ejm_44_ejm_55:
+  DDG: -17.7
+  dDDG: 1.32
+  ligandA: ejm_44
+  ligandB: ejm_55
+  unit: kilojoules / mole
+tyk2_edge_ejm_45_ejm_42:
+  DDG: 3.11
+  dDDG: 0.5
+  ligandA: ejm_45
+  ligandB: ejm_42
+  unit: kilojoules / mole
+tyk2_edge_ejm_47_ejm_31:
+  DDG: -2.9
+  dDDG: 2.54
+  ligandA: ejm_47
+  ligandB: ejm_31
+  unit: kilojoules / mole
+tyk2_edge_ejm_47_ejm_55:
+  DDG: -6.48
+  dDDG: 0.42
+  ligandA: ejm_47
+  ligandB: ejm_55
+  unit: kilojoules / mole
+tyk2_edge_ejm_49_ejm_31:
+  DDG: -4.19
+  dDDG: 0.77
+  ligandA: ejm_49
+  ligandB: ejm_31
+  unit: kilojoules / mole
+tyk2_edge_ejm_49_ejm_50:
+  DDG: -5.39
+  dDDG: 0.71
+  ligandA: ejm_49
+  ligandB: ejm_50
+  unit: kilojoules / mole
+tyk2_edge_ejm_50_ejm_42:
+  DDG: -1.93
+  dDDG: 0.85
+  ligandA: ejm_50
+  ligandB: ejm_42
+  unit: kilojoules / mole
+tyk2_edge_ejm_55_ejm_54:
+  DDG: -0.76
+  dDDG: 1.28
+  ligandA: ejm_55
+  ligandB: ejm_54
+  unit: kilojoules / mole
+tyk2_edge_jmc_23_ejm_46:
+  DDG: -0.4
+  dDDG: 0.2
+  ligandA: jmc_23
+  ligandB: ejm_46
+  unit: kilojoules / mole
+tyk2_edge_jmc_23_ejm_55:
+  DDG: -0.33
+  dDDG: 1.87
+  ligandA: jmc_23
+  ligandB: ejm_55
+  unit: kilojoules / mole
+tyk2_edge_jmc_23_jmc_27:
+  DDG: 2.18
+  dDDG: 0.65
+  ligandA: jmc_23
+  ligandB: jmc_27
+  unit: kilojoules / mole
+tyk2_edge_jmc_23_jmc_30:
+  DDG: 2.04
+  dDDG: 0.81
+  ligandA: jmc_23
+  ligandB: jmc_30
+  unit: kilojoules / mole
+tyk2_edge_jmc_28_jmc_27:
+  DDG: -2.0
+  dDDG: 0.56
+  ligandA: jmc_28
+  ligandB: jmc_27
+  unit: kilojoules / mole
+tyk2_edge_jmc_28_jmc_30:
+  DDG: -2.81
+  dDDG: 0.46
+  ligandA: jmc_28
+  ligandB: jmc_30
+  unit: kilojoules / mole
