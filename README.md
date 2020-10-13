@@ -1,8 +1,9 @@
 benchmarkpl
 ==============================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/benchmarkpl/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/benchmarkpl/actions?query=branch%3Amaster+workflow%3ACI)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/benchmarkpl/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/benchmarkpl/branch/master)
+[![GitHub Actions Build Status](https://github.com/dfhahn/benchmarkpl/workflows/CI/badge.svg)](https://github.com/dfhahn/benchmarkpl/actions?query=branch%3Amaster+workflow%3ACI)
+[![codecov](https://codecov.io/gh/dfhahn/benchmarkpl/branch/master/graph/badge.svg)](https://codecov.io/gh/dfhahn/benchmarkpl/branch/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfhahn/benchmarkpl.git/master)
 
 
 Analyses of protein-ligand free energy benchmark calculations.
