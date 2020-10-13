@@ -1,8 +1,17 @@
-from plotly import colors
+import numpy as np
+from scipy.stats import norm
+import pandas as pd
+
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
+from  plotly import colors
 from rdkit import Chem
 from rdkit.Chem import Draw, rdDepictor, rdFMCS, TemplateAlign
 from rdkit.Chem.Draw import rdMolDraw2D
 from svgutils import transform as sg
+
+from PLBenchmarks import targets, ligands, edges
+
 
 newcolors = []
 c = [colors.hex_to_rgb(c) for c in colors.cyclical.mrybm]
@@ -102,3 +111,45 @@ def drawPerturbation(m1, m2, pairs, target='', n1='', n2='', text=''):
     fig.append(label3)
     fig.append(label4)
     return fig.to_str().decode("utf-8") 
+
+
+
+def hist(results, c1, c2, title=''):
+    fig = go.Figure()
+    nan = [np.isnan(row[c1]) for i, row in results.iterrows()]
+    results = results.loc[np.invert(nan), :]
+    nan = [np.isnan(row[c2]) for i, row in results.iterrows()]
+    results = results.loc[np.invert(nan), :]
+    diff = results[c1]-results[c2]
+
+    mu, std = norm.fit(np.array(diff, dtype=float))
+
+    fig.update_layout(
+        width=600,
+        title=title,
+        barmode='stack', 
+        xaxis = dict(title='DDG(parsley)-DDG(exp) [kcal mol<sup>-1</sup>]', range=(-8,8)),
+        yaxis = dict(title='Count', range=(0,150)),
+        colorway=colors.qualitative.Safe + colors.qualitative.Vivid
+    )
+    for i, target in enumerate(targets.target_dict):
+        fig.add_trace(
+            go.Histogram(
+                x=diff[results['target']==target], 
+                xbins_size=0.5, 
+                name=target,
+                marker_color=fig.layout.colorway[i],
+                legendgroup='group1'
+            )
+        )
+        
+    fig.add_trace(
+        go.Scatter(
+        x=np.linspace(-7,7),
+        y=norm.pdf(np.linspace(-7,7), mu, std)*diff.shape[0]*.5,
+            line_color='black',
+            line_width=3,
+            name=f'$\mu={mu:.1f}, \sigma={std:.1f}$'    
+        )
+    )  
+    return fig

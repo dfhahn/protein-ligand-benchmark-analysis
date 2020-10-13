@@ -155,20 +155,20 @@ cmet_edge_CHEMBL3402747_3400_7_CHEMBL3402755_4200_15:
   ligandB: CHEMBL3402755_4200_15
   unit: kilocalories / mole
 cmet_edge_CHEMBL3402748_5300_8_CHEMBL3402751_2100_11:
-  DDG: -1.84
-  dDDG: 0.13
+  DDG: -13.65
+  dDDG: 1.53
   ligandA: CHEMBL3402748_5300_8
   ligandB: CHEMBL3402751_2100_11
   unit: kilocalories / mole
 cmet_edge_CHEMBL3402749_500_9_CHEMBL3402748_5300_8:
-  DDG: 8.38
-  dDDG: 0.24
+  DDG: 29.46
+  dDDG: 4.49
   ligandA: CHEMBL3402749_500_9
   ligandB: CHEMBL3402748_5300_8
   unit: kilocalories / mole
 cmet_edge_CHEMBL3402750_400_10_CHEMBL3402748_5300_8:
   DDG: 1.7
-  dDDG: 0.07
+  dDDG: 0.06
   ligandA: CHEMBL3402750_400_10
   ligandB: CHEMBL3402748_5300_8
   unit: kilocalories / mole
