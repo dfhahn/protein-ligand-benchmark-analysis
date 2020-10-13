@@ -23,7 +23,7 @@ ligands:
     - lig_jmc_30
     - target_tyk2.yml
 references:
-    - measurement: doi
-    - calculation: doi
+    measurement: doi
+    calculation: doi
 comments:  ""
 associated_sets:

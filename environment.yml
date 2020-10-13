@@ -1,5 +1,6 @@
 name: benchmarkpl
-channels: 
+channels:
+  - plotly
   - conda-forge
   - omnia
 dependencies:
@@ -18,15 +19,20 @@ dependencies:
   - pandas
   - rdkit
   - svgutils
-  - pint
+  - conda-forge::pint
   - tqdm
   - pyyaml
   - matplotlib
   - networkx
   - openforcefield
   - gitpython 
+  - seaborn 
+  - scikit-learn
+  - plotly::plotly-orca
+  - psutil
 
     # Pip-only installs
   - pip:
      - '--editable=git+https://github.com/openforcefield/PLBenchmarks.git@b050a84#egg=PLBenchmarks'
+     - '--editable=git+https://github.com/openforcefield/Arsenic.git@0dadc5c#egg=arsenic'
 
