@@ -33,6 +33,6 @@ dependencies:
 
     # Pip-only installs
   - pip:
-     - '--editable=git+https://github.com/openforcefield/PLBenchmarks.git@b050a84#egg=PLBenchmarks'
+     - '--editable=git+https://github.com/openforcefield/PLBenchmarks.git@1974a3e#egg=PLBenchmarks'
      - '--editable=git+https://github.com/openforcefield/Arsenic.git@0dadc5c#egg=arsenic'
 
