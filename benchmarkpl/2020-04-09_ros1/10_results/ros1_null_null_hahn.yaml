@@ -4,11 +4,35 @@ ros1_edge_0529_6770:
   ligandA: 0529
   ligandB: '6770'
   unit: kilocalories / mole
+ros1_edge_0681_1537:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: 0681
+  ligandB: '1537'
+  unit: kilocalories / mole
+ros1_edge_0681_1872:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: 0681
+  ligandB: '1872'
+  unit: kilocalories / mole
+ros1_edge_0681_5109:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: 0681
+  ligandB: '5109'
+  unit: kilocalories / mole
 ros1_edge_0681_6770:
   DDG: 0.0
   dDDG: 0.1
   ligandA: 0681
   ligandB: '6770'
+  unit: kilocalories / mole
+ros1_edge_0681_7454:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: 0681
+  ligandB: '7454'
   unit: kilocalories / mole
 ros1_edge_0798_1859:
   DDG: 0.0
@@ -70,11 +94,29 @@ ros1_edge_1495_8602:
   ligandA: '1495'
   ligandB: '8602'
   unit: kilocalories / mole
+ros1_edge_1537_0529:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '1537'
+  ligandB: 0529
+  unit: kilocalories / mole
 ros1_edge_1537_6770:
   DDG: 0.0
   dDDG: 0.1
   ligandA: '1537'
   ligandB: '6770'
+  unit: kilocalories / mole
+ros1_edge_1859_2879:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '1859'
+  ligandB: '2879'
+  unit: kilocalories / mole
+ros1_edge_1859_4326:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '1859'
+  ligandB: '4326'
   unit: kilocalories / mole
 ros1_edge_1859_8654:
   DDG: 0.0
@@ -88,11 +130,29 @@ ros1_edge_1859_9373:
   ligandA: '1859'
   ligandB: '9373'
   unit: kilocalories / mole
+ros1_edge_1872_6674:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '1872'
+  ligandB: '6674'
+  unit: kilocalories / mole
 ros1_edge_1872_6770:
   DDG: 0.0
   dDDG: 0.1
   ligandA: '1872'
   ligandB: '6770'
+  unit: kilocalories / mole
+ros1_edge_2359_1495:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '2359'
+  ligandB: '1495'
+  unit: kilocalories / mole
+ros1_edge_2359_3040:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '2359'
+  ligandB: '3040'
   unit: kilocalories / mole
 ros1_edge_2359_3053:
   DDG: 0.0
@@ -100,17 +160,47 @@ ros1_edge_2359_3053:
   ligandA: '2359'
   ligandB: '3053'
   unit: kilocalories / mole
+ros1_edge_2359_3507:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '2359'
+  ligandB: '3507'
+  unit: kilocalories / mole
+ros1_edge_2606_3053:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '2606'
+  ligandB: '3053'
+  unit: kilocalories / mole
+ros1_edge_2879_1872:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '2879'
+  ligandB: '1872'
+  unit: kilocalories / mole
 ros1_edge_2879_6770:
   DDG: 0.0
   dDDG: 0.1
   ligandA: '2879'
   ligandB: '6770'
   unit: kilocalories / mole
+ros1_edge_3040_3053:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '3040'
+  ligandB: '3053'
+  unit: kilocalories / mole
 ros1_edge_3053_8602:
   DDG: 0.0
   dDDG: 0.1
   ligandA: '3053'
   ligandB: '8602'
+  unit: kilocalories / mole
+ros1_edge_3507_0798:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '3507'
+  ligandB: 0798
   unit: kilocalories / mole
 ros1_edge_3507_6770:
   DDG: 0.0
@@ -136,6 +226,18 @@ ros1_edge_4451_6674:
   ligandA: '4451'
   ligandB: '6674'
   unit: kilocalories / mole
+ros1_edge_5602_3040:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '5602'
+  ligandB: '3040'
+  unit: kilocalories / mole
+ros1_edge_5602_3507:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '5602'
+  ligandB: '3507'
+  unit: kilocalories / mole
 ros1_edge_5602_7454:
   DDG: 0.0
   dDDG: 0.1
@@ -148,6 +250,18 @@ ros1_edge_6674_6770:
   ligandA: '6674'
   ligandB: '6770'
   unit: kilocalories / mole
+ros1_edge_6691_5109:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '6691'
+  ligandB: '5109'
+  unit: kilocalories / mole
+ros1_edge_6691_9373:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '6691'
+  ligandB: '9373'
+  unit: kilocalories / mole
 ros1_edge_6770_8550:
   DDG: 0.0
   dDDG: 0.1
@@ -159,4 +273,106 @@ ros1_edge_6770_8794:
   dDDG: 0.1
   ligandA: '6770'
   ligandB: '8794'
+  unit: kilocalories / mole
+ros1_edge_7447_2606:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '7447'
+  ligandB: '2606'
+  unit: kilocalories / mole
+ros1_edge_7447_4326:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '7447'
+  ligandB: '4326'
+  unit: kilocalories / mole
+ros1_edge_7447_4451:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '7447'
+  ligandB: '4451'
+  unit: kilocalories / mole
+ros1_edge_7447_9373:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '7447'
+  ligandB: '9373'
+  unit: kilocalories / mole
+ros1_edge_8550_0798:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '8550'
+  ligandB: 0798
+  unit: kilocalories / mole
+ros1_edge_8550_1495:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '8550'
+  ligandB: '1495'
+  unit: kilocalories / mole
+ros1_edge_8550_7454:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '8550'
+  ligandB: '7454'
+  unit: kilocalories / mole
+ros1_edge_8602_2606:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '8602'
+  ligandB: '2606'
+  unit: kilocalories / mole
+ros1_edge_8602_5109:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '8602'
+  ligandB: '5109'
+  unit: kilocalories / mole
+ros1_edge_8654_0529:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '8654'
+  ligandB: 0529
+  unit: kilocalories / mole
+ros1_edge_8794_6674:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '8794'
+  ligandB: '6674'
+  unit: kilocalories / mole
+ros1_edge_8794_7454:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '8794'
+  ligandB: '7454'
+  unit: kilocalories / mole
+ros1_edge_9022_2879:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '9022'
+  ligandB: '2879'
+  unit: kilocalories / mole
+ros1_edge_9022_9373:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '9022'
+  ligandB: '9373'
+  unit: kilocalories / mole
+ros1_edge_9373_0529:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '9373'
+  ligandB: 0529
+  unit: kilocalories / mole
+ros1_edge_9373_1495:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '9373'
+  ligandB: '1495'
+  unit: kilocalories / mole
+ros1_edge_9373_5602:
+  DDG: 0.0
+  dDDG: 0.1
+  ligandA: '9373'
+  ligandB: '5602'
   unit: kilocalories / mole

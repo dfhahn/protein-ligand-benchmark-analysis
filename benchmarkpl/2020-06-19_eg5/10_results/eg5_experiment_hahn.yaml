@@ -16,6 +16,12 @@ eg5_edge_CHEMBL1077204_CHEMBL1084676:
   ligandA: CHEMBL1077204
   ligandB: CHEMBL1084676
   unit: kilocalories / mole
+eg5_edge_CHEMBL1077227_CHEMBL1078998:
+  DDG: 0.95
+  dDDG: 0.0
+  ligandA: CHEMBL1077227
+  ligandB: CHEMBL1078998
+  unit: kilocalories / mole
 eg5_edge_CHEMBL1077227_CHEMBL1084935:
   DDG: 0.79
   dDDG: 0.0
@@ -297,6 +303,12 @@ eg5_edge_CHEMBL1086410_CHEMBL1084935:
   dDDG: 0.0
   ligandA: CHEMBL1086410
   ligandB: CHEMBL1084935
+  unit: kilocalories / mole
+eg5_edge_CHEMBL1086410_CHEMBL1089056:
+  DDG: 2.03
+  dDDG: 0.0
+  ligandA: CHEMBL1086410
+  ligandB: CHEMBL1089056
   unit: kilocalories / mole
 eg5_edge_CHEMBL1086410_CHEMBL1096002:
   DDG: 0.34

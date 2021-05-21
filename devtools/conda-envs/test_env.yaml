@@ -1,5 +1,7 @@
 name: test
-channels:
+channels: 
+  - omnia
+  - conda-forge
 dependencies:
     # Base depends
   - python
@@ -9,6 +11,18 @@ dependencies:
   - pytest
   - pytest-cov
   - codecov
+
+  - os
+  - re
+
+  - numpy
+  - scipy
+  - plotly
+  - pandas
+  - rdkit
+  - svgutils
+  - pint
+  - tqdm
 
     # Pip-only installs
   #- pip:

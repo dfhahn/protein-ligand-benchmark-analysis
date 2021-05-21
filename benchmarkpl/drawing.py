@@ -39,7 +39,7 @@ def drawPerturbation(m1, m2, pairs, target='', n1='', n2='', text=''):
 #     d2d.SetDrawOptions(drawoptions)
 #     drawoptions.centreMoleculesBeforeDrawing = False
     # Generate 2D Depictions
-    mcs = rdFMCS.FindMCS([m1,m2], 
+    mcs = rdFMCS.FindMCS([m1,m2],  maximizeBonds=True, bondCompare=rdFMCS.BondCompare.CompareAny, atomCompare=rdFMCS.AtomCompare.CompareElements,
                          timeout=10) # find maximum common substructure (MCS)
     pattern = Chem.MolFromSmarts(mcs.smartsString) # generate mol with MCS
     match = m1.GetSubstructMatch(pattern) # get substruct match of MCS with first mol
@@ -50,8 +50,8 @@ def drawPerturbation(m1, m2, pairs, target='', n1='', n2='', text=''):
     pattern.AddConformer(cnf) # add conformer to pattern
     
     Chem.rdDepictor.GenerateDepictionMatching3DStructure(pattern, pattern) # generate depict of pattern matching 3D struct
-    TemplateAlign.AlignMolToTemplate2D(m1,pattern) # generate depict for m1 aligned to pattern
-    TemplateAlign.AlignMolToTemplate2D(m2,pattern) # generate depict for m2 aligned to pattern
+    TemplateAlign.AlignMolToTemplate2D(m1,pattern, clearConfs=True) # generate depict for m1 aligned to pattern
+    TemplateAlign.AlignMolToTemplate2D(m2,pattern, clearConfs=True) # generate depict for m2 aligned to pattern
 
     specialHighlight = []
     for i, p in enumerate(pairs):
@@ -98,6 +98,60 @@ def drawPerturbation(m1, m2, pairs, target='', n1='', n2='', text=''):
 #     s = s.replace('svg:','')
     fig = sg.fromstring(s)
     
+    label = sg.TextElement(300, 20, f'{target} {n1} -> {n2} ', size=20, 
+                       font='sans-serif', anchor='middle', color='black')
+    label1 = sg.TextElement(150, 285, f'{n1}', size=15, 
+                       font='sans-serif', anchor='middle', color='black')
+    label2 = sg.TextElement(450, 285, f'{n2}', size=15, 
+                       font='sans-serif', anchor='middle', color='black')
+    fig.append(label) 
+    fig.append(label1) 
+    fig.append(label2)
+    return fig.to_str().decode("utf-8") 
+
+def add_test_to_perturbation(fig_string, text):
+    fig = sg.fromstring(s)
+    
+    label = sg.TextElement(300, 35, f'{text}', size=15, 
+                       font='sans-serif', anchor='middle', color='black')
+    fig.append(label) 
+    return fig.to_str().decode("utf-8") 
+
+def drawPerturbationBare(m1, m2, pairs, target='', n1='', n2='', text=''):
+    d2d = rdMolDraw2D.MolDraw2DSVG(600,300,300,300)
+    drawoptions = d2d.drawOptions()
+    drawoptions.padding = 0.15
+    drawoptions.prepareMolsBeforeDrawing = True
+#     drawoptions.addAtomIndices = True
+#     drawoptions.atomsLabels = True
+#     d2d.SetDrawOptions(drawoptions)
+#     drawoptions.centreMoleculesBeforeDrawing = False
+    # Generate 2D Depictions
+#         atom.SetProp('atomLabel',str(atom.GetIdx()))
+#     for atom in m2.GetAtoms():
+#         atom.SetProp('atomLabel',str(atom.GetIdx()))        
+    Chem.rdDepictor.Compute2DCoords(m1)
+    Chem.rdDepictor.Compute2DCoords(m2)
+    d2d.DrawMolecules([m1, m2])
+
+#     conf = m2.GetConformer(0)
+#     crds=np.array([list(conf.GetAtomPosition(i)) for i in range(m2.GetNumAtoms())])
+#     xrange = np.max(crds[:,0]) - np.min(crds[:,0])
+#     yrange = np.max(crds[:,1]) - np.min(crds[:,1])
+#     textx = -xrange*0.7
+#     texty = yrange*0.7
+# #d2d.SetOffset(0,0)
+#     drawoptions.setSymbolColour((1,1,1))
+#     d2d.SetFontSize(d2d.FontSize()*1.5)
+#     d2d.DrawString(f'{target}', Point2D(textx, texty))
+#     d2d.DrawString(f'{n1}->{n2}', Point2D(textx, texty-.75))
+#     print(list(d2d.Offset()))
+#     print(list(d2d.GetDrawCoords(Point2D(np.min(crds[:,0]), np.max(crds[:,1])))))
+    d2d.FinishDrawing()
+    s = d2d.GetDrawingText()
+#     s = s.replace('svg:','')
+    fig = sg.fromstring(s)
+    
     label = sg.TextElement(300, 20, f'{target}: {n1} -> {n2}', size=20, 
                        font='sans-serif', anchor='middle', color='black')
     label2 = sg.TextElement(300, 35, f'{text}', size=15, 
@@ -114,7 +168,7 @@ def drawPerturbation(m1, m2, pairs, target='', n1='', n2='', text=''):
 
 
 
-def hist(results, c1, c2, title=''):
+def hist(results, c1, c2, ax_max=None, title=''):
     fig = go.Figure()
     nan = [np.isnan(row[c1]) for i, row in results.iterrows()]
     results = results.loc[np.invert(nan), :]
@@ -124,21 +178,24 @@ def hist(results, c1, c2, title=''):
 
     mu, std = norm.fit(np.array(diff, dtype=float))
 
+    if ax_max is None:
+        ax_max=np.max(norm.pdf(np.linspace(-7,7), mu, std)*diff.shape[0])
     fig.update_layout(
         width=600,
         title=title,
         barmode='stack', 
         xaxis = dict(title='DDG(parsley)-DDG(exp) [kcal mol<sup>-1</sup>]', range=(-8,8)),
-        yaxis = dict(title='Count', range=(0,150)),
+        yaxis = dict(title='Count', range=(0,ax_max)),
         colorway=colors.qualitative.Safe + colors.qualitative.Vivid
     )
+    max_color = len(fig.layout.colorway)
     for i, target in enumerate(targets.target_dict):
         fig.add_trace(
             go.Histogram(
                 x=diff[results['target']==target], 
                 xbins_size=0.5, 
                 name=target,
-                marker_color=fig.layout.colorway[i],
+                marker_color=fig.layout.colorway[i%max_color],
                 legendgroup='group1'
             )
         )
