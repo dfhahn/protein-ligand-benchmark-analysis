@@ -2,6 +2,8 @@ Protein-Ligand Benchmark Analysis
 =================================
 [//]: # (Badges)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfhahn/benchmarkpl.git/master)
+[![DOI](https://zenodo.org/badge/290721430.svg)](https://zenodo.org/badge/latestdoi/290721430)
+
 
 
 Analyses of protein-ligand free energy benchmark calculations.
