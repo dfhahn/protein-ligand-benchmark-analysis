@@ -1,0 +1,19 @@
+# Statistics for target tyk2 and method fep+_opls3e compared to exp. values:
+# RMSE: root mean square deviation
+# MUE: mean unsigned error
+# R2: coefficient of determination
+# rho: Pearson's correlation coefficent
+# KTAU: Kendall's tau
+# mle: maximum likelihood estimate
+# stderr: standard error
+# mean: average result of bootstrap samples (1000)
+# low: lower bound of 95% confidence interval
+# high: higher bound of 95% confidence interval
+# All energy values (RMSE, MUE) in kcal/mol
+# Values generated with Arsenic
+,mle,stderr,mean,low,high
+RMSE,0.50,0.11,0.48,0.26,0.69
+MUE,0.35,0.09,0.35,0.18,0.55
+R2,0.85,0.08,0.85,0.64,0.97
+rho,0.92,0.05,0.92,0.80,0.98
+KTAU,0.73,0.13,0.73,0.42,0.94

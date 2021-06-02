@@ -1,0 +1,19 @@
+# Statistics for target p38 and method pmx_cgenff_gapsys compared to exp. values:
+# RMSE: root mean square deviation
+# MUE: mean unsigned error
+# R2: coefficient of determination
+# rho: Pearson's correlation coefficent
+# KTAU: Kendall's tau
+# mle: maximum likelihood estimate
+# stderr: standard error
+# mean: average result of bootstrap samples (1000)
+# low: lower bound of 95% confidence interval
+# high: higher bound of 95% confidence interval
+# All energy values (RMSE, MUE) in kcal/mol
+# Values generated with Arsenic
+,mle,stderr,mean,low,high
+RMSE,1.23,0.17,1.21,0.90,1.54
+MUE,0.94,0.13,0.95,0.70,1.22
+R2,0.50,0.10,0.50,0.29,0.69
+rho,0.71,0.07,0.71,0.54,0.83
+KTAU,0.52,0.08,0.52,0.36,0.68

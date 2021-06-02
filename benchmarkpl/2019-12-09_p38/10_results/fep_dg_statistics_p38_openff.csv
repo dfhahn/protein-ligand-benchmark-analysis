@@ -1,0 +1,19 @@
+# Statistics for target p38 and method openff compared to exp. values:
+# RMSE: root mean square deviation
+# MUE: mean unsigned error
+# R2: coefficient of determination
+# rho: Pearson's correlation coefficent
+# KTAU: Kendall's tau
+# mle: maximum likelihood estimate
+# stderr: standard error
+# mean: average result of bootstrap samples (1000)
+# low: lower bound of 95% confidence interval
+# high: higher bound of 95% confidence interval
+# All energy values (RMSE, MUE) in kcal/mol
+# Values generated with Arsenic
+,mle,stderr,mean,low,high
+RMSE,1.14,0.18,1.12,0.80,1.48
+MUE,0.85,0.13,0.85,0.61,1.12
+R2,0.56,0.10,0.57,0.36,0.76
+rho,0.75,0.07,0.75,0.61,0.87
+KTAU,0.60,0.08,0.60,0.43,0.75
