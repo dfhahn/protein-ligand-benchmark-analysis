@@ -1,8 +1,6 @@
-benchmarkpl
-==============================
+Protein-Ligand Benchmark Analysis
+=================================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/dfhahn/benchmarkpl/workflows/CI/badge.svg)](https://github.com/dfhahn/benchmarkpl/actions?query=branch%3Amaster+workflow%3ACI)
-[![codecov](https://codecov.io/gh/dfhahn/benchmarkpl/branch/master/graph/badge.svg)](https://codecov.io/gh/dfhahn/benchmarkpl/branch/master)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfhahn/benchmarkpl.git/master)
 
 
@@ -16,7 +14,7 @@ CC-BY-4.0 for data. See the [License File](LICENSE_DATA) for more information.
 
 ### Copyright
 
-Copyright (c) 2020, Open Force Field, David F. Hahn
+Copyright (c) 2021, Open Force Field, David F. Hahn
 
 
 #### Acknowledgements
