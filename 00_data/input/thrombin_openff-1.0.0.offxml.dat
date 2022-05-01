@@ -1,18 +1,18 @@
-#1_edge   2_ddg  3_ddg_err  4_ddg_aerr
-#all values in kJ/mol
-edge_1d_6e  -1.49  0.15  0.16
- edge_1d_5  0.70  0.35  0.35
-edge_1b_3b  2.93  0.18  0.19
-edge_6a_1b  -1.37  0.24  0.24
-edge_1b_1c  1.29  0.11  0.11
-edge_1d_1c  -1.03  0.08  0.09
-edge_1b_1a  1.59  0.13  0.12
- edge_1a_5  -0.20  0.19  0.18
-edge_3a_1d  1.41  0.15  0.15
-edge_6a_6b  1.09  0.09  0.09
-edge_1d_7a  -0.30  0.15  0.15
-edge_1b_7a  1.69  0.28  0.27
-edge_3a_1b  -0.18  0.13  0.13
-edge_1d_1a  -0.86  0.31  0.31
-edge_1a_3b  1.92  0.36  0.38
-edge_6e_6b  1.44  0.10  0.10
+#1_edge   2_ddg  3_ddg_err
+#all values in kcal/mol
+edge_1d_6e  -1.49  0.14
+ edge_1d_5  0.70  0.35
+edge_1b_3b  2.93  0.19
+edge_6a_1b  -1.37  0.24
+edge_1b_1c  1.29  0.12
+edge_1d_1c  -1.03  0.08
+edge_1b_1a  1.59  0.13
+ edge_1a_5  -0.20  0.20
+edge_3a_1d  1.41  0.15
+edge_6a_6b  1.09  0.09
+edge_1d_7a  -0.30  0.15
+edge_1b_7a  1.69  0.27
+edge_3a_1b  -0.18  0.13
+edge_1d_1a  -0.86  0.31
+edge_1a_3b  1.92  0.36
+edge_6e_6b  1.44  0.10
