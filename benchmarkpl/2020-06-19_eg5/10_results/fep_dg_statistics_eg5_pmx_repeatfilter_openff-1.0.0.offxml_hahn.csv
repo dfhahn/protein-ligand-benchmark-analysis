@@ -1,0 +1,19 @@
+# Statistics for target eg5 and method pmx_repeatfilter_openff-1.0.0.offxml_hahn compared to exp. values:
+# RMSE: root mean square deviation
+# MUE: mean unsigned error
+# R2: coefficient of determination
+# rho: Pearson's correlation coefficent
+# KTAU: Kendall's tau
+# mle: maximum likelihood estimate
+# stderr: standard error
+# mean: average result of bootstrap samples (1000)
+# low: lower bound of 95% confidence interval
+# high: higher bound of 95% confidence interval
+# All energy values (RMSE, MUE) in kcal/mol
+# Values generated with Arsenic
+,mle,stderr,mean,low,high
+RMSE,1.57,0.23,1.56,1.12,2.01
+MUE,1.19,0.21,1.18,0.80,1.62
+R2,0.13,0.10,0.14,0.00,0.40
+rho,0.36,0.13,0.35,0.06,0.61
+KTAU,0.22,0.14,0.21,-0.08,0.49

@@ -1,0 +1,19 @@
+# Statistics for target cdk8 and method pmx_repeatfilter_openff-1.0.0.offxml_hahn compared to exp. values:
+# RMSE: root mean square deviation
+# MUE: mean unsigned error
+# R2: coefficient of determination
+# rho: Pearson's correlation coefficent
+# KTAU: Kendall's tau
+# mle: maximum likelihood estimate
+# stderr: standard error
+# mean: average result of bootstrap samples (1000)
+# low: lower bound of 95% confidence interval
+# high: higher bound of 95% confidence interval
+# All energy values (RMSE, MUE) in kcal/mol
+# Values generated with Arsenic
+,mle,stderr,mean,low,high
+RMSE,1.17,0.14,1.17,0.89,1.45
+MUE,0.98,0.12,0.98,0.76,1.22
+R2,0.62,0.11,0.63,0.41,0.82
+rho,0.79,0.07,0.79,0.65,0.90
+KTAU,0.65,0.10,0.65,0.45,0.81

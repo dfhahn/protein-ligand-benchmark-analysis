@@ -1,0 +1,19 @@
+# Statistics for target ros1 and method pmx_commonfilter_openff_hahn compared to exp. values:
+# RMSE: root mean square deviation
+# MUE: mean unsigned error
+# R2: coefficient of determination
+# rho: Pearson's correlation coefficent
+# KTAU: Kendall's tau
+# mle: maximum likelihood estimate
+# stderr: standard error
+# mean: average result of bootstrap samples (1000)
+# low: lower bound of 95% confidence interval
+# high: higher bound of 95% confidence interval
+# All energy values (RMSE, MUE) in kcal/mol
+# Values generated with Arsenic
+,mle,stderr,mean,low,high
+RMSE,1.32,0.17,1.31,0.96,1.64
+MUE,1.00,0.16,1.00,0.69,1.33
+R2,0.21,0.13,0.23,0.02,0.51
+rho,0.46,0.15,0.45,0.12,0.72
+KTAU,0.30,0.13,0.30,0.04,0.55

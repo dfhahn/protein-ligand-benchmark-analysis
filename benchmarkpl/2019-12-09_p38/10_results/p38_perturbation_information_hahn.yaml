@@ -1,0 +1,560 @@
+p38_edge_p38a_2aa_p38a_2bb:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 31.972071000000085
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: p38a_2aa
+  ligandB: p38a_2bb
+p38_edge_p38a_2aa_p38a_3flw:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 28.031300128000055
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: p38a_2aa
+  ligandB: p38a_3flw
+p38_edge_p38a_2e_p38a_2j:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 16.011313632000395
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2e
+  ligandB: p38a_2j
+p38_edge_p38a_2ee_p38a_2j:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 43.005813651999574
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: p38a_2ee
+  ligandB: p38a_2j
+p38_edge_p38a_2ee_p38a_3fln:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 41.026549096
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: p38a_2ee
+  ligandB: p38a_3fln
+p38_edge_p38a_2g_p38a_2c:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 0.02446515999992016
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: p38a_2g
+  ligandB: p38a_2c
+p38_edge_p38a_2g_p38a_2f:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.0
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2g
+  ligandB: p38a_2f
+p38_edge_p38a_2g_p38a_2h:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 15.977156379999997
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2g
+  ligandB: p38a_2h
+p38_edge_p38a_2g_p38a_2i:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 1.9792645559995776
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2g
+  ligandB: p38a_2i
+p38_edge_p38a_2gg_p38a_2j:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 49.94625017599947
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2gg
+  ligandB: p38a_2j
+p38_edge_p38a_2j_p38a_2f:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 16.011313632000395
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2j
+  ligandB: p38a_2f
+p38_edge_p38a_2j_p38a_2ff:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 15.99491461999952
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: p38a_2j
+  ligandB: p38a_2ff
+p38_edge_p38a_2j_p38a_2h:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 0.034157252000397875
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2j
+  ligandB: p38a_2h
+p38_edge_p38a_2j_p38a_2q:
+  D_atoms: 11.0
+  D_charge: 0.0
+  D_heavy_atoms: 7.0
+  D_mol_weight: 119.98811498799967
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2j
+  ligandB: p38a_2q
+p38_edge_p38a_2j_p38a_2r:
+  D_atoms: 8.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 60.02112936799972
+  D_rings: 0.0
+  D_rot_bonds: 4.0
+  charge: no_charge
+  ligandA: p38a_2j
+  ligandB: p38a_2r
+p38_edge_p38a_2l_p38a_2j:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 15.994914619999747
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: p38a_2l
+  ligandB: p38a_2j
+p38_edge_p38a_2l_p38a_2n:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 30.010564683999974
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: p38a_2l
+  ligandB: p38a_2n
+p38_edge_p38a_2l_p38a_2o:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 77.97755030400003
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: p38a_2l
+  ligandB: p38a_2o
+p38_edge_p38a_2l_p38a_2p:
+  D_atoms: 9.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 91.99320036800003
+  D_rings: 0.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: p38a_2l
+  ligandB: p38a_2p
+p38_edge_p38a_2m_p38a_2j:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 27.994914619999747
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2m
+  ligandB: p38a_2j
+p38_edge_p38a_2m_p38a_2k:
+  D_atoms: 7.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 40.031300128000225
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: p38a_2m
+  ligandB: p38a_2k
+p38_edge_p38a_2s_p38a_2l:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 46.005479304000005
+  D_rings: 0.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: p38a_2s
+  ligandB: p38a_2l
+p38_edge_p38a_2t_p38a_2j:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 26.974513523999804
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2t
+  ligandB: p38a_2j
+p38_edge_p38a_2u_p38a_2k:
+  D_atoms: 21.0
+  D_charge: 0.0
+  D_heavy_atoms: 10.0
+  D_mol_weight: 161.05104959200037
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: p38a_2u
+  ligandB: p38a_2k
+p38_edge_p38a_2u_p38a_2q:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 29.026549096000224
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: p38a_2u
+  ligandB: p38a_2q
+p38_edge_p38a_2v_p38a_2bb:
+  D_atoms: 9.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 91.99320036800009
+  D_rings: 0.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: p38a_2v
+  ligandB: p38a_2bb
+p38_edge_p38a_2v_p38a_2j:
+  D_atoms: 13.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 68.06260025600051
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2v
+  ligandB: p38a_2j
+p38_edge_p38a_2v_p38a_2x:
+  D_atoms: 8.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 56.02621474800003
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2v
+  ligandB: p38a_2x
+p38_edge_p38a_2v_p38a_2y:
+  D_atoms: 10.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 58.04186481200003
+  D_rings: 0.0
+  D_rot_bonds: 4.0
+  charge: no_charge
+  ligandA: p38a_2v
+  ligandB: p38a_2y
+p38_edge_p38a_2v_p38a_3fln:
+  D_atoms: 11.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 70.04186481200009
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2v
+  ligandB: p38a_3fln
+p38_edge_p38a_2v_p38a_3fly:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 28.031300127999998
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: p38a_2v
+  ligandB: p38a_3fly
+p38_edge_p38a_2v_p38a_3fmh:
+  D_atoms: 11.0
+  D_charge: 0.0
+  D_heavy_atoms: 7.0
+  D_mol_weight: 96.04359612800039
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: p38a_2v
+  ligandB: p38a_3fmh
+p38_edge_p38a_2v_p38a_3fmk:
+  D_atoms: 11.0
+  D_charge: 0.0
+  D_heavy_atoms: 7.0
+  D_mol_weight: 96.04359612800039
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: p38a_2v
+  ligandB: p38a_3fmk
+p38_edge_p38a_2z_p38a_2aa:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 1.9792645559999755
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2z
+  ligandB: p38a_2aa
+p38_edge_p38a_2z_p38a_2y:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.0
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2z
+  ligandB: p38a_2y
+p38_edge_p38a_2z_p38a_3flq:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 47.96698562
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_2z
+  ligandB: p38a_3flq
+p38_edge_p38a_2z_p38a_3flw:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 30.01056468400003
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: p38a_2z
+  ligandB: p38a_3flw
+p38_edge_p38a_2z_p38a_3fmk:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 38.00173131600036
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: p38a_2z
+  ligandB: p38a_3fmk
+p38_edge_p38a_3fln_p38a_2e:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 17.990578187999972
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_3fln
+  ligandB: p38a_2e
+p38_edge_p38a_3fln_p38a_2ff:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.015650063999942
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: p38a_3fln
+  ligandB: p38a_2ff
+p38_edge_p38a_3fln_p38a_2g:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 17.990578187999972
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_3fln
+  ligandB: p38a_2g
+p38_edge_p38a_3fln_p38a_2gg:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 47.96698561999989
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_3fln
+  ligandB: p38a_2gg
+p38_edge_p38a_3fln_p38a_2i:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 19.96984274399955
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_3fln
+  ligandB: p38a_2i
+p38_edge_p38a_3fln_p38a_2k:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.015650064000056
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: p38a_3fln
+  ligandB: p38a_2k
+p38_edge_p38a_3fln_p38a_2n:
+  D_atoms: 7.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 44.02621474800014
+  D_rings: 0.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: p38a_3fln
+  ligandB: p38a_2n
+p38_edge_p38a_3fln_p38a_2o:
+  D_atoms: 9.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 91.9932003680002
+  D_rings: 0.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: p38a_3fln
+  ligandB: p38a_2o
+p38_edge_p38a_3fln_p38a_2p:
+  D_atoms: 12.0
+  D_charge: 0.0
+  D_heavy_atoms: 6.0
+  D_mol_weight: 106.0088504320002
+  D_rings: 0.0
+  D_rot_bonds: 4.0
+  charge: no_charge
+  ligandA: p38a_3fln
+  ligandB: p38a_2p
+p38_edge_p38a_3fln_p38a_2r:
+  D_atoms: 10.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 58.04186481200014
+  D_rings: 0.0
+  D_rot_bonds: 4.0
+  charge: no_charge
+  ligandA: p38a_3fln
+  ligandB: p38a_2r
+p38_edge_p38a_3fln_p38a_2s:
+  D_atoms: 8.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 60.021129368000175
+  D_rings: 0.0
+  D_rot_bonds: 4.0
+  charge: no_charge
+  ligandA: p38a_3fln
+  ligandB: p38a_2s
+p38_edge_p38a_3fln_p38a_2t:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 24.995248968000226
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_3fln
+  ligandB: p38a_2t
+p38_edge_p38a_3fln_p38a_3flz:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 35.981156375999944
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_3fln
+  ligandB: p38a_3flz
+p38_edge_p38a_3fly_p38a_2x:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 27.99491462000003
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: p38a_3fly
+  ligandB: p38a_2x
+p38_edge_p38a_3fly_p38a_3flq:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 77.97755030400003
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: p38a_3fly
+  ligandB: p38a_3flq
+p38_edge_p38a_3fly_p38a_3fmh:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 68.01229600000039
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: p38a_3fly
+  ligandB: p38a_3fmh
+p38_edge_p38a_3flz_p38a_2c:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 17.966113028000052
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: p38a_3flz
+  ligandB: p38a_2c
+p38_edge_p38a_3flz_p38a_2g:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 17.990578187999972
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: p38a_3flz
+  ligandB: p38a_2g

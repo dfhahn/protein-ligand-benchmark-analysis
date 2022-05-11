@@ -1,12 +1,12 @@
-shp2_edge_10_Example 30:
+shp2_edge_10_E30:
   DDG: -1.79
   dDDG: 0.13
   ligandA: '10'
-  ligandB: Example 30
+  ligandB: E30
   unit: kilocalories / mole
 shp2_edge_11_4:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.17
+  dDDG: 0.24
   ligandA: '11'
   ligandB: '4'
   unit: kilocalories / mole
@@ -16,41 +16,41 @@ shp2_edge_11_7:
   ligandA: '11'
   ligandB: '7'
   unit: kilocalories / mole
-shp2_edge_11_Example 25:
-  DDG: .nan
-  dDDG: .nan
+shp2_edge_11_E25:
+  DDG: -0.61
+  dDDG: 0.17
   ligandA: '11'
-  ligandB: Example 25
+  ligandB: E25
   unit: kilocalories / mole
-shp2_edge_11_Example 6:
+shp2_edge_11_E6:
   DDG: -4.16
   dDDG: 0.37
   ligandA: '11'
-  ligandB: Example 6
+  ligandB: E6
   unit: kilocalories / mole
-shp2_edge_3_Example 3:
+shp2_edge_3_E3:
   DDG: -0.68
   dDDG: 0.16
   ligandA: '3'
-  ligandB: Example 3
+  ligandB: E3
   unit: kilocalories / mole
-shp2_edge_3_Example 9:
+shp2_edge_3_E9:
   DDG: -2.84
   dDDG: 0.22
   ligandA: '3'
-  ligandB: Example 9
+  ligandB: E9
   unit: kilocalories / mole
-shp2_edge_4_Example 27:
+shp2_edge_4_E27:
   DDG: -2.43
   dDDG: 0.12
   ligandA: '4'
-  ligandB: Example 27
+  ligandB: E27
   unit: kilocalories / mole
-shp2_edge_4_Example 5:
+shp2_edge_4_E5:
   DDG: 1.29
   dDDG: 0.17
   ligandA: '4'
-  ligandB: Example 5
+  ligandB: E5
   unit: kilocalories / mole
 shp2_edge_4_SHP836-2:
   DDG: -0.85
@@ -59,278 +59,278 @@ shp2_edge_4_SHP836-2:
   ligandB: SHP836-2
   unit: kilocalories / mole
 shp2_edge_7_10:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.22
+  dDDG: 0.33
   ligandA: '7'
   ligandB: '10'
   unit: kilocalories / mole
-shp2_edge_Example 14_6:
+shp2_edge_E14_6:
   DDG: 0.72
   dDDG: 0.22
-  ligandA: Example 14
+  ligandA: E14
   ligandB: '6'
   unit: kilocalories / mole
-shp2_edge_Example 14_7:
+shp2_edge_E14_7:
   DDG: 1.09
   dDDG: 0.18
-  ligandA: Example 14
+  ligandA: E14
   ligandB: '7'
   unit: kilocalories / mole
-shp2_edge_Example 1_6:
+shp2_edge_E1_6:
   DDG: 0.15
   dDDG: 0.11
-  ligandA: Example 1
+  ligandA: E1
   ligandB: '6'
   unit: kilocalories / mole
-shp2_edge_Example 1_7:
+shp2_edge_E1_7:
   DDG: -0.46
   dDDG: 0.46
-  ligandA: Example 1
+  ligandA: E1
   ligandB: '7'
   unit: kilocalories / mole
-shp2_edge_Example 1_Example 24:
+shp2_edge_E1_E24:
   DDG: 1.14
   dDDG: 0.19
-  ligandA: Example 1
-  ligandB: Example 24
+  ligandA: E1
+  ligandB: E24
   unit: kilocalories / mole
-shp2_edge_Example 1_Example 3:
+shp2_edge_E1_E3:
   DDG: 1.42
   dDDG: 0.11
-  ligandA: Example 1
-  ligandB: Example 3
+  ligandA: E1
+  ligandB: E3
   unit: kilocalories / mole
-shp2_edge_Example 1_Example 4:
+shp2_edge_E1_E4:
   DDG: 1.25
   dDDG: 0.12
-  ligandA: Example 1
-  ligandB: Example 4
+  ligandA: E1
+  ligandB: E4
   unit: kilocalories / mole
-shp2_edge_Example 22_7:
+shp2_edge_E22_7:
   DDG: 0.92
   dDDG: 0.41
-  ligandA: Example 22
+  ligandA: E22
   ligandB: '7'
   unit: kilocalories / mole
-shp2_edge_Example 22_Example 23:
+shp2_edge_E22_E23:
   DDG: 0.32
   dDDG: 0.09
-  ligandA: Example 22
-  ligandB: Example 23
+  ligandA: E22
+  ligandB: E23
   unit: kilocalories / mole
-shp2_edge_Example 24_Example 23:
+shp2_edge_E24_E23:
   DDG: -0.6
   dDDG: 0.13
-  ligandA: Example 24
-  ligandB: Example 23
+  ligandA: E24
+  ligandB: E23
   unit: kilocalories / mole
-shp2_edge_Example 24_Example 28:
+shp2_edge_E24_E28:
   DDG: -0.98
   dDDG: 0.21
-  ligandA: Example 24
-  ligandB: Example 28
+  ligandA: E24
+  ligandB: E28
   unit: kilocalories / mole
-shp2_edge_Example 24_Example 30:
-  DDG: .nan
-  dDDG: .nan
-  ligandA: Example 24
-  ligandB: Example 30
+shp2_edge_E24_E30:
+  DDG: -0.84
+  dDDG: 0.14
+  ligandA: E24
+  ligandB: E30
   unit: kilocalories / mole
-shp2_edge_Example 25_Example 3:
+shp2_edge_E25_E3:
   DDG: 0.08
   dDDG: 0.17
-  ligandA: Example 25
-  ligandB: Example 3
+  ligandA: E25
+  ligandB: E3
   unit: kilocalories / mole
-shp2_edge_Example 26_Example 25:
+shp2_edge_E26_E25:
   DDG: 1.85
   dDDG: 0.22
-  ligandA: Example 26
-  ligandB: Example 25
+  ligandA: E26
+  ligandB: E25
   unit: kilocalories / mole
-shp2_edge_Example 26_Example 6:
-  DDG: .nan
-  dDDG: .nan
-  ligandA: Example 26
-  ligandB: Example 6
+shp2_edge_E26_E6:
+  DDG: -1.76
+  dDDG: 0.26
+  ligandA: E26
+  ligandB: E6
   unit: kilocalories / mole
-shp2_edge_Example 26_SHP836-2:
-  DDG: .nan
-  dDDG: .nan
-  ligandA: Example 26
+shp2_edge_E26_SHP836-2:
+  DDG: 0.41
+  dDDG: 0.19
+  ligandA: E26
   ligandB: SHP836-2
   unit: kilocalories / mole
-shp2_edge_Example 27_Example 4:
+shp2_edge_E27_E4:
   DDG: 1.72
   dDDG: 0.15
-  ligandA: Example 27
-  ligandB: Example 4
+  ligandA: E27
+  ligandB: E4
   unit: kilocalories / mole
-shp2_edge_Example 28_6:
+shp2_edge_E28_6:
   DDG: -0.38
   dDDG: 0.15
-  ligandA: Example 28
+  ligandA: E28
   ligandB: '6'
   unit: kilocalories / mole
-shp2_edge_Example 29_11:
+shp2_edge_E29_11:
   DDG: 0.71
   dDDG: 0.27
-  ligandA: Example 29
+  ligandA: E29
   ligandB: '11'
   unit: kilocalories / mole
-shp2_edge_Example 29_Example 9:
-  DDG: .nan
-  dDDG: .nan
-  ligandA: Example 29
-  ligandB: Example 9
+shp2_edge_E29_E9:
+  DDG: -3.39
+  dDDG: 0.13
+  ligandA: E29
+  ligandB: E9
   unit: kilocalories / mole
-shp2_edge_Example 2_Example 1:
-  DDG: .nan
-  dDDG: .nan
-  ligandA: Example 2
-  ligandB: Example 1
+shp2_edge_E2_E1:
+  DDG: -0.86
+  dDDG: 0.05
+  ligandA: E2
+  ligandB: E1
   unit: kilocalories / mole
-shp2_edge_Example 2_Example 23:
+shp2_edge_E2_E23:
   DDG: -1.02
   dDDG: 0.12
-  ligandA: Example 2
-  ligandB: Example 23
+  ligandA: E2
+  ligandB: E23
   unit: kilocalories / mole
-shp2_edge_Example 2_Example 4:
+shp2_edge_E2_E4:
   DDG: 0.84
   dDDG: 0.15
-  ligandA: Example 2
-  ligandB: Example 4
+  ligandA: E2
+  ligandB: E4
   unit: kilocalories / mole
-shp2_edge_Example 4_Example 3:
+shp2_edge_E4_E3:
   DDG: -0.2
   dDDG: 0.09
-  ligandA: Example 4
-  ligandB: Example 3
+  ligandA: E4
+  ligandB: E3
   unit: kilocalories / mole
-shp2_edge_Example 6_6:
+shp2_edge_E6_6:
   DDG: 0.38
   dDDG: 0.17
-  ligandA: Example 6
+  ligandA: E6
   ligandB: '6'
   unit: kilocalories / mole
-shp2_edge_Example 6_Example 25:
-  DDG: .nan
-  dDDG: .nan
-  ligandA: Example 6
-  ligandB: Example 25
+shp2_edge_E6_E25:
+  DDG: 3.04
+  dDDG: 0.18
+  ligandA: E6
+  ligandB: E25
   unit: kilocalories / mole
-shp2_edge_Example 6_Example 8:
+shp2_edge_E6_E8:
   DDG: 0.07
   dDDG: 0.17
-  ligandA: Example 6
-  ligandB: Example 8
+  ligandA: E6
+  ligandB: E8
   unit: kilocalories / mole
-shp2_edge_Example 8_Example 30:
-  DDG: .nan
-  dDDG: .nan
-  ligandA: Example 8
-  ligandB: Example 30
+shp2_edge_E8_E30:
+  DDG: 1.4
+  dDDG: 0.12
+  ligandA: E8
+  ligandB: E30
   unit: kilocalories / mole
-shp2_edge_Example 8_Example 4:
+shp2_edge_E8_E4:
   DDG: 2.99
   dDDG: 0.23
-  ligandA: Example 8
-  ligandB: Example 4
+  ligandA: E8
+  ligandB: E4
   unit: kilocalories / mole
-shp2_edge_Example 9_Example 30:
+shp2_edge_E9_E30:
   DDG: 0.55
   dDDG: 0.18
-  ligandA: Example 9
-  ligandB: Example 30
+  ligandA: E9
+  ligandB: E30
   unit: kilocalories / mole
-shp2_edge_SHP099-1/Example 7_10:
+shp2_edge_SHP099-1_10:
   DDG: 2.29
   dDDG: 0.08
-  ligandA: SHP099-1/Example 7
+  ligandA: SHP099-1
   ligandB: '10'
   unit: kilocalories / mole
-shp2_edge_SHP099-1/Example 7_Example 1:
+shp2_edge_SHP099-1_E1:
   DDG: 0.12
   dDDG: 0.09
-  ligandA: SHP099-1/Example 7
-  ligandB: Example 1
+  ligandA: SHP099-1
+  ligandB: E1
   unit: kilocalories / mole
-shp2_edge_SHP099-1/Example 7_Example 14:
+shp2_edge_SHP099-1_E14:
   DDG: 0.16
   dDDG: 0.54
-  ligandA: SHP099-1/Example 7
-  ligandB: Example 14
+  ligandA: SHP099-1
+  ligandB: E14
   unit: kilocalories / mole
-shp2_edge_SHP099-1/Example 7_Example 2:
-  DDG: .nan
-  dDDG: .nan
-  ligandA: SHP099-1/Example 7
-  ligandB: Example 2
+shp2_edge_SHP099-1_E2:
+  DDG: 1.27
+  dDDG: 0.09
+  ligandA: SHP099-1
+  ligandB: E2
   unit: kilocalories / mole
-shp2_edge_SHP099-1/Example 7_Example 22:
-  DDG: .nan
-  dDDG: .nan
-  ligandA: SHP099-1/Example 7
-  ligandB: Example 22
+shp2_edge_SHP099-1_E22:
+  DDG: 0.19
+  dDDG: 0.12
+  ligandA: SHP099-1
+  ligandB: E22
   unit: kilocalories / mole
-shp2_edge_SHP099-1/Example 7_Example 23:
+shp2_edge_SHP099-1_E23:
   DDG: 1.28
   dDDG: 0.11
-  ligandA: SHP099-1/Example 7
-  ligandB: Example 23
+  ligandA: SHP099-1
+  ligandB: E23
   unit: kilocalories / mole
-shp2_edge_SHP099-1/Example 7_Example 24:
+shp2_edge_SHP099-1_E24:
   DDG: 1.58
   dDDG: 0.12
-  ligandA: SHP099-1/Example 7
-  ligandB: Example 24
+  ligandA: SHP099-1
+  ligandB: E24
   unit: kilocalories / mole
-shp2_edge_SHP099-1/Example 7_Example 25:
+shp2_edge_SHP099-1_E25:
   DDG: 1.92
   dDDG: 0.14
-  ligandA: SHP099-1/Example 7
-  ligandB: Example 25
+  ligandA: SHP099-1
+  ligandB: E25
   unit: kilocalories / mole
-shp2_edge_SHP099-1/Example 7_Example 26:
-  DDG: .nan
-  dDDG: .nan
-  ligandA: SHP099-1/Example 7
-  ligandB: Example 26
+shp2_edge_SHP099-1_E26:
+  DDG: -0.76
+  dDDG: 0.14
+  ligandA: SHP099-1
+  ligandB: E26
   unit: kilocalories / mole
-shp2_edge_SHP099-1/Example 7_Example 28:
+shp2_edge_SHP099-1_E28:
   DDG: 1.23
   dDDG: 0.1
-  ligandA: SHP099-1/Example 7
-  ligandB: Example 28
+  ligandA: SHP099-1
+  ligandB: E28
   unit: kilocalories / mole
-shp2_edge_SHP099-1/Example 7_Example 30:
+shp2_edge_SHP099-1_E30:
   DDG: 0.6
   dDDG: 0.15
-  ligandA: SHP099-1/Example 7
-  ligandB: Example 30
+  ligandA: SHP099-1
+  ligandB: E30
   unit: kilocalories / mole
-shp2_edge_SHP099-1/Example 7_Example 5:
+shp2_edge_SHP099-1_E5:
   DDG: 4.28
   dDDG: 0.16
-  ligandA: SHP099-1/Example 7
-  ligandB: Example 5
+  ligandA: SHP099-1
+  ligandB: E5
   unit: kilocalories / mole
-shp2_edge_SHP099-1/Example 7_Example 8:
+shp2_edge_SHP099-1_E8:
   DDG: 0.14
   dDDG: 0.16
-  ligandA: SHP099-1/Example 7
-  ligandB: Example 8
+  ligandA: SHP099-1
+  ligandB: E8
   unit: kilocalories / mole
-shp2_edge_SHP836-2_Example 27:
+shp2_edge_SHP836-2_E27:
   DDG: -1.41
   dDDG: 0.08
   ligandA: SHP836-2
-  ligandB: Example 27
+  ligandB: E27
   unit: kilocalories / mole
-shp2_edge_SHP836-2_Example 5:
+shp2_edge_SHP836-2_E5:
   DDG: 3.82
   dDDG: 0.2
   ligandA: SHP836-2
-  ligandB: Example 5
+  ligandB: E5
   unit: kilocalories / mole

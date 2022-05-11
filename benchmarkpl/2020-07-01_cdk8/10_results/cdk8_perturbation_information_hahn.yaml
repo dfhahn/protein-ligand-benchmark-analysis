@@ -1,0 +1,540 @@
+cdk8_edge_13_14:
+  D_atoms: 13.0
+  D_charge: 0.0
+  D_heavy_atoms: 9.0
+  D_mol_weight: 120.0211293680006
+  D_rings: 2.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '13'
+  ligandB: '14'
+cdk8_edge_16_14:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 48.00000000000048
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '16'
+  ligandB: '14'
+cdk8_edge_16_15:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 46.005479304000005
+  D_rings: 0.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: '16'
+  ligandB: '15'
+cdk8_edge_16_19:
+  D_atoms: 7.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 66.02179806400011
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '16'
+  ligandB: '19'
+cdk8_edge_16_20:
+  D_atoms: 17.0
+  D_charge: 0.0
+  D_heavy_atoms: 9.0
+  D_mol_weight: 124.06366287600025
+  D_rings: 1.0
+  D_rot_bonds: 5.0
+  charge: no_charge
+  ligandA: '16'
+  ligandB: '20'
+cdk8_edge_17_16:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 40.00614800000005
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '17'
+  ligandB: '16'
+cdk8_edge_17_25:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 61.982635684
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '17'
+  ligandB: '25'
+cdk8_edge_17_45:
+  D_atoms: 8.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 56.026214748000086
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '17'
+  ligandB: '45'
+cdk8_edge_18_13:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 32.014981368000065
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '18'
+  ligandB: '13'
+cdk8_edge_18_15:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 5.999331303999952
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: '18'
+  ligandB: '15'
+cdk8_edge_18_45:
+  D_atoms: 8.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 56.026214748000086
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '18'
+  ligandB: '45'
+cdk8_edge_19_25:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 35.966985619999946
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '19'
+  ligandB: '25'
+cdk8_edge_19_32:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.015650064000056
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '19'
+  ligandB: '32'
+cdk8_edge_20_35:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 16.03130012800011
+  D_rings: 1.0
+  D_rot_bonds: 4.0
+  charge: no_charge
+  ligandA: '20'
+  ligandB: '35'
+cdk8_edge_21_20:
+  D_atoms: 7.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 35.02588040000012
+  D_rings: 1.0
+  D_rot_bonds: 5.0
+  charge: no_charge
+  ligandA: '21'
+  ligandB: '20'
+cdk8_edge_21_26:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 2.999665652000033
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '21'
+  ligandB: '26'
+cdk8_edge_21_29:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 38.96665127199998
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '21'
+  ligandB: '29'
+cdk8_edge_21_41:
+  D_atoms: 7.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 31.030965780000145
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '21'
+  ligandB: '41'
+cdk8_edge_22_21:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.0
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '22'
+  ligandB: '21'
+cdk8_edge_22_26:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 2.999665652000033
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '22'
+  ligandB: '26'
+cdk8_edge_22_32:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 37.03163447600008
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '22'
+  ligandB: '32'
+cdk8_edge_23_14:
+  D_atoms: 15.0
+  D_charge: 0.0
+  D_heavy_atoms: 12.0
+  D_mol_weight: 149.03778247600061
+  D_rings: 3.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '23'
+  ligandB: '14'
+cdk8_edge_23_34:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 26.980822027999977
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '23'
+  ligandB: '34'
+cdk8_edge_24_33:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 26.015650064000056
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '24'
+  ligandB: '33'
+cdk8_edge_24_42:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 30.01056468400003
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '24'
+  ligandB: '42'
+cdk8_edge_27_36:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 12.984015587999977
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: '27'
+  ligandB: '36'
+cdk8_edge_28_25:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 7.935685491999891
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: '28'
+  ligandB: '25'
+cdk8_edge_28_30:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 27.99491462000003
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: '28'
+  ligandB: '30'
+cdk8_edge_28_39:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 27.99491462000003
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '28'
+  ligandB: '39'
+cdk8_edge_29_33:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 35.966985619999946
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '29'
+  ligandB: '33'
+cdk8_edge_30_33:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 30.01056468400003
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '30'
+  ligandB: '33'
+cdk8_edge_30_37:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 15.994914619999975
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '30'
+  ligandB: '37'
+cdk8_edge_31_25:
+  D_atoms: 7.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 20.05922912800014
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '31'
+  ligandB: '25'
+cdk8_edge_31_37:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 15.994914619999975
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '31'
+  ligandB: '37'
+cdk8_edge_32_23:
+  D_atoms: 7.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 49.03163447600008
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '32'
+  ligandB: '23'
+cdk8_edge_33_32:
+  D_atoms: 7.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 40.03130012800011
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '33'
+  ligandB: '32'
+cdk8_edge_33_34:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 35.981156375999944
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '33'
+  ligandB: '34'
+cdk8_edge_34_36:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 5.970591691999914
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: '34'
+  ligandB: '36'
+cdk8_edge_35_18:
+  D_atoms: 9.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 68.02621474800009
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '35'
+  ligandB: '18'
+cdk8_edge_35_27:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 1.0316344760000788
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: '35'
+  ligandB: '27'
+cdk8_edge_35_36:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.015650064000056
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '35'
+  ligandB: '36'
+cdk8_edge_35_37:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 1.9792645559999187
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '35'
+  ligandB: '37'
+cdk8_edge_38_29:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 14.029820820000054
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '38'
+  ligandB: '29'
+cdk8_edge_39_32:
+  D_atoms: 11.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 70.04186481200014
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '39'
+  ligandB: '32'
+cdk8_edge_40_19:
+  D_atoms: 9.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 55.042199160000166
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '40'
+  ligandB: '19'
+cdk8_edge_40_33:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 29.02654909600011
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '40'
+  ligandB: '33'
+cdk8_edge_41_39:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 1.9792645559999187
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '41'
+  ligandB: '39'
+cdk8_edge_41_40:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.9952489679999985
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '41'
+  ligandB: '40'
+cdk8_edge_42_13:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 24.01123338000002
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '42'
+  ligandB: '13'
+cdk8_edge_43_38:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 26.015650064000056
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '43'
+  ligandB: '38'
+cdk8_edge_43_42:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 19.98624175599997
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '43'
+  ligandB: '42'
+cdk8_edge_43_45:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 19.98624175599997
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: '43'
+  ligandB: '45'
+cdk8_edge_44_32:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 30.01056468400003
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '44'
+  ligandB: '32'
+cdk8_edge_44_36:
+  D_atoms: 7.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 40.03130012800011
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: '44'
+  ligandB: '36'

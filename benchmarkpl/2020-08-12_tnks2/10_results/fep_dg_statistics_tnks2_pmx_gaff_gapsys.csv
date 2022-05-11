@@ -1,0 +1,19 @@
+# Statistics for target tnks2 and method pmx_gaff_gapsys compared to exp. values:
+# RMSE: root mean square deviation
+# MUE: mean unsigned error
+# R2: coefficient of determination
+# rho: Pearson's correlation coefficent
+# KTAU: Kendall's tau
+# mle: maximum likelihood estimate
+# stderr: standard error
+# mean: average result of bootstrap samples (1000)
+# low: lower bound of 95% confidence interval
+# high: higher bound of 95% confidence interval
+# All energy values (RMSE, MUE) in kcal/mol
+# Values generated with Arsenic
+,mle,stderr,mean,low,high
+RMSE,0.89,0.10,0.89,0.71,1.08
+MUE,0.75,0.10,0.75,0.56,0.94
+R2,0.43,0.14,0.43,0.15,0.69
+rho,0.65,0.11,0.65,0.41,0.83
+KTAU,0.45,0.12,0.44,0.19,0.67

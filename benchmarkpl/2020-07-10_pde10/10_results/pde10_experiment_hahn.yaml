@@ -118,24 +118,6 @@ pde10_edge_3484_4189:
   ligandA: '3484'
   ligandB: '4189'
   unit: kilocalories / mole
-pde10_edge_3806-mvEster_0340:
-  DDG: -1.76
-  dDDG: 0.0
-  ligandA: 3806-mvEster
-  ligandB: '0340'
-  unit: kilocalories / mole
-pde10_edge_3806-mvEster_1423:
-  DDG: -1.37
-  dDDG: 0.0
-  ligandA: 3806-mvEster
-  ligandB: '1423'
-  unit: kilocalories / mole
-pde10_edge_3806-mvEster_5973:
-  DDG: -2.39
-  dDDG: 0.0
-  ligandA: 3806-mvEster
-  ligandB: '5973'
-  unit: kilocalories / mole
 pde10_edge_3806_0340:
   DDG: -1.76
   dDDG: 0.0

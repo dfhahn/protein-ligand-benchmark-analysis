@@ -88,12 +88,6 @@ ros1_edge_1495_6691:
   ligandA: '1495'
   ligandB: '6691'
   unit: kilocalories / mole
-ros1_edge_1495_8602:
-  DDG: -2.51
-  dDDG: 1.37
-  ligandA: '1495'
-  ligandB: '8602'
-  unit: kilocalories / mole
 ros1_edge_1537_0529:
   DDG: -0.2
   dDDG: 0.0
@@ -206,12 +200,6 @@ ros1_edge_3507_6770:
   DDG: 1.79
   dDDG: 2.77
   ligandA: '3507'
-  ligandB: '6770'
-  unit: kilocalories / mole
-ros1_edge_4326_6770:
-  DDG: -0.04
-  dDDG: 4.49
-  ligandA: '4326'
   ligandB: '6770'
   unit: kilocalories / mole
 ros1_edge_4326_8654:

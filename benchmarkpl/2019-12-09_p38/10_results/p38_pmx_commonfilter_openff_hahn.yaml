@@ -1,0 +1,336 @@
+p38_edge_p38a_2aa_p38a_2bb:
+  DDG: 1.4166666666666667
+  dDDG: 0.3417728512234659
+  ligandA: p38a_2aa
+  ligandB: p38a_2bb
+  unit: kilocalories / mole
+p38_edge_p38a_2aa_p38a_3flw:
+  DDG: -1.9433333333333327
+  dDDG: 0.35398706182391926
+  ligandA: p38a_2aa
+  ligandB: p38a_3flw
+  unit: kilocalories / mole
+p38_edge_p38a_2e_p38a_2j:
+  DDG: -0.24666666666666734
+  dDDG: 0.09539975686546881
+  ligandA: p38a_2e
+  ligandB: p38a_2j
+  unit: kilocalories / mole
+p38_edge_p38a_2ee_p38a_2j:
+  DDG: 0.956666666666667
+  dDDG: 0.1362144561689899
+  ligandA: p38a_2ee
+  ligandB: p38a_2j
+  unit: kilocalories / mole
+p38_edge_p38a_2ee_p38a_3fln:
+  DDG: 0.12333333333333248
+  dDDG: 0.24223422697456423
+  ligandA: p38a_2ee
+  ligandB: p38a_3fln
+  unit: kilocalories / mole
+p38_edge_p38a_2g_p38a_2c:
+  DDG: 2.0033333333333325
+  dDDG: 0.43978230766513454
+  ligandA: p38a_2g
+  ligandB: p38a_2c
+  unit: kilocalories / mole
+p38_edge_p38a_2g_p38a_2f:
+  DDG: 1.1700000000000006
+  dDDG: 0.28625998943785763
+  ligandA: p38a_2g
+  ligandB: p38a_2f
+  unit: kilocalories / mole
+p38_edge_p38a_2g_p38a_2h:
+  DDG: 0.9166666666666643
+  dDDG: 0.1455740036640779
+  ligandA: p38a_2g
+  ligandB: p38a_2h
+  unit: kilocalories / mole
+p38_edge_p38a_2g_p38a_2i:
+  DDG: 0.6999999999999981
+  dDDG: 0.2387209117606808
+  ligandA: p38a_2g
+  ligandB: p38a_2i
+  unit: kilocalories / mole
+p38_edge_p38a_2gg_p38a_2j:
+  DDG: 0.7366666666666681
+  dDDG: 0.6805962794631518
+  ligandA: p38a_2gg
+  ligandB: p38a_2j
+  unit: kilocalories / mole
+p38_edge_p38a_2j_p38a_2f:
+  DDG: 0.3533333333333341
+  dDDG: 0.3442071076793908
+  ligandA: p38a_2j
+  ligandB: p38a_2f
+  unit: kilocalories / mole
+p38_edge_p38a_2j_p38a_2ff:
+  DDG: -1.740000000000002
+  dDDG: 0.08781162070668672
+  ligandA: p38a_2j
+  ligandB: p38a_2ff
+  unit: kilocalories / mole
+p38_edge_p38a_2j_p38a_2h:
+  DDG: -0.8466666666666663
+  dDDG: 0.1619555696009064
+  ligandA: p38a_2j
+  ligandB: p38a_2h
+  unit: kilocalories / mole
+p38_edge_p38a_2j_p38a_2q:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: p38a_2j
+  ligandB: p38a_2q
+  unit: kilocalories / mole
+p38_edge_p38a_2j_p38a_2r:
+  DDG: -2.556666666666667
+  dDDG: 0.6414493213131872
+  ligandA: p38a_2j
+  ligandB: p38a_2r
+  unit: kilocalories / mole
+p38_edge_p38a_2l_p38a_2j:
+  DDG: 2.680000000000002
+  dDDG: 0.23115570278612654
+  ligandA: p38a_2l
+  ligandB: p38a_2j
+  unit: kilocalories / mole
+p38_edge_p38a_2l_p38a_2n:
+  DDG: -1.123333333333334
+  dDDG: 0.12125962508839393
+  ligandA: p38a_2l
+  ligandB: p38a_2n
+  unit: kilocalories / mole
+p38_edge_p38a_2l_p38a_2o:
+  DDG: 1.543333333333332
+  dDDG: 0.19605720984014743
+  ligandA: p38a_2l
+  ligandB: p38a_2o
+  unit: kilocalories / mole
+p38_edge_p38a_2l_p38a_2p:
+  DDG: 1.2500000000000024
+  dDDG: 0.5087493787558465
+  ligandA: p38a_2l
+  ligandB: p38a_2p
+  unit: kilocalories / mole
+p38_edge_p38a_2m_p38a_2j:
+  DDG: 3.3399999999999985
+  dDDG: 0.5561923470122755
+  ligandA: p38a_2m
+  ligandB: p38a_2j
+  unit: kilocalories / mole
+p38_edge_p38a_2m_p38a_2k:
+  DDG: 3.2066666666666683
+  dDDG: 0.43248725877279237
+  ligandA: p38a_2m
+  ligandB: p38a_2k
+  unit: kilocalories / mole
+p38_edge_p38a_2s_p38a_2l:
+  DDG: 0.183333333333333
+  dDDG: 0.3330981891296292
+  ligandA: p38a_2s
+  ligandB: p38a_2l
+  unit: kilocalories / mole
+p38_edge_p38a_2t_p38a_2j:
+  DDG: 1.8166666666666675
+  dDDG: 0.18668963943779862
+  ligandA: p38a_2t
+  ligandB: p38a_2j
+  unit: kilocalories / mole
+p38_edge_p38a_2u_p38a_2k:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: p38a_2u
+  ligandB: p38a_2k
+  unit: kilocalories / mole
+p38_edge_p38a_2u_p38a_2q:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: p38a_2u
+  ligandB: p38a_2q
+  unit: kilocalories / mole
+p38_edge_p38a_2v_p38a_2bb:
+  DDG: -1.2199999999999942
+  dDDG: 0.43780468919308474
+  ligandA: p38a_2v
+  ligandB: p38a_2bb
+  unit: kilocalories / mole
+p38_edge_p38a_2v_p38a_2j:
+  DDG: -2.076666666666668
+  dDDG: 0.40034276526976154
+  ligandA: p38a_2v
+  ligandB: p38a_2j
+  unit: kilocalories / mole
+p38_edge_p38a_2v_p38a_2x:
+  DDG: -2.1466666666666665
+  dDDG: 0.23683844908022167
+  ligandA: p38a_2v
+  ligandB: p38a_2x
+  unit: kilocalories / mole
+p38_edge_p38a_2v_p38a_2y:
+  DDG: -2.1766666666666663
+  dDDG: 0.19628904098385444
+  ligandA: p38a_2v
+  ligandB: p38a_2y
+  unit: kilocalories / mole
+p38_edge_p38a_2v_p38a_3fln:
+  DDG: -3.0233333333333334
+  dDDG: 0.41057437073915753
+  ligandA: p38a_2v
+  ligandB: p38a_3fln
+  unit: kilocalories / mole
+p38_edge_p38a_2v_p38a_3fly:
+  DDG: -2.180000000000001
+  dDDG: 0.0943397695087458
+  ligandA: p38a_2v
+  ligandB: p38a_3fly
+  unit: kilocalories / mole
+p38_edge_p38a_2v_p38a_3fmh:
+  DDG: -3.9233333333333333
+  dDDG: 0.27536025354925764
+  ligandA: p38a_2v
+  ligandB: p38a_3fmh
+  unit: kilocalories / mole
+p38_edge_p38a_2v_p38a_3fmk:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: p38a_2v
+  ligandB: p38a_3fmk
+  unit: kilocalories / mole
+p38_edge_p38a_2z_p38a_2aa:
+  DDG: 1.0500000000000007
+  dDDG: 0.3170013411063464
+  ligandA: p38a_2z
+  ligandB: p38a_2aa
+  unit: kilocalories / mole
+p38_edge_p38a_2z_p38a_2y:
+  DDG: 0.4466666666666666
+  dDDG: 0.47304679910503056
+  ligandA: p38a_2z
+  ligandB: p38a_2y
+  unit: kilocalories / mole
+p38_edge_p38a_2z_p38a_3flq:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: p38a_2z
+  ligandB: p38a_3flq
+  unit: kilocalories / mole
+p38_edge_p38a_2z_p38a_3flw:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: p38a_2z
+  ligandB: p38a_3flw
+  unit: kilocalories / mole
+p38_edge_p38a_2z_p38a_3fmk:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: p38a_2z
+  ligandB: p38a_3fmk
+  unit: kilocalories / mole
+p38_edge_p38a_3fln_p38a_2e:
+  DDG: 1.5133333333333334
+  dDDG: 0.11789856795462851
+  ligandA: p38a_3fln
+  ligandB: p38a_2e
+  unit: kilocalories / mole
+p38_edge_p38a_3fln_p38a_2ff:
+  DDG: -0.6466666666666665
+  dDDG: 0.06482102372092302
+  ligandA: p38a_3fln
+  ligandB: p38a_2ff
+  unit: kilocalories / mole
+p38_edge_p38a_3fln_p38a_2g:
+  DDG: -0.40333333333333304
+  dDDG: 0.13113523032277022
+  ligandA: p38a_3fln
+  ligandB: p38a_2g
+  unit: kilocalories / mole
+p38_edge_p38a_3fln_p38a_2gg:
+  DDG: 0.5700000000000003
+  dDDG: 0.12076156340877739
+  ligandA: p38a_3fln
+  ligandB: p38a_2gg
+  unit: kilocalories / mole
+p38_edge_p38a_3fln_p38a_2i:
+  DDG: 0.8066666666666696
+  dDDG: 0.30526748476825527
+  ligandA: p38a_3fln
+  ligandB: p38a_2i
+  unit: kilocalories / mole
+p38_edge_p38a_3fln_p38a_2k:
+  DDG: 1.0733333333333352
+  dDDG: 0.11932522701053816
+  ligandA: p38a_3fln
+  ligandB: p38a_2k
+  unit: kilocalories / mole
+p38_edge_p38a_3fln_p38a_2n:
+  DDG: -2.06
+  dDDG: 0.28309620145840664
+  ligandA: p38a_3fln
+  ligandB: p38a_2n
+  unit: kilocalories / mole
+p38_edge_p38a_3fln_p38a_2o:
+  DDG: -0.5033333333333351
+  dDDG: 0.4857242137777097
+  ligandA: p38a_3fln
+  ligandB: p38a_2o
+  unit: kilocalories / mole
+p38_edge_p38a_3fln_p38a_2p:
+  DDG: -1.0166666666666704
+  dDDG: 0.20251709627520192
+  ligandA: p38a_3fln
+  ligandB: p38a_2p
+  unit: kilocalories / mole
+p38_edge_p38a_3fln_p38a_2r:
+  DDG: -1.4566666666666668
+  dDDG: 0.2651395026641776
+  ligandA: p38a_3fln
+  ligandB: p38a_2r
+  unit: kilocalories / mole
+p38_edge_p38a_3fln_p38a_2s:
+  DDG: -2.3166666666666678
+  dDDG: 0.44312487463409467
+  ligandA: p38a_3fln
+  ligandB: p38a_2s
+  unit: kilocalories / mole
+p38_edge_p38a_3fln_p38a_2t:
+  DDG: -0.41333333333333283
+  dDDG: 0.07664087744189785
+  ligandA: p38a_3fln
+  ligandB: p38a_2t
+  unit: kilocalories / mole
+p38_edge_p38a_3fln_p38a_3flz:
+  DDG: 0.66
+  dDDG: 0.4419865208018689
+  ligandA: p38a_3fln
+  ligandB: p38a_3flz
+  unit: kilocalories / mole
+p38_edge_p38a_3fly_p38a_2x:
+  DDG: -0.45333333333333314
+  dDDG: 0.45108443156997935
+  ligandA: p38a_3fly
+  ligandB: p38a_2x
+  unit: kilocalories / mole
+p38_edge_p38a_3fly_p38a_3flq:
+  DDG: 1.1133333333333297
+  dDDG: 0.9511763982893803
+  ligandA: p38a_3fly
+  ligandB: p38a_3flq
+  unit: kilocalories / mole
+p38_edge_p38a_3fly_p38a_3fmh:
+  DDG: -1.083333333333334
+  dDDG: 0.11022419124841948
+  ligandA: p38a_3fly
+  ligandB: p38a_3fmh
+  unit: kilocalories / mole
+p38_edge_p38a_3flz_p38a_2c:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: p38a_3flz
+  ligandB: p38a_2c
+  unit: kilocalories / mole
+p38_edge_p38a_3flz_p38a_2g:
+  DDG: -0.8733333333333331
+  dDDG: 0.10516256892404602
+  ligandA: p38a_3flz
+  ligandB: p38a_2g
+  unit: kilocalories / mole

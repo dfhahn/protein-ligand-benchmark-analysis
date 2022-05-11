@@ -1,0 +1,19 @@
+# Statistics for target hif2a and method pmx_converged_openff-1.2.0.offxml_gapsys compared to exp. values:
+# RMSE: root mean square deviation
+# MUE: mean unsigned error
+# R2: coefficient of determination
+# rho: Pearson's correlation coefficent
+# KTAU: Kendall's tau
+# mle: maximum likelihood estimate
+# stderr: standard error
+# mean: average result of bootstrap samples (1000)
+# low: lower bound of 95% confidence interval
+# high: higher bound of 95% confidence interval
+# All energy values (RMSE, MUE) in kcal/mol
+# Values generated with Arsenic
+,mle,stderr,mean,low,high
+RMSE,1.73,0.19,1.72,1.32,2.08
+MUE,1.27,0.17,1.27,0.95,1.62
+R2,0.19,0.11,0.21,0.03,0.44
+rho,0.43,0.14,0.42,0.12,0.68
+KTAU,0.34,0.10,0.34,0.13,0.53

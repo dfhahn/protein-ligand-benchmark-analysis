@@ -5,8 +5,8 @@ syk_edge_CHEMBL3264995_CHEMBL3264994:
   ligandB: CHEMBL3264994
   unit: kilocalories / mole
 syk_edge_CHEMBL3264995_CHEMBL3265001:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.06333333333333376
+  dDDG: 0.1658502759510915
   ligandA: CHEMBL3264995
   ligandB: CHEMBL3265001
   unit: kilocalories / mole
@@ -17,26 +17,26 @@ syk_edge_CHEMBL3264997_CHEMBL3264994:
   ligandB: CHEMBL3264994
   unit: kilocalories / mole
 syk_edge_CHEMBL3264997_CHEMBL3264995:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -2.226666666666667
+  dDDG: 0.6028522754844057
   ligandA: CHEMBL3264997
   ligandB: CHEMBL3264995
   unit: kilocalories / mole
 syk_edge_CHEMBL3264998_CHEMBL3264995:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.7133333333333335
+  dDDG: 0.4663550477455215
   ligandA: CHEMBL3264998
   ligandB: CHEMBL3264995
   unit: kilocalories / mole
 syk_edge_CHEMBL3264998_CHEMBL3265001:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.29999999999999954
+  dDDG: 0.22370986685726763
   ligandA: CHEMBL3264998
   ligandB: CHEMBL3265001
   unit: kilocalories / mole
 syk_edge_CHEMBL3264999_CHEMBL3264996:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.5600000000000023
+  dDDG: 0.22968642545876458
   ligandA: CHEMBL3264999
   ligandB: CHEMBL3264996
   unit: kilocalories / mole
@@ -47,80 +47,92 @@ syk_edge_CHEMBL3265000_CHEMBL3264994:
   ligandB: CHEMBL3264994
   unit: kilocalories / mole
 syk_edge_CHEMBL3265000_CHEMBL3264995:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.9533333333333284
+  dDDG: 0.22589180163610326
   ligandA: CHEMBL3265000
   ligandB: CHEMBL3264995
   unit: kilocalories / mole
 syk_edge_CHEMBL3265000_CHEMBL3264997:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.6700000000000064
+  dDDG: 0.8751801748559838
   ligandA: CHEMBL3265000
   ligandB: CHEMBL3264997
   unit: kilocalories / mole
 syk_edge_CHEMBL3265002_CHEMBL3264996:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.2666666666666666
+  dDDG: 0.43300170692260975
   ligandA: CHEMBL3265002
   ligandB: CHEMBL3264996
   unit: kilocalories / mole
 syk_edge_CHEMBL3265002_CHEMBL3264999:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.7000000000000028
+  dDDG: 0.09976643200925253
   ligandA: CHEMBL3265002
   ligandB: CHEMBL3264999
   unit: kilocalories / mole
+syk_edge_CHEMBL3265002_CHEMBL3265001:
+  DDG: 0.6266666666666699
+  dDDG: 0.9231523585991275
+  ligandA: CHEMBL3265002
+  ligandB: CHEMBL3265001
+  unit: kilocalories / mole
 syk_edge_CHEMBL3265003_CHEMBL3264999:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.7866666666666665
+  dDDG: 0.36051639332949176
   ligandA: CHEMBL3265003
   ligandB: CHEMBL3264999
   unit: kilocalories / mole
 syk_edge_CHEMBL3265004_CHEMBL3264999:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.2700000000000031
+  dDDG: 0.10013567023605457
   ligandA: CHEMBL3265004
   ligandB: CHEMBL3264999
   unit: kilocalories / mole
+syk_edge_CHEMBL3265004_CHEMBL3265001:
+  DDG: 0.6199999999999998
+  dDDG: 0.13937586694227538
+  ligandA: CHEMBL3265004
+  ligandB: CHEMBL3265001
+  unit: kilocalories / mole
 syk_edge_CHEMBL3265004_CHEMBL3265002:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.10999999999999943
+  dDDG: 0.2934445540109848
   ligandA: CHEMBL3265004
   ligandB: CHEMBL3265002
   unit: kilocalories / mole
 syk_edge_CHEMBL3265004_CHEMBL3265003:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.45333333333333375
+  dDDG: 0.25117098043640107
   ligandA: CHEMBL3265004
   ligandB: CHEMBL3265003
   unit: kilocalories / mole
 syk_edge_CHEMBL3265006_CHEMBL3265011:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 4.093333333333334
+  dDDG: 0.5918542856716422
   ligandA: CHEMBL3265006
   ligandB: CHEMBL3265011
   unit: kilocalories / mole
 syk_edge_CHEMBL3265006_CHEMBL3265026:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.30666666666666603
+  dDDG: 0.4686374706776767
   ligandA: CHEMBL3265006
   ligandB: CHEMBL3265026
   unit: kilocalories / mole
 syk_edge_CHEMBL3265008_CHEMBL3259820:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.5700000000000015
+  dDDG: 0.2291186716291129
   ligandA: CHEMBL3265008
   ligandB: CHEMBL3259820
   unit: kilocalories / mole
 syk_edge_CHEMBL3265008_CHEMBL3265005:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.21000000000000085
+  dDDG: 0.12709537203580487
   ligandA: CHEMBL3265008
   ligandB: CHEMBL3265005
   unit: kilocalories / mole
 syk_edge_CHEMBL3265008_CHEMBL3265006:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.24333333333332993
+  dDDG: 0.1502200515877554
   ligandA: CHEMBL3265008
   ligandB: CHEMBL3265006
   unit: kilocalories / mole
@@ -131,26 +143,26 @@ syk_edge_CHEMBL3265009_CHEMBL3265003:
   ligandB: CHEMBL3265003
   unit: kilocalories / mole
 syk_edge_CHEMBL3265009_CHEMBL3265005:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.2633333333333333
+  dDDG: 0.19203371853829682
   ligandA: CHEMBL3265009
   ligandB: CHEMBL3265005
   unit: kilocalories / mole
 syk_edge_CHEMBL3265009_CHEMBL3265006:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.12666666666666634
+  dDDG: 0.16740272645529738
   ligandA: CHEMBL3265009
   ligandB: CHEMBL3265006
   unit: kilocalories / mole
 syk_edge_CHEMBL3265009_CHEMBL3265008:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.5900000000000011
+  dDDG: 0.17371767834901883
   ligandA: CHEMBL3265009
   ligandB: CHEMBL3265008
   unit: kilocalories / mole
 syk_edge_CHEMBL3265009_CHEMBL3265020:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.853333333333334
+  dDDG: 0.3219276429462889
   ligandA: CHEMBL3265009
   ligandB: CHEMBL3265020
   unit: kilocalories / mole
@@ -167,8 +179,8 @@ syk_edge_CHEMBL3265010_CHEMBL3265011:
   ligandB: CHEMBL3265011
   unit: kilocalories / mole
 syk_edge_CHEMBL3265012_CHEMBL3259820:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.19000000000000128
+  dDDG: 0.18134888222685414
   ligandA: CHEMBL3265012
   ligandB: CHEMBL3259820
   unit: kilocalories / mole
@@ -179,14 +191,14 @@ syk_edge_CHEMBL3265012_CHEMBL3265002:
   ligandB: CHEMBL3265002
   unit: kilocalories / mole
 syk_edge_CHEMBL3265012_CHEMBL3265010:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.8633333333333333
+  dDDG: 0.5048457262964149
   ligandA: CHEMBL3265012
   ligandB: CHEMBL3265010
   unit: kilocalories / mole
 syk_edge_CHEMBL3265013_CHEMBL3259820:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.8500000000000001
+  dDDG: 0.148680189534916
   ligandA: CHEMBL3265013
   ligandB: CHEMBL3259820
   unit: kilocalories / mole
@@ -197,20 +209,20 @@ syk_edge_CHEMBL3265013_CHEMBL3265004:
   ligandB: CHEMBL3265004
   unit: kilocalories / mole
 syk_edge_CHEMBL3265013_CHEMBL3265012:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.7633333333333331
+  dDDG: 0.11419164544943172
   ligandA: CHEMBL3265013
   ligandB: CHEMBL3265012
   unit: kilocalories / mole
 syk_edge_CHEMBL3265013_CHEMBL3265020:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.2133333333333336
+  dDDG: 0.29153630980879247
   ligandA: CHEMBL3265013
   ligandB: CHEMBL3265020
   unit: kilocalories / mole
 syk_edge_CHEMBL3265013_CHEMBL3265023:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.2133333333333335
+  dDDG: 0.4123873602869299
   ligandA: CHEMBL3265013
   ligandB: CHEMBL3265023
   unit: kilocalories / mole
@@ -221,20 +233,20 @@ syk_edge_CHEMBL3265014_CHEMBL3265006:
   ligandB: CHEMBL3265006
   unit: kilocalories / mole
 syk_edge_CHEMBL3265014_CHEMBL3265022:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.5600000000000023
+  dDDG: 0.7832002751065504
   ligandA: CHEMBL3265014
   ligandB: CHEMBL3265022
   unit: kilocalories / mole
 syk_edge_CHEMBL3265014_CHEMBL3265025:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -1.7999999999999996
+  dDDG: 0.21169153209325703
   ligandA: CHEMBL3265014
   ligandB: CHEMBL3265025
   unit: kilocalories / mole
 syk_edge_CHEMBL3265014_CHEMBL3265028:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.3866666666666667
+  dDDG: 0.6114410958119465
   ligandA: CHEMBL3265014
   ligandB: CHEMBL3265028
   unit: kilocalories / mole
@@ -251,14 +263,14 @@ syk_edge_CHEMBL3265015_CHEMBL3264999:
   ligandB: CHEMBL3264999
   unit: kilocalories / mole
 syk_edge_CHEMBL3265015_CHEMBL3265009:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -1.7299999999999998
+  dDDG: 0.8921939701893463
   ligandA: CHEMBL3265015
   ligandB: CHEMBL3265009
   unit: kilocalories / mole
 syk_edge_CHEMBL3265015_CHEMBL3265011:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.6200000000000003
+  dDDG: 0.3567664175119467
   ligandA: CHEMBL3265015
   ligandB: CHEMBL3265011
   unit: kilocalories / mole
@@ -269,20 +281,20 @@ syk_edge_CHEMBL3265015_CHEMBL3265014:
   ligandB: CHEMBL3265014
   unit: kilocalories / mole
 syk_edge_CHEMBL3265015_CHEMBL3265017:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -2.140000000000003
+  dDDG: 0.5418292554820603
   ligandA: CHEMBL3265015
   ligandB: CHEMBL3265017
   unit: kilocalories / mole
 syk_edge_CHEMBL3265016_CHEMBL3265005:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.3099999999999999
+  dDDG: 0.17788738334550952
   ligandA: CHEMBL3265016
   ligandB: CHEMBL3265005
   unit: kilocalories / mole
 syk_edge_CHEMBL3265016_CHEMBL3265020:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.03333333333333351
+  dDDG: 0.1569101924383675
   ligandA: CHEMBL3265016
   ligandB: CHEMBL3265020
   unit: kilocalories / mole
@@ -293,38 +305,38 @@ syk_edge_CHEMBL3265017_CHEMBL3265002:
   ligandB: CHEMBL3265002
   unit: kilocalories / mole
 syk_edge_CHEMBL3265017_CHEMBL3265016:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.8466666666666668
+  dDDG: 0.07374745366125517
   ligandA: CHEMBL3265017
   ligandB: CHEMBL3265016
   unit: kilocalories / mole
 syk_edge_CHEMBL3265017_CHEMBL3265020:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.8166666666666664
+  dDDG: 0.33059377649297417
   ligandA: CHEMBL3265017
   ligandB: CHEMBL3265020
   unit: kilocalories / mole
 syk_edge_CHEMBL3265017_CHEMBL3265024:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.3633333333333333
+  dDDG: 0.35898258859058363
   ligandA: CHEMBL3265017
   ligandB: CHEMBL3265024
   unit: kilocalories / mole
 syk_edge_CHEMBL3265017_CHEMBL3265026:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.3633333333333333
+  dDDG: 0.21165855376673534
   ligandA: CHEMBL3265017
   ligandB: CHEMBL3265026
   unit: kilocalories / mole
 syk_edge_CHEMBL3265017_CHEMBL3265027:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.9566666666666667
+  dDDG: 0.7009470414415039
   ligandA: CHEMBL3265017
   ligandB: CHEMBL3265027
   unit: kilocalories / mole
 syk_edge_CHEMBL3265017_CHEMBL3265029:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.3733333333333331
+  dDDG: 0.2838139265692055
   ligandA: CHEMBL3265017
   ligandB: CHEMBL3265029
   unit: kilocalories / mole
@@ -335,8 +347,8 @@ syk_edge_CHEMBL3265017_CHEMBL3265032:
   ligandB: CHEMBL3265032
   unit: kilocalories / mole
 syk_edge_CHEMBL3265018_CHEMBL3265005:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.5466666666666669
+  dDDG: 0.30963896593295237
   ligandA: CHEMBL3265018
   ligandB: CHEMBL3265005
   unit: kilocalories / mole
@@ -347,20 +359,20 @@ syk_edge_CHEMBL3265018_CHEMBL3265011:
   ligandB: CHEMBL3265011
   unit: kilocalories / mole
 syk_edge_CHEMBL3265018_CHEMBL3265019:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.6966666666666667
+  dDDG: 0.06667620731168405
   ligandA: CHEMBL3265018
   ligandB: CHEMBL3265019
   unit: kilocalories / mole
 syk_edge_CHEMBL3265019_CHEMBL3265005:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.793333333333332
+  dDDG: 0.4599833897904499
   ligandA: CHEMBL3265019
   ligandB: CHEMBL3265005
   unit: kilocalories / mole
 syk_edge_CHEMBL3265020_CHEMBL3265026:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.7200000000000012
+  dDDG: 0.30415428450947507
   ligandA: CHEMBL3265020
   ligandB: CHEMBL3265026
   unit: kilocalories / mole
@@ -371,38 +383,38 @@ syk_edge_CHEMBL3265021_CHEMBL3265011:
   ligandB: CHEMBL3265011
   unit: kilocalories / mole
 syk_edge_CHEMBL3265021_CHEMBL3265013:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.4833333333333331
+  dDDG: 0.3785112094674313
   ligandA: CHEMBL3265021
   ligandB: CHEMBL3265013
   unit: kilocalories / mole
 syk_edge_CHEMBL3265021_CHEMBL3265017:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.009999999999999787
+  dDDG: 0.09089416246125878
   ligandA: CHEMBL3265021
   ligandB: CHEMBL3265017
   unit: kilocalories / mole
 syk_edge_CHEMBL3265021_CHEMBL3265020:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.0
+  dDDG: 0.3125111757456232
   ligandA: CHEMBL3265021
   ligandB: CHEMBL3265020
   unit: kilocalories / mole
 syk_edge_CHEMBL3265021_CHEMBL3265022:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.37666666666666676
+  dDDG: 0.3059143850975875
   ligandA: CHEMBL3265021
   ligandB: CHEMBL3265022
   unit: kilocalories / mole
 syk_edge_CHEMBL3265021_CHEMBL3265023:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.7466666666666667
+  dDDG: 0.2190444700421622
   ligandA: CHEMBL3265021
   ligandB: CHEMBL3265023
   unit: kilocalories / mole
 syk_edge_CHEMBL3265021_CHEMBL3265024:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.7766666666666667
+  dDDG: 0.39296354914496556
   ligandA: CHEMBL3265021
   ligandB: CHEMBL3265024
   unit: kilocalories / mole
@@ -413,38 +425,38 @@ syk_edge_CHEMBL3265021_CHEMBL3265035:
   ligandB: CHEMBL3265035
   unit: kilocalories / mole
 syk_edge_CHEMBL3265023_CHEMBL3265020:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.1966666666666665
+  dDDG: 0.22672443359126934
   ligandA: CHEMBL3265023
   ligandB: CHEMBL3265020
   unit: kilocalories / mole
 syk_edge_CHEMBL3265023_CHEMBL3265022:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.7699999999999996
+  dDDG: 0.24739927536976483
   ligandA: CHEMBL3265023
   ligandB: CHEMBL3265022
   unit: kilocalories / mole
 syk_edge_CHEMBL3265023_CHEMBL3265028:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.1633333333333329
+  dDDG: 0.5578475138345247
   ligandA: CHEMBL3265023
   ligandB: CHEMBL3265028
   unit: kilocalories / mole
 syk_edge_CHEMBL3265024_CHEMBL3265008:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.45666666666666345
+  dDDG: 0.21309387567689778
   ligandA: CHEMBL3265024
   ligandB: CHEMBL3265008
   unit: kilocalories / mole
 syk_edge_CHEMBL3265025_CHEMBL3265008:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.6633333333333363
+  dDDG: 0.6135918545677153
   ligandA: CHEMBL3265025
   ligandB: CHEMBL3265008
   unit: kilocalories / mole
 syk_edge_CHEMBL3265025_CHEMBL3265020:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.886666666666667
+  dDDG: 0.3281520060497956
   ligandA: CHEMBL3265025
   ligandB: CHEMBL3265020
   unit: kilocalories / mole
@@ -455,44 +467,44 @@ syk_edge_CHEMBL3265027_CHEMBL3265010:
   ligandB: CHEMBL3265010
   unit: kilocalories / mole
 syk_edge_CHEMBL3265027_CHEMBL3265020:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.6299999999999998
+  dDDG: 0.584052879058367
   ligandA: CHEMBL3265027
   ligandB: CHEMBL3265020
   unit: kilocalories / mole
 syk_edge_CHEMBL3265027_CHEMBL3265030_n:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -1.0733333333333335
+  dDDG: 0.13863454419693402
   ligandA: CHEMBL3265027
   ligandB: CHEMBL3265030_n
   unit: kilocalories / mole
 syk_edge_CHEMBL3265027_CHEMBL3265033:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -1.7199999999999893
+  dDDG: 0.5625868601692091
   ligandA: CHEMBL3265027
   ligandB: CHEMBL3265033
   unit: kilocalories / mole
 syk_edge_CHEMBL3265028_CHEMBL3265027:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.47000000000000003
+  dDDG: 0.22868316965254742
   ligandA: CHEMBL3265028
   ligandB: CHEMBL3265027
   unit: kilocalories / mole
 syk_edge_CHEMBL3265028_CHEMBL3265030_n:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -1.633333333333334
+  dDDG: 0.1704087680110709
   ligandA: CHEMBL3265028
   ligandB: CHEMBL3265030_n
   unit: kilocalories / mole
 syk_edge_CHEMBL3265029_CHEMBL3265016:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.9433333333333334
+  dDDG: 0.24962431122692044
   ligandA: CHEMBL3265029
   ligandB: CHEMBL3265016
   unit: kilocalories / mole
 syk_edge_CHEMBL3265029_CHEMBL3265027:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.15999999999999984
+  dDDG: 0.09532695350712629
   ligandA: CHEMBL3265029
   ligandB: CHEMBL3265027
   unit: kilocalories / mole
@@ -503,38 +515,38 @@ syk_edge_CHEMBL3265031_CHEMBL3265024:
   ligandB: CHEMBL3265024
   unit: kilocalories / mole
 syk_edge_CHEMBL3265031_CHEMBL3265030_n:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.013333333333331865
+  dDDG: 0.19250140998510057
   ligandA: CHEMBL3265031
   ligandB: CHEMBL3265030_n
   unit: kilocalories / mole
 syk_edge_CHEMBL3265031_CHEMBL3265037:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.090000000000001
+  dDDG: 0.7598548202373038
   ligandA: CHEMBL3265031
   ligandB: CHEMBL3265037
   unit: kilocalories / mole
 syk_edge_CHEMBL3265032_CHEMBL3265022:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.9166666666666667
+  dDDG: 0.2723580115268285
   ligandA: CHEMBL3265032
   ligandB: CHEMBL3265022
   unit: kilocalories / mole
 syk_edge_CHEMBL3265032_CHEMBL3265027:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.9033333333333348
+  dDDG: 0.21859096175078002
   ligandA: CHEMBL3265032
   ligandB: CHEMBL3265027
   unit: kilocalories / mole
 syk_edge_CHEMBL3265032_CHEMBL3265033:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.27333333333333104
+  dDDG: 0.1034713232469594
   ligandA: CHEMBL3265032
   ligandB: CHEMBL3265033
   unit: kilocalories / mole
 syk_edge_CHEMBL3265033_CHEMBL3265022:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.0700000000000027
+  dDDG: 0.35167272844849323
   ligandA: CHEMBL3265033
   ligandB: CHEMBL3265022
   unit: kilocalories / mole
@@ -545,20 +557,20 @@ syk_edge_CHEMBL3265034_CHEMBL3265026:
   ligandB: CHEMBL3265026
   unit: kilocalories / mole
 syk_edge_CHEMBL3265034_CHEMBL3265027:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.08666666666666667
+  dDDG: 0.44973331499877056
   ligandA: CHEMBL3265034
   ligandB: CHEMBL3265027
   unit: kilocalories / mole
 syk_edge_CHEMBL3265034_CHEMBL3265033:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.22333333333333863
+  dDDG: 0.09481074981390396
   ligandA: CHEMBL3265034
   ligandB: CHEMBL3265033
   unit: kilocalories / mole
 syk_edge_CHEMBL3265034_CHEMBL3265037:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.27333333333333343
+  dDDG: 0.8217365428722949
   ligandA: CHEMBL3265034
   ligandB: CHEMBL3265037
   unit: kilocalories / mole
@@ -569,26 +581,26 @@ syk_edge_CHEMBL3265035_CHEMBL3264996:
   ligandB: CHEMBL3264996
   unit: kilocalories / mole
 syk_edge_CHEMBL3265035_CHEMBL3265024:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.1866666666666663
+  dDDG: 0.49744448836003397
   ligandA: CHEMBL3265035
   ligandB: CHEMBL3265024
   unit: kilocalories / mole
 syk_edge_CHEMBL3265036_CHEMBL3265016:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 1.5799999999999998
+  dDDG: 0.5828288028422282
   ligandA: CHEMBL3265036
   ligandB: CHEMBL3265016
   unit: kilocalories / mole
 syk_edge_CHEMBL3265036_CHEMBL3265029:
-  DDG: .nan
-  dDDG: .nan
+  DDG: 0.41
+  dDDG: 0.41311159540124354
   ligandA: CHEMBL3265036
   ligandB: CHEMBL3265029
   unit: kilocalories / mole
 syk_edge_CHEMBL3265037_CHEMBL3265032:
-  DDG: .nan
-  dDDG: .nan
+  DDG: -0.8433333333333328
+  dDDG: 0.2961391841788653
   ligandA: CHEMBL3265037
   ligandB: CHEMBL3265032
   unit: kilocalories / mole

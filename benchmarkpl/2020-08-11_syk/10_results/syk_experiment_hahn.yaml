@@ -70,6 +70,12 @@ syk_edge_CHEMBL3265002_CHEMBL3264999:
   ligandA: CHEMBL3265002
   ligandB: CHEMBL3264999
   unit: kilocalories / mole
+syk_edge_CHEMBL3265002_CHEMBL3265001:
+  DDG: -1.43
+  dDDG: 0.0
+  ligandA: CHEMBL3265002
+  ligandB: CHEMBL3265001
+  unit: kilocalories / mole
 syk_edge_CHEMBL3265003_CHEMBL3264999:
   DDG: -0.59
   dDDG: 0.0
@@ -81,6 +87,12 @@ syk_edge_CHEMBL3265004_CHEMBL3264999:
   dDDG: 0.0
   ligandA: CHEMBL3265004
   ligandB: CHEMBL3264999
+  unit: kilocalories / mole
+syk_edge_CHEMBL3265004_CHEMBL3265001:
+  DDG: -1.19
+  dDDG: 0.0
+  ligandA: CHEMBL3265004
+  ligandB: CHEMBL3265001
   unit: kilocalories / mole
 syk_edge_CHEMBL3265004_CHEMBL3265002:
   DDG: 0.24
