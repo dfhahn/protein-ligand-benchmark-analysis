@@ -1,0 +1,96 @@
+thrombin_edge_1a_3b:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 1a
+  ligandB: 3b
+  unit: kilocalories / mole
+thrombin_edge_1a_5:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 1a
+  ligandB: '5'
+  unit: kilocalories / mole
+thrombin_edge_1b_1a:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 1b
+  ligandB: 1a
+  unit: kilocalories / mole
+thrombin_edge_1b_1c:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 1b
+  ligandB: 1c
+  unit: kilocalories / mole
+thrombin_edge_1b_3b:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 1b
+  ligandB: 3b
+  unit: kilocalories / mole
+thrombin_edge_1b_7a:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 1b
+  ligandB: 7a
+  unit: kilocalories / mole
+thrombin_edge_1d_1a:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 1d
+  ligandB: 1a
+  unit: kilocalories / mole
+thrombin_edge_1d_1c:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 1d
+  ligandB: 1c
+  unit: kilocalories / mole
+thrombin_edge_1d_5:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 1d
+  ligandB: '5'
+  unit: kilocalories / mole
+thrombin_edge_1d_6e:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 1d
+  ligandB: 6e
+  unit: kilocalories / mole
+thrombin_edge_1d_7a:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 1d
+  ligandB: 7a
+  unit: kilocalories / mole
+thrombin_edge_3a_1b:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 3a
+  ligandB: 1b
+  unit: kilocalories / mole
+thrombin_edge_3a_1d:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 3a
+  ligandB: 1d
+  unit: kilocalories / mole
+thrombin_edge_6a_1b:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 6a
+  ligandB: 1b
+  unit: kilocalories / mole
+thrombin_edge_6a_6b:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 6a
+  ligandB: 6b
+  unit: kilocalories / mole
+thrombin_edge_6e_6b:
+  DDG: .nan
+  dDDG: .nan
+  ligandA: 6e
+  ligandB: 6b
+  unit: kilocalories / mole

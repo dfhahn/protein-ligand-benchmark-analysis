@@ -1,0 +1,620 @@
+pde10_edge_0340_0738:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 27.983681239999953
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '0340'
+  ligandB: 0738
+pde10_edge_0340_4754:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.015650064000056
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '0340'
+  ligandB: '4754'
+pde10_edge_0395_8161:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 26.015650064000056
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: 0395
+  ligandB: '8161'
+pde10_edge_1038_0309:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 12.995248968000055
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: '1038'
+  ligandB: 0309
+pde10_edge_1038_0848:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 25.031634476000136
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: '1038'
+  ligandB: 0848
+pde10_edge_1038_5687:
+  D_atoms: 7.0
+  D_charge: 1.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 42.033825548090135
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: charge_change
+  ligandA: '1038'
+  ligandB: '5687'
+pde10_edge_1038_9211:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 12.995248968000055
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: '1038'
+  ligandB: '9211'
+pde10_edge_1423_4754:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 25.940434435999805
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: '1423'
+  ligandB: '4754'
+pde10_edge_1801_4147:
+  D_atoms: 21.0
+  D_charge: 0.0
+  D_heavy_atoms: 14.0
+  D_mol_weight: 181.05276384400025
+  D_rings: 2.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: '1801'
+  ligandB: '4147'
+pde10_edge_1939_3032:
+  D_atoms: 10.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 4.0701302480002255
+  D_rings: 0.0
+  D_rot_bonds: 4.0
+  charge: no_charge
+  ligandA: '1939'
+  ligandB: '3032'
+pde10_edge_1939_7846:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 29.015315716000032
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: '1939'
+  ligandB: '7846'
+pde10_edge_2333_0309:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.97451352400003
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: '2333'
+  ligandB: 0309
+pde10_edge_2333_0848:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 27.01089903200011
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: '2333'
+  ligandB: 0848
+pde10_edge_2333_9211:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.97451352400003
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: '2333'
+  ligandB: '9211'
+pde10_edge_2750_5973:
+  D_atoms: 8.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 20.045058372000142
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: '2750'
+  ligandB: '5973'
+pde10_edge_2750_6221:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 5.970591691999914
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: '2750'
+  ligandB: '6221'
+pde10_edge_3032_4096:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 3.0108990320000544
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '3032'
+  ligandB: '4096'
+pde10_edge_3032_8041:
+  D_atoms: 10.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 4.0701302480002255
+  D_rings: 0.0
+  D_rot_bonds: 4.0
+  charge: no_charge
+  ligandA: '3032'
+  ligandB: '8041'
+pde10_edge_3484_2750:
+  D_atoms: 13.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 62.04438967600015
+  D_rings: 1.0
+  D_rot_bonds: 4.0
+  charge: no_charge
+  ligandA: '3484'
+  ligandB: '2750'
+pde10_edge_3484_4189:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 42.99458027200001
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '3484'
+  ligandB: '4189'
+pde10_edge_3806-mvEster_0340:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 43.98982923999995
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: 3806-mvEster
+  ligandB: '0340'
+pde10_edge_3806-mvEster_1423:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 4.033744740000088
+  D_rings: 0.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: 3806-mvEster
+  ligandB: '1423'
+pde10_edge_3806-mvEster_5973:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 31.98982923999995
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: 3806-mvEster
+  ligandB: '5973'
+pde10_edge_3806_0340:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 43.98982923999995
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: '3806'
+  ligandB: '0340'
+pde10_edge_3806_1423:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 4.033744740000088
+  D_rings: 0.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: '3806'
+  ligandB: '1423'
+pde10_edge_3806_4147:
+  D_atoms: 13.0
+  D_charge: 0.0
+  D_heavy_atoms: 7.0
+  D_mol_weight: 102.03169405200009
+  D_rings: 0.0
+  D_rot_bonds: 6.0
+  charge: no_charge
+  ligandA: '3806'
+  ligandB: '4147'
+pde10_edge_3806_5973:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 31.98982923999995
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: '3806'
+  ligandB: '5973'
+pde10_edge_3806_6221:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 58.005479304000005
+  D_rings: 0.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: '3806'
+  ligandB: '6221'
+pde10_edge_4096_4147:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 67.98738462799997
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '4096'
+  ligandB: '4147'
+pde10_edge_4147_0395:
+  D_atoms: 24.0
+  D_charge: 1.0
+  D_heavy_atoms: 16.0
+  D_mol_weight: 206.0499040759102
+  D_rings: 3.0
+  D_rot_bonds: 1.0
+  charge: charge_change
+  ligandA: '4147'
+  ligandB: 0395
+pde10_edge_4147_2750:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 49.99680644
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '4147'
+  ligandB: '2750'
+pde10_edge_4147_5973:
+  D_atoms: 11.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 70.04186481200014
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: '4147'
+  ligandB: '5973'
+pde10_edge_4147_7846:
+  D_atoms: 7.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 40.03130012800011
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '4147'
+  ligandB: '7846'
+pde10_edge_4189_4415:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.015650064000056
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '4189'
+  ligandB: '4415'
+pde10_edge_4415_3032:
+  D_atoms: 7.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 9.94551981599983
+  D_rings: 0.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: '4415'
+  ligandB: '3032'
+pde10_edge_4754_4147:
+  D_atoms: 13.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 72.0575148760002
+  D_rings: 0.0
+  D_rot_bonds: 5.0
+  charge: no_charge
+  ligandA: '4754'
+  ligandB: '4147'
+pde10_edge_5544_3806:
+  D_atoms: 8.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 47.02588040000006
+  D_rings: 0.0
+  D_rot_bonds: 4.0
+  charge: no_charge
+  ligandA: '5544'
+  ligandB: '3806'
+pde10_edge_5544_4147:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 55.00581365200003
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: '5544'
+  ligandB: '4147'
+pde10_edge_5644_0309:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 16.990163588000087
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: '5644'
+  ligandB: 0309
+pde10_edge_5644_9211:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 16.990163588000087
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: '5644'
+  ligandB: '9211'
+pde10_edge_5670_9211:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 15.994914620000145
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: '5670'
+  ligandB: '9211'
+pde10_edge_5687_1056:
+  D_atoms: 7.0
+  D_charge: 1.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 58.01098192809013
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: charge_change
+  ligandA: '5687'
+  ligandB: '1056'
+pde10_edge_5687_1801:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 2.015650064000056
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: '5687'
+  ligandB: '1801'
+pde10_edge_5687_4147:
+  D_atoms: 23.0
+  D_charge: 0.0
+  D_heavy_atoms: 14.0
+  D_mol_weight: 183.0684139080003
+  D_rings: 2.0
+  D_rot_bonds: 4.0
+  charge: no_charge
+  ligandA: '5687'
+  ligandB: '4147'
+pde10_edge_5687_8161:
+  D_atoms: 3.0
+  D_charge: 1.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 3.0341598960901592
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: charge_change
+  ligandA: '5687'
+  ligandB: '8161'
+pde10_edge_5973_4096:
+  D_atoms: 8.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 2.0544801840001696
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: '5973'
+  ligandB: '4096'
+pde10_edge_5973_4754:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 2.015650064000056
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: '5973'
+  ligandB: '4754'
+pde10_edge_6694_4147:
+  D_atoms: 7.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 76.01245650400006
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '6694'
+  ligandB: '4147'
+pde10_edge_7395_0738:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 58.005479304000005
+  D_rings: 0.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: '7395'
+  ligandB: 0738
+pde10_edge_7395_1939:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 74.98440951199996
+  D_rings: 0.0
+  D_rot_bonds: 4.0
+  charge: no_charge
+  ligandA: '7395'
+  ligandB: '1939'
+pde10_edge_7395_3484:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 31.98982923999995
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: '7395'
+  ligandB: '3484'
+pde10_edge_8041_0738:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 16.97893020799995
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '8041'
+  ligandB: 0738
+pde10_edge_8041_1939:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.0
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: '8041'
+  ligandB: '1939'
+pde10_edge_8041_4147:
+  D_atoms: 12.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 69.04661584400014
+  D_rings: 0.0
+  D_rot_bonds: 4.0
+  charge: no_charge
+  ligandA: '8041'
+  ligandB: '4147'
+pde10_edge_8041_4415:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.015650064000056
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: '8041'
+  ligandB: '4415'
+pde10_edge_8414_1038:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 25.031634476000136
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: '8414'
+  ligandB: '1038'
+pde10_edge_8414_1056:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 9.054478096000139
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: '8414'
+  ligandB: '1056'
+pde10_edge_8414_2333:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 27.01089903200011
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: '8414'
+  ligandB: '2333'
+pde10_edge_8414_5644:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 29.026549096000167
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: '8414'
+  ligandB: '5644'
+pde10_edge_9211_0848:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 12.03638550800008
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: '9211'
+  ligandB: 0848
+pde10_edge_9211_1056:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 2.9819074119999414
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: '9211'
+  ligandB: '1056'
+pde10_edge_9211_9237:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 12.0
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: '9211'
+  ligandB: '9237'

@@ -1,0 +1,19 @@
+# Statistics for target cmet and method pmx_cgenff_gapsys compared to exp. values:
+# RMSE: root mean square deviation
+# MUE: mean unsigned error
+# R2: coefficient of determination
+# rho: Pearson's correlation coefficent
+# KTAU: Kendall's tau
+# mle: maximum likelihood estimate
+# stderr: standard error
+# mean: average result of bootstrap samples (1000)
+# low: lower bound of 95% confidence interval
+# high: higher bound of 95% confidence interval
+# All energy values (RMSE, MUE) in kcal/mol
+# Values generated with Arsenic
+,mle,stderr,mean,low,high
+RMSE,1.07,0.21,1.05,0.66,1.50
+MUE,0.79,0.15,0.79,0.53,1.09
+R2,0.64,0.14,0.64,0.34,0.87
+rho,0.80,0.10,0.79,0.56,0.93
+KTAU,0.62,0.11,0.61,0.38,0.81

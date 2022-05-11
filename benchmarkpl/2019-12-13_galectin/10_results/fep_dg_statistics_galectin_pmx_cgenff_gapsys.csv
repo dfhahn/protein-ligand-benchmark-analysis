@@ -1,0 +1,19 @@
+# Statistics for target galectin and method pmx_cgenff_gapsys compared to exp. values:
+# RMSE: root mean square deviation
+# MUE: mean unsigned error
+# R2: coefficient of determination
+# rho: Pearson's correlation coefficent
+# KTAU: Kendall's tau
+# mle: maximum likelihood estimate
+# stderr: standard error
+# mean: average result of bootstrap samples (1000)
+# low: lower bound of 95% confidence interval
+# high: higher bound of 95% confidence interval
+# All energy values (RMSE, MUE) in kcal/mol
+# Values generated with Arsenic
+,mle,stderr,mean,low,high
+RMSE,0.33,0.06,0.33,0.22,0.43
+MUE,0.29,0.06,0.29,0.19,0.41
+R2,0.81,0.16,0.77,0.29,0.96
+rho,0.90,0.13,0.87,0.55,0.99
+KTAU,0.62,0.24,0.62,0.06,1.00

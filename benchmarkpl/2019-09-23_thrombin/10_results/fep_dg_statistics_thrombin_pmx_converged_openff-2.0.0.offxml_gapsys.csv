@@ -1,0 +1,19 @@
+# Statistics for target thrombin and method pmx_converged_openff-2.0.0.offxml_gapsys compared to exp. values:
+# RMSE: root mean square deviation
+# MUE: mean unsigned error
+# R2: coefficient of determination
+# rho: Pearson's correlation coefficent
+# KTAU: Kendall's tau
+# mle: maximum likelihood estimate
+# stderr: standard error
+# mean: average result of bootstrap samples (1000)
+# low: lower bound of 95% confidence interval
+# high: higher bound of 95% confidence interval
+# All energy values (RMSE, MUE) in kcal/mol
+# Values generated with Arsenic
+,mle,stderr,mean,low,high
+RMSE,0.75,0.12,0.74,0.50,0.97
+MUE,0.59,0.14,0.59,0.33,0.87
+R2,0.29,0.19,0.32,0.02,0.72
+rho,0.54,0.20,0.53,0.07,0.85
+KTAU,0.42,0.21,0.42,0.02,0.80

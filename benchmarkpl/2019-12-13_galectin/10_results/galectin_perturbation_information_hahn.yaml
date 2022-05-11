@@ -1,0 +1,70 @@
+galectin_edge_02_ligOMe_05_ligOEt:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.015650064000056
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: 02_ligOMe
+  ligandB: 05_ligOEt
+galectin_edge_03_ligNHMe_02_ligOMe:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.9840155879999202
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: 03_ligNHMe
+  ligandB: 02_ligOMe
+galectin_edge_03_ligNHMe_04_ligNMe2:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.015650064000056
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: 03_ligNHMe
+  ligandB: 04_ligNMe2
+galectin_edge_04_ligNMe2_08_ligNH2:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 28.031300128000055
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: 04_ligNMe2
+  ligandB: 08_ligNH2
+galectin_edge_06_ligPyr_01_ligF:
+  D_atoms: 12.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 51.06727103600019
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: 06_ligPyr
+  ligandB: 01_ligF
+galectin_edge_07_ligOH_01_ligF:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 1.9956635679999977
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: 07_ligOH
+  ligandB: 01_ligF
+galectin_edge_07_ligOH_02_ligOMe:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.015650063999999
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: 07_ligOH
+  ligandB: 02_ligOMe
