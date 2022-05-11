@@ -109,6 +109,98 @@ def drawPerturbation(m1, m2, pairs, target='', n1='', n2='', text=''):
     fig.append(label2)
     return fig.to_str().decode("utf-8") 
 
+def drawPerturbationInverted(m1, m2, pairs, target='', n1='', n2='', text=''):
+    d2d = rdMolDraw2D.MolDraw2DSVG(600,300,300,300)
+    drawoptions = d2d.drawOptions()
+    drawoptions.padding = 0.15
+    drawoptions.prepareMolsBeforeDrawing = True
+#     drawoptions.addAtomIndices = True
+#     drawoptions.atomsLabels = True
+#     d2d.SetDrawOptions(drawoptions)
+#     drawoptions.centreMoleculesBeforeDrawing = False
+    # Generate 2D Depictions
+    mcs = rdFMCS.FindMCS([m1,m2],  maximizeBonds=True, bondCompare=rdFMCS.BondCompare.CompareAny, atomCompare=rdFMCS.AtomCompare.CompareElements,
+                         timeout=10) # find maximum common substructure (MCS)
+    pattern = Chem.MolFromSmarts(mcs.smartsString) # generate mol with MCS
+    match = m1.GetSubstructMatch(pattern) # get substruct match of MCS with first mol
+    conf = m1.GetConformer(0) # get first molecule's conformer
+
+    cnf = Chem.Conformer(len(match)) # generate a conformer for pattern
+    [ cnf.SetAtomPosition(i, conf.GetAtomPosition(j)) for i, j in enumerate(match) ] # set pattern's atom position to first mol's atom positions
+    pattern.AddConformer(cnf) # add conformer to pattern
+    
+    Chem.rdDepictor.GenerateDepictionMatching3DStructure(pattern, pattern) # generate depict of pattern matching 3D struct
+    TemplateAlign.AlignMolToTemplate2D(m1,pattern, clearConfs=True) # generate depict for m1 aligned to pattern
+    TemplateAlign.AlignMolToTemplate2D(m2,pattern, clearConfs=True) # generate depict for m2 aligned to pattern
+
+    specialHighlight = []
+    for i, p in enumerate(pairs):
+        a1 = m1.GetAtomWithIdx(int(p[0]))
+        a2 = m2.GetAtomWithIdx(int(p[1]))
+        sameElement = a1.GetSymbol() == a2.GetSymbol()
+        bothAromatic = a1.GetIsAromatic() and a2.GetIsAromatic()
+        bothNotAromatic = not a1.GetIsAromatic() and not a2.GetIsAromatic()
+        sameHybridization = a1.GetHybridization() == a2.GetHybridization()
+        specialHighlight.append(not sameElement or not sameHybridization or not (bothAromatic or bothNotAromatic))
+    highlightAtoms = [[int(p[0])  for i, p in enumerate(pairs) if specialHighlight[i]],
+                      [int(p[1])  for i, p in enumerate(pairs) if specialHighlight[i]]]
+    highlightAtomColors = [{int(p[0]): newcolors[i%len(newcolors)]for i, p in enumerate(pairs) if specialHighlight[i]},
+                           {int(p[1]): newcolors[i%len(newcolors)] for i, p in enumerate(pairs) if specialHighlight[i]}]
+    highlightAtomRadii = [{int(p[0]): .33 for i, p in enumerate(pairs) if specialHighlight[i]},
+                           {int(p[1]): .33 for i, p in enumerate(pairs) if specialHighlight[i]}]
+
+    num1 = m1.GetNumAtoms()
+    for i in range(num1):
+        if i not in pairs[:,0]:
+            highlightAtoms[0].append(i)
+            highlightAtomColors[0][i]=newcolorsH[5]
+            highlightAtomRadii[0][i]=.33
+    num2 = m2.GetNumAtoms()
+    for i in range(num2):
+        if i not in pairs[:,1]:
+            highlightAtoms[1].append(i)
+            highlightAtomColors[1][i]=newcolorsH[5]
+            highlightAtomRadii[1][i]=.33
+    
+#     for atom in m1.GetAtoms():
+#         atom.SetProp('atomLabel',str(atom.GetIdx()))
+#     for atom in m2.GetAtoms():
+#         atom.SetProp('atomLabel',str(atom.GetIdx()))        
+    d2d.DrawMolecules([m1, m2],  
+                      highlightAtoms=highlightAtoms, 
+                      highlightAtomColors=highlightAtomColors, 
+                      highlightAtomRadii=highlightAtomRadii, 
+                      highlightBonds=[[],[]])
+
+#     conf = m2.GetConformer(0)
+#     crds=np.array([list(conf.GetAtomPosition(i)) for i in range(m2.GetNumAtoms())])
+#     xrange = np.max(crds[:,0]) - np.min(crds[:,0])
+#     yrange = np.max(crds[:,1]) - np.min(crds[:,1])
+#     textx = -xrange*0.7
+#     texty = yrange*0.7
+# #d2d.SetOffset(0,0)
+#     drawoptions.setSymbolColour((1,1,1))
+#     d2d.SetFontSize(d2d.FontSize()*1.5)
+#     d2d.DrawString(f'{target}', Point2D(textx, texty))
+#     d2d.DrawString(f'{n1}->{n2}', Point2D(textx, texty-.75))
+#     print(list(d2d.Offset()))
+#     print(list(d2d.GetDrawCoords(Point2D(np.min(crds[:,0]), np.max(crds[:,1])))))
+    d2d.FinishDrawing()
+    s = d2d.GetDrawingText()
+#     s = s.replace('svg:','')
+    fig = sg.fromstring(s)
+    
+    label = sg.TextElement(300, 20, f'{target} {n1} -> {n2} ', size=20, 
+                       font='sans-serif', anchor='middle', color='black')
+    label1 = sg.TextElement(150, 285, f'{n1}', size=15, 
+                       font='sans-serif', anchor='middle', color='black')
+    label2 = sg.TextElement(450, 285, f'{n2}', size=15, 
+                       font='sans-serif', anchor='middle', color='black')
+    fig.append(label) 
+    fig.append(label1) 
+    fig.append(label2)
+    return fig.to_str().decode("utf-8") 
+
 def add_test_to_perturbation(fig_string, text):
     fig = sg.fromstring(s)
     
@@ -118,6 +210,55 @@ def add_test_to_perturbation(fig_string, text):
     return fig.to_str().decode("utf-8") 
 
 def drawPerturbationBare(m1, m2, pairs, target='', n1='', n2='', text=''):
+    d2d = rdMolDraw2D.MolDraw2DSVG(600,300,300,300)
+    drawoptions = d2d.drawOptions()
+    drawoptions.padding = 0.15
+    drawoptions.prepareMolsBeforeDrawing = True
+#     drawoptions.addAtomIndices = True
+#     drawoptions.atomsLabels = True
+#     d2d.SetDrawOptions(drawoptions)
+#     drawoptions.centreMoleculesBeforeDrawing = False
+    # Generate 2D Depictions
+#         atom.SetProp('atomLabel',str(atom.GetIdx()))
+#     for atom in m2.GetAtoms():
+#         atom.SetProp('atomLabel',str(atom.GetIdx()))        
+    Chem.rdDepictor.Compute2DCoords(m1)
+    Chem.rdDepictor.Compute2DCoords(m2)
+    d2d.DrawMolecules([m1, m2])
+
+#     conf = m2.GetConformer(0)
+#     crds=np.array([list(conf.GetAtomPosition(i)) for i in range(m2.GetNumAtoms())])
+#     xrange = np.max(crds[:,0]) - np.min(crds[:,0])
+#     yrange = np.max(crds[:,1]) - np.min(crds[:,1])
+#     textx = -xrange*0.7
+#     texty = yrange*0.7
+# #d2d.SetOffset(0,0)
+#     drawoptions.setSymbolColour((1,1,1))
+#     d2d.SetFontSize(d2d.FontSize()*1.5)
+#     d2d.DrawString(f'{target}', Point2D(textx, texty))
+#     d2d.DrawString(f'{n1}->{n2}', Point2D(textx, texty-.75))
+#     print(list(d2d.Offset()))
+#     print(list(d2d.GetDrawCoords(Point2D(np.min(crds[:,0]), np.max(crds[:,1])))))
+    d2d.FinishDrawing()
+    s = d2d.GetDrawingText()
+#     s = s.replace('svg:','')
+    fig = sg.fromstring(s)
+    
+    label = sg.TextElement(300, 20, f'{target}: {n1} -> {n2}', size=20, 
+                       font='sans-serif', anchor='middle', color='black')
+    label2 = sg.TextElement(300, 35, f'{text}', size=15, 
+                       font='sans-serif', anchor='middle', color='black')
+    label3 = sg.TextElement(150, 285, f'{n1}', size=15, 
+                       font='sans-serif', anchor='middle', color='black')
+    label4 = sg.TextElement(450, 285, f'{n2}', size=15, 
+                       font='sans-serif', anchor='middle', color='black')
+    fig.append(label) 
+    fig.append(label2) 
+    fig.append(label3)
+    fig.append(label4)
+    return fig.to_str().decode("utf-8") 
+
+def drawPerturbationBareInverted(m1, m2, pairs, target='', n1='', n2='', text=''):
     d2d = rdMolDraw2D.MolDraw2DSVG(600,300,300,300)
     drawoptions = d2d.drawOptions()
     drawoptions.padding = 0.15
@@ -186,7 +327,13 @@ def hist(results, c1, c2, ax_max=None, title=''):
         barmode='stack', 
         xaxis = dict(title='DDG(parsley)-DDG(exp) [kcal mol<sup>-1</sup>]', range=(-8,8)),
         yaxis = dict(title='Count', range=(0,ax_max)),
-        colorway=colors.qualitative.Safe + colors.qualitative.Vivid
+        colorway=colors.qualitative.Safe + colors.qualitative.Vivid,
+        legend=dict(
+            yanchor="top",
+            y=0.99,
+            xanchor="left",
+            x=1.01
+        )
     )
     max_color = len(fig.layout.colorway)
     for i, target in enumerate(targets.target_dict):
@@ -209,4 +356,12 @@ def hist(results, c1, c2, ax_max=None, title=''):
             name=f'$\mu={mu:.1f}, \sigma={std:.1f}$'    
         )
     )  
+    fig.update_layout(
+        legend=dict(
+            yanchor="top",
+            y=0.99,
+            xanchor="left",
+            x=1.01
+        )
+    )
     return fig
