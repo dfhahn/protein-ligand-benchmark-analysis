@@ -1,0 +1,580 @@
+bace_edge_CAT-13a_CAT-13m:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 64.006148
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-13a
+  ligandB: CAT-13m
+bace_edge_CAT-13a_CAT-17g:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 11.040449571999943
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-13a
+  ligandB: CAT-17g
+bace_edge_CAT-13a_CAT-17i:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 7.065521448000027
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-13a
+  ligandB: CAT-17i
+bace_edge_CAT-13b_CAT-17g:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 2.975200491999942
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-13b
+  ligandB: CAT-17g
+bace_edge_CAT-13c_CAT-17i:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 20.965778679999914
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-13c
+  ligandB: CAT-17i
+bace_edge_CAT-13d_CAT-13b:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 12.00000000000017
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-13d
+  ligandB: CAT-13b
+bace_edge_CAT-13d_CAT-13f:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 28.03130012800011
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-13d
+  ligandB: CAT-13f
+bace_edge_CAT-13d_CAT-13h:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.015650064000056
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-13d
+  ligandB: CAT-13h
+bace_edge_CAT-13d_CAT-13i:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.015650063999999
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-13d
+  ligandB: CAT-13i
+bace_edge_CAT-13d_CAT-17a:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 33.96102764799997
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-13d
+  ligandB: CAT-17a
+bace_edge_CAT-13d_CAT-17d:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 32.965778680000085
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-13d
+  ligandB: CAT-17d
+bace_edge_CAT-13d_CAT-17h:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.9952489679998848
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-13d
+  ligandB: CAT-17h
+bace_edge_CAT-13e_CAT-17g:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 28.99085055600017
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-13e
+  ligandB: CAT-17g
+bace_edge_CAT-13e_CAT-17i:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 32.965778680000085
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-13e
+  ligandB: CAT-17i
+bace_edge_CAT-13g_CAT-17g:
+  D_atoms: 10.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 57.02215068400028
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-13g
+  ligandB: CAT-17g
+bace_edge_CAT-13g_CAT-17i:
+  D_atoms: 7.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 60.9970788080002
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-13g
+  ligandB: CAT-17i
+bace_edge_CAT-13h_CAT-17i:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 32.965778680000085
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-13h
+  ligandB: CAT-17i
+bace_edge_CAT-13j_CAT-4o:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 15.970449459999998
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-13j
+  ligandB: CAT-4o
+bace_edge_CAT-13k_CAT-4b:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 4.945711931999881
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CAT-13k
+  ligandB: CAT-4b
+bace_edge_CAT-13k_CAT-4d:
+  D_atoms: 8.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 9.069938132000118
+  D_rings: 0.0
+  D_rot_bonds: 3.0
+  charge: constant_charge
+  ligandA: CAT-13k
+  ligandB: CAT-4d
+bace_edge_CAT-13n_CAT-13a:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 64.006148
+  D_rings: 1.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-13n
+  ligandB: CAT-13a
+bace_edge_CAT-13n_CAT-13k:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.9952489680000554
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-13n
+  ligandB: CAT-13k
+bace_edge_CAT-13n_CAT-4i:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 34.95627661599991
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-13n
+  ligandB: CAT-4i
+bace_edge_CAT-13o_CAT-17h:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 41.956420936000086
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-13o
+  ligandB: CAT-17h
+bace_edge_CAT-13o_CAT-17i:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 61.90179852
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-13o
+  ligandB: CAT-17i
+bace_edge_CAT-17b_CAT-13d:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 3.95046296400011
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CAT-17b
+  ligandB: CAT-13d
+bace_edge_CAT-17b_CAT-17e:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.9952489680000554
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-17b
+  ligandB: CAT-17e
+bace_edge_CAT-17c_CAT-17e:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 6.010564684000087
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CAT-17c
+  ligandB: CAT-17e
+bace_edge_CAT-17f_CAT-17e:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 5.015315716000032
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CAT-17f
+  ligandB: CAT-17e
+bace_edge_CAT-17g_CAT-13c:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 16.990850555999998
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CAT-17g
+  ligandB: CAT-13c
+bace_edge_CAT-17g_CAT-13i:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 28.99085055600011
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-17g
+  ligandB: CAT-13i
+bace_edge_CAT-17g_CAT-17c:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 6.009421811999971
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-17g
+  ligandB: CAT-17c
+bace_edge_CAT-17g_CAT-17d:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 17.990578187999972
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-17g
+  ligandB: CAT-17d
+bace_edge_CAT-17g_CAT-17f:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 7.004670780000026
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-17g
+  ligandB: CAT-17f
+bace_edge_CAT-17i_CAT-13f:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 46.98142874400014
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-17i
+  ligandB: CAT-13f
+bace_edge_CAT-17i_CAT-17a:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 52.911156264
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-17i
+  ligandB: CAT-17a
+bace_edge_CAT-24_CAT-17e:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 8.005085380000025
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CAT-24
+  ligandB: CAT-17e
+bace_edge_CAT-24_CAT-17i:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 24.0
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-24
+  ligandB: CAT-17i
+bace_edge_CAT-4a_CAT-13k:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 34.956276615999855
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-4a
+  ligandB: CAT-13k
+bace_edge_CAT-4a_CAT-4o:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 18.98582715599997
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-4a
+  ligandB: CAT-4o
+bace_edge_CAT-4c_CAT-4o:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 11.02473752800006
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CAT-4c
+  ligandB: CAT-4o
+bace_edge_CAT-4i_CAT-13m:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 34.95627661599991
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-4i
+  ligandB: CAT-13m
+bace_edge_CAT-4j_CAT-4o:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 17.990578187999972
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-4j
+  ligandB: CAT-4o
+bace_edge_CAT-4k_CAT-4o:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 17.990578187999972
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-4k
+  ligandB: CAT-4o
+bace_edge_CAT-4l_CAT-13k:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 32.965778679999914
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-4l
+  ligandB: CAT-13k
+bace_edge_CAT-4m_CAT-13j:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 19.945377584000028
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-4m
+  ligandB: CAT-13j
+bace_edge_CAT-4m_CAT-13k:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 19.945377583999914
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-4m
+  ligandB: CAT-13k
+bace_edge_CAT-4m_CAT-13m:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 20.94062655199997
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-4m
+  ligandB: CAT-13m
+bace_edge_CAT-4m_CAT-4c:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.99966565200009
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-4m
+  ligandB: CAT-4c
+bace_edge_CAT-4m_CAT-4j:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.015650063999942
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-4m
+  ligandB: CAT-4j
+bace_edge_CAT-4m_CAT-4k:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.015650063999942
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-4m
+  ligandB: CAT-4k
+bace_edge_CAT-4m_CAT-4l:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 13.020401096
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-4m
+  ligandB: CAT-4l
+bace_edge_CAT-4m_CAT-4n:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 10.979598904000056
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-4m
+  ligandB: CAT-4n
+bace_edge_CAT-4m_CAT-4p:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 19.945377584000028
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: constant_charge
+  ligandA: CAT-4m
+  ligandB: CAT-4p
+bace_edge_CAT-4n_CAT-13k:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 8.965778679999858
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-4n
+  ligandB: CAT-13k
+bace_edge_CAT-4o_CAT-4b:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 11.024737528000003
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CAT-4o
+  ligandB: CAT-4b
+bace_edge_CAT-4o_CAT-4d:
+  D_atoms: 8.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 25.040387592000002
+  D_rings: 0.0
+  D_rot_bonds: 3.0
+  charge: constant_charge
+  ligandA: CAT-4o
+  ligandB: CAT-4d
+bace_edge_CAT-4p_CAT-13k:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 1.1368683772161603e-13
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CAT-4p
+  ligandB: CAT-13k

@@ -1,0 +1,324 @@
+cdk8_edge_13_14:
+  DDG: 3.243333333333334
+  dDDG: 0.8257709023067699
+  ligandA: '13'
+  ligandB: '14'
+  unit: kilocalories / mole
+cdk8_edge_16_14:
+  DDG: 0.7966666666666667
+  dDDG: 0.40602170061411796
+  ligandA: '16'
+  ligandB: '14'
+  unit: kilocalories / mole
+cdk8_edge_16_15:
+  DDG: -0.5766666666666668
+  dDDG: 0.4421936472018425
+  ligandA: '16'
+  ligandB: '15'
+  unit: kilocalories / mole
+cdk8_edge_16_19:
+  DDG: -1.876666666666667
+  dDDG: 0.3110432556255992
+  ligandA: '16'
+  ligandB: '19'
+  unit: kilocalories / mole
+cdk8_edge_16_20:
+  DDG: -1.8366666666666671
+  dDDG: 0.45647890926218976
+  ligandA: '16'
+  ligandB: '20'
+  unit: kilocalories / mole
+cdk8_edge_17_16:
+  DDG: -1.416666666666667
+  dDDG: 0.4802592471641219
+  ligandA: '17'
+  ligandB: '16'
+  unit: kilocalories / mole
+cdk8_edge_17_25:
+  DDG: -1.0533333333333321
+  dDDG: 1.1859178787030547
+  ligandA: '17'
+  ligandB: '25'
+  unit: kilocalories / mole
+cdk8_edge_17_45:
+  DDG: -4.323333333333335
+  dDDG: 0.2345539298314441
+  ligandA: '17'
+  ligandB: '45'
+  unit: kilocalories / mole
+cdk8_edge_18_13:
+  DDG: -0.019999999999999574
+  dDDG: 0.5123857179588139
+  ligandA: '18'
+  ligandB: '13'
+  unit: kilocalories / mole
+cdk8_edge_18_15:
+  DDG: -0.5666666666666664
+  dDDG: 0.1899427098247296
+  ligandA: '18'
+  ligandB: '15'
+  unit: kilocalories / mole
+cdk8_edge_18_45:
+  DDG: -2.1266666666666665
+  dDDG: 0.34639909177432415
+  ligandA: '18'
+  ligandB: '45'
+  unit: kilocalories / mole
+cdk8_edge_19_25:
+  DDG: 2.9366666666666625
+  dDDG: 1.0329746170559906
+  ligandA: '19'
+  ligandB: '25'
+  unit: kilocalories / mole
+cdk8_edge_19_32:
+  DDG: 0.040000000000000334
+  dDDG: 0.16996923945819925
+  ligandA: '19'
+  ligandB: '32'
+  unit: kilocalories / mole
+cdk8_edge_20_35:
+  DDG: -3.0033333333333325
+  dDDG: 0.7150794718702559
+  ligandA: '20'
+  ligandB: '35'
+  unit: kilocalories / mole
+cdk8_edge_21_20:
+  DDG: -1.7233333333333338
+  dDDG: 0.47476624287696106
+  ligandA: '21'
+  ligandB: '20'
+  unit: kilocalories / mole
+cdk8_edge_21_26:
+  DDG: -0.3433333333333337
+  dDDG: 0.11080397808985941
+  ligandA: '21'
+  ligandB: '26'
+  unit: kilocalories / mole
+cdk8_edge_21_29:
+  DDG: -1.6000000000000039
+  dDDG: 0.6384956828245424
+  ligandA: '21'
+  ligandB: '29'
+  unit: kilocalories / mole
+cdk8_edge_21_41:
+  DDG: -4.596666666666667
+  dDDG: 0.6979976117945867
+  ligandA: '21'
+  ligandB: '41'
+  unit: kilocalories / mole
+cdk8_edge_22_21:
+  DDG: 2.9166666666666665
+  dDDG: 0.2514342753099688
+  ligandA: '22'
+  ligandB: '21'
+  unit: kilocalories / mole
+cdk8_edge_22_26:
+  DDG: 1.5200000000000031
+  dDDG: 0.897226181048084
+  ligandA: '22'
+  ligandB: '26'
+  unit: kilocalories / mole
+cdk8_edge_22_32:
+  DDG: 1.2500000000000024
+  dDDG: 0.39574236679198316
+  ligandA: '22'
+  ligandB: '32'
+  unit: kilocalories / mole
+cdk8_edge_23_14:
+  DDG: 2.1366666666666654
+  dDDG: 1.426601755785291
+  ligandA: '23'
+  ligandB: '14'
+  unit: kilocalories / mole
+cdk8_edge_23_34:
+  DDG: -2.873333333333335
+  dDDG: 0.21497433581586067
+  ligandA: '23'
+  ligandB: '34'
+  unit: kilocalories / mole
+cdk8_edge_24_33:
+  DDG: 1.513333333333333
+  dDDG: 0.6364179969568352
+  ligandA: '24'
+  ligandB: '33'
+  unit: kilocalories / mole
+cdk8_edge_24_42:
+  DDG: -3.086666666666666
+  dDDG: 1.0581677539571914
+  ligandA: '24'
+  ligandB: '42'
+  unit: kilocalories / mole
+cdk8_edge_27_36:
+  DDG: -3.1033333333333317
+  dDDG: 0.42218237925714414
+  ligandA: '27'
+  ligandB: '36'
+  unit: kilocalories / mole
+cdk8_edge_28_25:
+  DDG: -1.153333333333336
+  dDDG: 0.30835137412864744
+  ligandA: '28'
+  ligandB: '25'
+  unit: kilocalories / mole
+cdk8_edge_28_30:
+  DDG: -3.753333333333335
+  dDDG: 0.6383718437578152
+  ligandA: '28'
+  ligandB: '30'
+  unit: kilocalories / mole
+cdk8_edge_28_39:
+  DDG: -4.546666666666666
+  dDDG: 0.5251458142145291
+  ligandA: '28'
+  ligandB: '39'
+  unit: kilocalories / mole
+cdk8_edge_29_33:
+  DDG: -0.16666666666666666
+  dDDG: 0.36217558890693774
+  ligandA: '29'
+  ligandB: '33'
+  unit: kilocalories / mole
+cdk8_edge_30_33:
+  DDG: 2.449999999999999
+  dDDG: 0.3003384703292462
+  ligandA: '30'
+  ligandB: '33'
+  unit: kilocalories / mole
+cdk8_edge_30_37:
+  DDG: -0.9033333333333334
+  dDDG: 0.5158669145541658
+  ligandA: '30'
+  ligandB: '37'
+  unit: kilocalories / mole
+cdk8_edge_31_25:
+  DDG: 4.016666666666661
+  dDDG: 0.8218057874432633
+  ligandA: '31'
+  ligandB: '25'
+  unit: kilocalories / mole
+cdk8_edge_31_37:
+  DDG: 0.9299999999999998
+  dDDG: 0.25919279935475925
+  ligandA: '31'
+  ligandB: '37'
+  unit: kilocalories / mole
+cdk8_edge_32_23:
+  DDG: 0.9733333333333339
+  dDDG: 0.8960351012986165
+  ligandA: '32'
+  ligandB: '23'
+  unit: kilocalories / mole
+cdk8_edge_33_32:
+  DDG: 1.4533333333333331
+  dDDG: 0.3282542418000077
+  ligandA: '33'
+  ligandB: '32'
+  unit: kilocalories / mole
+cdk8_edge_33_34:
+  DDG: -1.7633333333333343
+  dDDG: 0.3307411307076741
+  ligandA: '33'
+  ligandB: '34'
+  unit: kilocalories / mole
+cdk8_edge_34_36:
+  DDG: -0.48666666666666664
+  dDDG: 0.5526011044114243
+  ligandA: '34'
+  ligandB: '36'
+  unit: kilocalories / mole
+cdk8_edge_35_18:
+  DDG: 3.6199999999999997
+  dDDG: 0.32830959125903525
+  ligandA: '35'
+  ligandB: '18'
+  unit: kilocalories / mole
+cdk8_edge_35_27:
+  DDG: 2.270000000000001
+  dDDG: 0.9095017441306129
+  ligandA: '35'
+  ligandB: '27'
+  unit: kilocalories / mole
+cdk8_edge_35_36:
+  DDG: -0.13666666666666671
+  dDDG: 0.2668051198408049
+  ligandA: '35'
+  ligandB: '36'
+  unit: kilocalories / mole
+cdk8_edge_35_37:
+  DDG: -0.12999999999999975
+  dDDG: 0.5837094245361543
+  ligandA: '35'
+  ligandB: '37'
+  unit: kilocalories / mole
+cdk8_edge_38_29:
+  DDG: -0.12333333333333012
+  dDDG: 0.7981191032300516
+  ligandA: '38'
+  ligandB: '29'
+  unit: kilocalories / mole
+cdk8_edge_39_32:
+  DDG: 3.1499999999999964
+  dDDG: 0.4911809136871075
+  ligandA: '39'
+  ligandB: '32'
+  unit: kilocalories / mole
+cdk8_edge_40_19:
+  DDG: 3.383333333333335
+  dDDG: 0.4226979008358494
+  ligandA: '40'
+  ligandB: '19'
+  unit: kilocalories / mole
+cdk8_edge_40_33:
+  DDG: 2.1966666666666677
+  dDDG: 0.38559697432406176
+  ligandA: '40'
+  ligandB: '33'
+  unit: kilocalories / mole
+cdk8_edge_41_39:
+  DDG: 0.5333333333333327
+  dDDG: 0.06268909666330671
+  ligandA: '41'
+  ligandB: '39'
+  unit: kilocalories / mole
+cdk8_edge_41_40:
+  DDG: 0.07999999999999947
+  dDDG: 0.1265274325242867
+  ligandA: '41'
+  ligandB: '40'
+  unit: kilocalories / mole
+cdk8_edge_42_13:
+  DDG: 1.2299999999999993
+  dDDG: 0.8153134602412333
+  ligandA: '42'
+  ligandB: '13'
+  unit: kilocalories / mole
+cdk8_edge_43_38:
+  DDG: -1.0933333333333335
+  dDDG: 0.22900136217544306
+  ligandA: '43'
+  ligandB: '38'
+  unit: kilocalories / mole
+cdk8_edge_43_42:
+  DDG: -0.15333333333333363
+  dDDG: 0.26144932304231
+  ligandA: '43'
+  ligandB: '42'
+  unit: kilocalories / mole
+cdk8_edge_43_45:
+  DDG: -0.08999999999999986
+  dDDG: 0.3158992943012744
+  ligandA: '43'
+  ligandB: '45'
+  unit: kilocalories / mole
+cdk8_edge_44_32:
+  DDG: 1.7266666666666666
+  dDDG: 0.3417165783859258
+  ligandA: '44'
+  ligandB: '32'
+  unit: kilocalories / mole
+cdk8_edge_44_36:
+  DDG: 0.013333333333333345
+  dDDG: 0.7304307772246105
+  ligandA: '44'
+  ligandB: '36'
+  unit: kilocalories / mole

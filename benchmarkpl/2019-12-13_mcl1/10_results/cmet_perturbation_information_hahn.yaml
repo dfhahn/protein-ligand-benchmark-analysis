@@ -1,0 +1,740 @@
+cmet_edge_CHEMBL3402741_400_CHEMBL3402756_2.7:
+  D_atoms: 10.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 37.027359708000176
+  D_rings: 1.0
+  D_rot_bonds: 7.0
+  charge: charge_move
+  ligandA: CHEMBL3402741_400
+  ligandB: CHEMBL3402756_2.7
+cmet_edge_CHEMBL3402741_400_CHEMBL3402763_90:
+  D_atoms: 8.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 26.060101720000034
+  D_rings: 0.0
+  D_rot_bonds: 4.0
+  charge: constant_charge
+  ligandA: CHEMBL3402741_400
+  ligandB: CHEMBL3402763_90
+cmet_edge_CHEMBL3402741_400_CHEMBL3402764_90:
+  D_atoms: 14.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 90.03392230800017
+  D_rings: 0.0
+  D_rot_bonds: 6.0
+  charge: constant_charge
+  ligandA: CHEMBL3402741_400
+  ligandB: CHEMBL3402764_90
+cmet_edge_CHEMBL3402742_23_CHEMBL3402756_2.7:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 15.043913411999995
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: charge_to_dummy
+  ligandA: CHEMBL3402742_23
+  ligandB: CHEMBL3402756_2.7
+cmet_edge_CHEMBL3402742_23_CHEMBL3402763_90:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 26.011171400000137
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CHEMBL3402742_23
+  ligandB: CHEMBL3402763_90
+cmet_edge_CHEMBL3402743_42_CHEMBL3402742_23:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 19.972071000000028
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CHEMBL3402743_42
+  ligandB: CHEMBL3402742_23
+cmet_edge_CHEMBL3402743_42_CHEMBL3402756_2.7:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 35.01598441200002
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: charge_to_dummy
+  ligandA: CHEMBL3402743_42
+  ligandB: CHEMBL3402756_2.7
+cmet_edge_CHEMBL3402743_42_CHEMBL3402758_10:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 0.030077004000077068
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: charge_to_dummy
+  ligandA: CHEMBL3402743_42
+  ligandB: CHEMBL3402758_10
+cmet_edge_CHEMBL3402743_42_CHEMBL3402760_1:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 24.030077004000077
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: charge_to_dummy
+  ligandA: CHEMBL3402743_42
+  ligandB: CHEMBL3402760_1
+cmet_edge_CHEMBL3402743_42_CHEMBL3402762_1:
+  D_atoms: 9.0
+  D_charge: 0.0
+  D_heavy_atoms: 5.0
+  D_mol_weight: 50.04572706800013
+  D_rings: 2.0
+  D_rot_bonds: 4.0
+  charge: charge_to_dummy
+  ligandA: CHEMBL3402743_42
+  ligandB: CHEMBL3402762_1
+cmet_edge_CHEMBL3402743_42_CHEMBL3402763_90:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 45.983242400000165
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CHEMBL3402743_42
+  ligandB: CHEMBL3402763_90
+cmet_edge_CHEMBL3402743_42_CHEMBL3402764_90:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 17.990578187999972
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CHEMBL3402743_42
+  ligandB: CHEMBL3402764_90
+cmet_edge_CHEMBL3402744_300_4_CHEMBL3402745_200_5:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 14.015650064000056
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: no_charge
+  ligandA: CHEMBL3402744_300_4
+  ligandB: CHEMBL3402745_200_5
+cmet_edge_CHEMBL3402744_300_4_CHEMBL3402752_30000_12:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 23.982241759999965
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: CHEMBL3402744_300_4
+  ligandB: CHEMBL3402752_30000_12
+cmet_edge_CHEMBL3402744_300_4_CHEMBL3402756_2.7:
+  D_atoms: 19.0
+  D_charge: 1.0
+  D_heavy_atoms: 8.0
+  D_mol_weight: 107.09676015209027
+  D_rings: 1.0
+  D_rot_bonds: 4.0
+  charge: charge_change
+  ligandA: CHEMBL3402744_300_4
+  ligandB: CHEMBL3402756_2.7
+cmet_edge_CHEMBL3402744_300_4_CHEMBL3402757_6.5:
+  D_atoms: 19.0
+  D_charge: 1.0
+  D_heavy_atoms: 7.0
+  D_mol_weight: 89.1061819640903
+  D_rings: 1.0
+  D_rot_bonds: 4.0
+  charge: charge_change
+  ligandA: CHEMBL3402744_300_4
+  ligandB: CHEMBL3402757_6.5
+cmet_edge_CHEMBL3402745_200_5_CHEMBL3402742_23:
+  D_atoms: 12.0
+  D_charge: 1.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 78.03719667609022
+  D_rings: 0.0
+  D_rot_bonds: 4.0
+  charge: charge_change
+  ligandA: CHEMBL3402745_200_5
+  ligandB: CHEMBL3402742_23
+cmet_edge_CHEMBL3402745_200_5_CHEMBL3402743_42:
+  D_atoms: 12.0
+  D_charge: 1.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 58.06512567609019
+  D_rings: 0.0
+  D_rot_bonds: 4.0
+  charge: charge_change
+  ligandA: CHEMBL3402745_200_5
+  ligandB: CHEMBL3402743_42
+cmet_edge_CHEMBL3402745_200_5_CHEMBL3402748_5300_8:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 6.994580272000007
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: CHEMBL3402745_200_5
+  ligandB: CHEMBL3402748_5300_8
+cmet_edge_CHEMBL3402745_200_5_CHEMBL3402752_30000_12:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 9.96659169599991
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: CHEMBL3402745_200_5
+  ligandB: CHEMBL3402752_30000_12
+cmet_edge_CHEMBL3402745_200_5_CHEMBL3402756_2.7:
+  D_atoms: 16.0
+  D_charge: 1.0
+  D_heavy_atoms: 7.0
+  D_mol_weight: 93.08111008809021
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: charge_change
+  ligandA: CHEMBL3402745_200_5
+  ligandB: CHEMBL3402756_2.7
+cmet_edge_CHEMBL3402747_3400_7_CHEMBL3402744_300_4:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 9.000334347999967
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: CHEMBL3402747_3400_7
+  ligandB: CHEMBL3402744_300_4
+cmet_edge_CHEMBL3402747_3400_7_CHEMBL3402745_200_5:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 5.015315716000089
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: CHEMBL3402747_3400_7
+  ligandB: CHEMBL3402745_200_5
+cmet_edge_CHEMBL3402747_3400_7_CHEMBL3402748_5300_8:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 1.9792645559999187
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402747_3400_7
+  ligandB: CHEMBL3402748_5300_8
+cmet_edge_CHEMBL3402747_3400_7_CHEMBL3402749_500_9:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.9952489679999985
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402747_3400_7
+  ligandB: CHEMBL3402749_500_9
+cmet_edge_CHEMBL3402747_3400_7_CHEMBL3402751_2100_11:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 14.981907411999998
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402747_3400_7
+  ligandB: CHEMBL3402751_2100_11
+cmet_edge_CHEMBL3402747_3400_7_CHEMBL3402752_30000_12:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 14.981907411999998
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402747_3400_7
+  ligandB: CHEMBL3402752_30000_12
+cmet_edge_CHEMBL3402747_3400_7_CHEMBL3402755_4200_15:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 10.020735444000081
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402747_3400_7
+  ligandB: CHEMBL3402755_4200_15
+cmet_edge_CHEMBL3402748_5300_8_CHEMBL3402751_2100_11:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 16.961171967999917
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402748_5300_8
+  ligandB: CHEMBL3402751_2100_11
+cmet_edge_CHEMBL3402749_500_9_CHEMBL3402747_3400_7:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.9952489679999985
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402749_500_9
+  ligandB: CHEMBL3402747_3400_7
+cmet_edge_CHEMBL3402749_500_9_CHEMBL3402748_5300_8:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.9840155879999202
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402749_500_9
+  ligandB: CHEMBL3402748_5300_8
+cmet_edge_CHEMBL3402749_500_9_CHEMBL3402751_2100_11:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 15.977156379999997
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402749_500_9
+  ligandB: CHEMBL3402751_2100_11
+cmet_edge_CHEMBL3402749_500_9_CHEMBL3402754_40_14:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 11.01598441200008
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402749_500_9
+  ligandB: CHEMBL3402754_40_14
+cmet_edge_CHEMBL3402750_400_10_CHEMBL3402747_3400_7:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 14.981907411999998
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402750_400_10
+  ligandB: CHEMBL3402747_3400_7
+cmet_edge_CHEMBL3402750_400_10_CHEMBL3402748_5300_8:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 16.961171967999917
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402750_400_10
+  ligandB: CHEMBL3402748_5300_8
+cmet_edge_CHEMBL3402750_400_10_CHEMBL3402749_500_9:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 15.977156379999997
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402750_400_10
+  ligandB: CHEMBL3402749_500_9
+cmet_edge_CHEMBL3402750_400_10_CHEMBL3402751_2100_11:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.0
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402750_400_10
+  ligandB: CHEMBL3402751_2100_11
+cmet_edge_CHEMBL3402752_30000_12_CHEMBL3402744_300_4:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 23.982241759999965
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: no_charge
+  ligandA: CHEMBL3402752_30000_12
+  ligandB: CHEMBL3402744_300_4
+cmet_edge_CHEMBL3402752_30000_12_CHEMBL3402747_3400_7:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 14.981907411999998
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402752_30000_12
+  ligandB: CHEMBL3402747_3400_7
+cmet_edge_CHEMBL3402752_30000_12_CHEMBL3402748_5300_8:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 16.961171967999917
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402752_30000_12
+  ligandB: CHEMBL3402748_5300_8
+cmet_edge_CHEMBL3402752_30000_12_CHEMBL3402749_500_9:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 15.977156379999997
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402752_30000_12
+  ligandB: CHEMBL3402749_500_9
+cmet_edge_CHEMBL3402752_30000_12_CHEMBL3402751_2100_11:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.0
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402752_30000_12
+  ligandB: CHEMBL3402751_2100_11
+cmet_edge_CHEMBL3402752_30000_12_CHEMBL3402754_40_14:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 4.961171967999917
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402752_30000_12
+  ligandB: CHEMBL3402754_40_14
+cmet_edge_CHEMBL3402752_30000_12_CHEMBL3402755_4200_15:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 4.961171967999917
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402752_30000_12
+  ligandB: CHEMBL3402755_4200_15
+cmet_edge_CHEMBL3402753_200_13_CHEMBL3402747_3400_7:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 9.025486476000083
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402753_200_13
+  ligandB: CHEMBL3402747_3400_7
+cmet_edge_CHEMBL3402753_200_13_CHEMBL3402748_5300_8:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 11.004751032000001
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402753_200_13
+  ligandB: CHEMBL3402748_5300_8
+cmet_edge_CHEMBL3402753_200_13_CHEMBL3402750_400_10:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 5.956420935999915
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402753_200_13
+  ligandB: CHEMBL3402750_400_10
+cmet_edge_CHEMBL3402753_200_13_CHEMBL3402754_40_14:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.9952489679999985
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402753_200_13
+  ligandB: CHEMBL3402754_40_14
+cmet_edge_CHEMBL3402753_200_13_CHEMBL3402755_4200_15:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.9952489679999985
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402753_200_13
+  ligandB: CHEMBL3402755_4200_15
+cmet_edge_CHEMBL3402753_200_13_CHEMBL3402761_1_21:
+  D_atoms: 17.0
+  D_charge: 0.0
+  D_heavy_atoms: 8.0
+  D_mol_weight: 105.07267008800028
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: CHEMBL3402753_200_13
+  ligandB: CHEMBL3402761_1_21
+cmet_edge_CHEMBL3402754_40_14_CHEMBL3402751_2100_11:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 4.961171967999917
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402754_40_14
+  ligandB: CHEMBL3402751_2100_11
+cmet_edge_CHEMBL3402754_40_14_CHEMBL3402761_1_21:
+  D_atoms: 18.0
+  D_charge: 0.0
+  D_heavy_atoms: 8.0
+  D_mol_weight: 104.07742112000028
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: CHEMBL3402754_40_14
+  ligandB: CHEMBL3402761_1_21
+cmet_edge_CHEMBL3402755_4200_15_CHEMBL3402753_200_13:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.9952489679999985
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402755_4200_15
+  ligandB: CHEMBL3402753_200_13
+cmet_edge_CHEMBL3402755_4200_15_CHEMBL3402754_40_14:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.0
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: no_charge
+  ligandA: CHEMBL3402755_4200_15
+  ligandB: CHEMBL3402754_40_14
+cmet_edge_CHEMBL3402755_4200_15_CHEMBL3402761_1_21:
+  D_atoms: 18.0
+  D_charge: 0.0
+  D_heavy_atoms: 8.0
+  D_mol_weight: 104.07742112000028
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: CHEMBL3402755_4200_15
+  ligandB: CHEMBL3402761_1_21
+cmet_edge_CHEMBL3402757_6.5_CHEMBL3402756_2.7:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 17.990578187999972
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CHEMBL3402757_6.5
+  ligandB: CHEMBL3402756_2.7
+cmet_edge_CHEMBL3402758_10_CHEMBL3402742_23:
+  D_atoms: 3.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 19.94199399599995
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: charge_to_dummy
+  ligandA: CHEMBL3402758_10
+  ligandB: CHEMBL3402742_23
+cmet_edge_CHEMBL3402758_10_CHEMBL3402756_2.7:
+  D_atoms: 1.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 34.985907407999946
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CHEMBL3402758_10
+  ligandB: CHEMBL3402756_2.7
+cmet_edge_CHEMBL3402758_10_CHEMBL3402760_1:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 24.0
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: constant_charge
+  ligandA: CHEMBL3402758_10
+  ligandB: CHEMBL3402760_1
+cmet_edge_CHEMBL3402759_5.7_CHEMBL3402757_6.5:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 1.0
+  D_mol_weight: 12.019986496000115
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CHEMBL3402759_5.7
+  ligandB: CHEMBL3402757_6.5
+cmet_edge_CHEMBL3402759_5.7_CHEMBL3402758_10:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 29.01531571600009
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CHEMBL3402759_5.7
+  ligandB: CHEMBL3402758_10
+cmet_edge_CHEMBL3402759_5.7_CHEMBL3402763_90:
+  D_atoms: 2.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 16.93784968
+  D_rings: 1.0
+  D_rot_bonds: 1.0
+  charge: charge_to_dummy
+  ligandA: CHEMBL3402759_5.7
+  ligandB: CHEMBL3402763_90
+cmet_edge_CHEMBL3402761_1_21_CHEMBL3402754_40_14:
+  D_atoms: 18.0
+  D_charge: 0.0
+  D_heavy_atoms: 8.0
+  D_mol_weight: 104.07742112000028
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: CHEMBL3402761_1_21
+  ligandB: CHEMBL3402754_40_14
+cmet_edge_CHEMBL3402761_1_21_CHEMBL3402755_4200_15:
+  D_atoms: 18.0
+  D_charge: 0.0
+  D_heavy_atoms: 8.0
+  D_mol_weight: 104.07742112000028
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: no_charge
+  ligandA: CHEMBL3402761_1_21
+  ligandB: CHEMBL3402755_4200_15
+cmet_edge_CHEMBL3402761_1_21_CHEMBL3402760_1:
+  D_atoms: 1.0
+  D_charge: 1.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 26.987638167910006
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: charge_change
+  ligandA: CHEMBL3402761_1_21
+  ligandB: CHEMBL3402760_1
+cmet_edge_CHEMBL3402761_1_21_CHEMBL3402762_1:
+  D_atoms: 3.0
+  D_charge: 1.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 0.9719881039099505
+  D_rings: 0.0
+  D_rot_bonds: 0.0
+  charge: charge_change
+  ligandA: CHEMBL3402761_1_21
+  ligandB: CHEMBL3402762_1
+cmet_edge_CHEMBL3402762_1_CHEMBL3402760_1:
+  D_atoms: 4.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 26.015650064000056
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: charge_to_dummy
+  ligandA: CHEMBL3402762_1
+  ligandB: CHEMBL3402760_1
+cmet_edge_CHEMBL3402763_90_CHEMBL3402764_90:
+  D_atoms: 6.0
+  D_charge: 0.0
+  D_heavy_atoms: 2.0
+  D_mol_weight: 63.97382058800014
+  D_rings: 0.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CHEMBL3402763_90
+  ligandB: CHEMBL3402764_90
+cmet_edge_CHEMBL3402765_11-charged-pKa-8.1_CHEMBL3402742_23:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 22.038493684000002
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CHEMBL3402765_11-charged-pKa-8.1
+  ligandB: CHEMBL3402742_23
+cmet_edge_CHEMBL3402765_11-charged-pKa-8.1_CHEMBL3402743_42:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 3.0
+  D_mol_weight: 42.01056468400003
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CHEMBL3402765_11-charged-pKa-8.1
+  ligandB: CHEMBL3402743_42
+cmet_edge_CHEMBL3402765_11-charged-pKa-8.1_CHEMBL3402744_300_4:
+  D_atoms: 20.0
+  D_charge: 1.0
+  D_heavy_atoms: 8.0
+  D_mol_weight: 114.09134042409028
+  D_rings: 1.0
+  D_rot_bonds: 3.0
+  charge: charge_change
+  ligandA: CHEMBL3402765_11-charged-pKa-8.1
+  ligandB: CHEMBL3402744_300_4
+cmet_edge_CHEMBL3402765_11-charged-pKa-8.1_CHEMBL3402745_200_5:
+  D_atoms: 17.0
+  D_charge: 1.0
+  D_heavy_atoms: 7.0
+  D_mol_weight: 100.07569036009022
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: charge_change
+  ligandA: CHEMBL3402765_11-charged-pKa-8.1
+  ligandB: CHEMBL3402745_200_5
+cmet_edge_CHEMBL3402765_11-charged-pKa-8.1_CHEMBL3402760_1:
+  D_atoms: 0.0
+  D_charge: 0.0
+  D_heavy_atoms: 0.0
+  D_mol_weight: 17.980487679999953
+  D_rings: 0.0
+  D_rot_bonds: 1.0
+  charge: charge_to_dummy
+  ligandA: CHEMBL3402765_11-charged-pKa-8.1
+  ligandB: CHEMBL3402760_1
+cmet_edge_CHEMBL3402765_11-charged-pKa-8.1_CHEMBL3402764_90:
+  D_atoms: 5.0
+  D_charge: 0.0
+  D_heavy_atoms: 4.0
+  D_mol_weight: 60.001142872
+  D_rings: 1.0
+  D_rot_bonds: 2.0
+  charge: constant_charge
+  ligandA: CHEMBL3402765_11-charged-pKa-8.1
+  ligandB: CHEMBL3402764_90

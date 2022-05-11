@@ -6,7 +6,7 @@ ptp1b_edge_20667_2qbp_23479:
   unit: kilocalories / mole
 ptp1b_edge_20667_2qbp_23482:
   DDG: 0.16999999999999935
-  dDDG: 0.5297964286216111
+  dDDG: 0.5259351641125375
   ligandA: 20667_2qbp
   ligandB: '23482'
   unit: kilocalories / mole
@@ -18,13 +18,13 @@ ptp1b_edge_20667_2qbp_23484:
   unit: kilocalories / mole
 ptp1b_edge_20667_2qbp_23485:
   DDG: 0.31333333333333374
-  dDDG: 0.861340419321974
+  dDDG: 0.8539261608903305
   ligandA: 20667_2qbp
   ligandB: '23485'
   unit: kilocalories / mole
 ptp1b_edge_20667_2qbp_23486:
   DDG: -0.46333333333333354
-  dDDG: 0.5570581636446931
+  dDDG: 0.5504726199135559
   ligandA: 20667_2qbp
   ligandB: '23486'
   unit: kilocalories / mole
@@ -36,13 +36,13 @@ ptp1b_edge_20669_2qbr_23466:
   unit: kilocalories / mole
 ptp1b_edge_20669_2qbr_23472:
   DDG: -1.6800000000000022
-  dDDG: 1.0710294532727642
+  dDDG: 1.0658574751634036
   ligandA: 20669_2qbr
   ligandB: '23472'
   unit: kilocalories / mole
 ptp1b_edge_20670_2qbs_23330_2qbq:
   DDG: -0.5833333333333327
-  dDDG: 0.23378110634674934
+  dDDG: 0.22362663144315992
   ligandA: 20670_2qbs
   ligandB: 23330_2qbq
   unit: kilocalories / mole
@@ -54,19 +54,19 @@ ptp1b_edge_20670_2qbs_23466:
   unit: kilocalories / mole
 ptp1b_edge_20670_2qbs_23477:
   DDG: 0.6700000000000005
-  dDDG: 0.34737678350765505
+  dDDG: 0.3450264260743321
   ligandA: 20670_2qbs
   ligandB: '23477'
   unit: kilocalories / mole
 ptp1b_edge_20670_2qbs_23479:
   DDG: 0.6366666666666679
-  dDDG: 0.2667336930469505
+  dDDG: 0.2661215868497319
   ligandA: 20670_2qbs
   ligandB: '23479'
   unit: kilocalories / mole
 ptp1b_edge_20670_2qbs_23482:
   DDG: -0.10333333333332462
-  dDDG: 0.46417866445420936
+  dDDG: 0.47333976505383235
   ligandA: 20670_2qbs
   ligandB: '23482'
   unit: kilocalories / mole
@@ -78,25 +78,25 @@ ptp1b_edge_20670_2qbs_23483:
   unit: kilocalories / mole
 ptp1b_edge_23466_23475:
   DDG: -1.4800000000000002
-  dDDG: 0.37462461576969125
+  dDDG: 0.3790096626658095
   ligandA: '23466'
   ligandB: '23475'
   unit: kilocalories / mole
 ptp1b_edge_23467_23466:
   DDG: -0.36666666666666653
-  dDDG: 0.3321571617593172
+  dDDG: 0.3266311848045192
   ligandA: '23467'
   ligandB: '23466'
   unit: kilocalories / mole
 ptp1b_edge_23467_23468:
   DDG: 0.01666666666666572
-  dDDG: 0.1532125613648069
+  dDDG: 0.152356168861508
   ligandA: '23467'
   ligandB: '23468'
   unit: kilocalories / mole
 ptp1b_edge_23467_23469:
   DDG: -0.2699999999999998
-  dDDG: 0.7000699562586354
+  dDDG: 0.6960565355407835
   ligandA: '23467'
   ligandB: '23469'
   unit: kilocalories / mole
@@ -108,7 +108,7 @@ ptp1b_edge_23467_23470:
   unit: kilocalories / mole
 ptp1b_edge_23467_23473:
   DDG: -0.7800000000000011
-  dDDG: 0.8489997805183159
+  dDDG: 0.8497999905253554
   ligandA: '23467'
   ligandB: '23473'
   unit: kilocalories / mole
@@ -120,7 +120,7 @@ ptp1b_edge_23467_23474:
   unit: kilocalories / mole
 ptp1b_edge_23467_23475:
   DDG: -0.7166666666666668
-  dDDG: 0.4839202743719982
+  dDDG: 0.48260719901313287
   ligandA: '23467'
   ligandB: '23475'
   unit: kilocalories / mole
@@ -132,37 +132,37 @@ ptp1b_edge_23467_23476:
   unit: kilocalories / mole
 ptp1b_edge_23469_20669_2qbr:
   DDG: -0.20333333333333314
-  dDDG: 0.3363542343145302
+  dDDG: 0.3374136947731741
   ligandA: '23469'
   ligandB: 20669_2qbr
   unit: kilocalories / mole
 ptp1b_edge_23469_23472:
   DDG: -1.2233333333333387
-  dDDG: 0.3193207431786344
+  dDDG: 0.3109336650807511
   ligandA: '23469'
   ligandB: '23472'
   unit: kilocalories / mole
 ptp1b_edge_23471_23466:
   DDG: -0.1966666666666678
-  dDDG: 0.44123234001696127
+  dDDG: 0.45047674893734235
   ligandA: '23471'
   ligandB: '23466'
   unit: kilocalories / mole
 ptp1b_edge_23471_23468:
   DDG: -0.39999999999999974
-  dDDG: 0.2147401756960174
+  dDDG: 0.2157328503795952
   ligandA: '23471'
   ligandB: '23468'
   unit: kilocalories / mole
 ptp1b_edge_23471_23470:
   DDG: 0.19333333333333277
-  dDDG: 0.28375209355633624
+  dDDG: 0.2844966438513821
   ligandA: '23471'
   ligandB: '23470'
   unit: kilocalories / mole
 ptp1b_edge_23473_20669_2qbr:
   DDG: 0.8666666666666684
-  dDDG: 0.20574512253224628
+  dDDG: 0.2099881987889053
   ligandA: '23473'
   ligandB: 20669_2qbr
   unit: kilocalories / mole
@@ -180,7 +180,7 @@ ptp1b_edge_23476_23466:
   unit: kilocalories / mole
 ptp1b_edge_23477_23330_2qbq:
   DDG: -2.366666666666665
-  dDDG: 0.5138067158849758
+  dDDG: 0.512784061065983
   ligandA: '23477'
   ligandB: 23330_2qbq
   unit: kilocalories / mole
@@ -192,19 +192,19 @@ ptp1b_edge_23477_23466:
   unit: kilocalories / mole
 ptp1b_edge_23477_23467:
   DDG: 0.1966666666666678
-  dDDG: 0.5506038887718332
+  dDDG: 0.5405114314453133
   ligandA: '23477'
   ligandB: '23467'
   unit: kilocalories / mole
 ptp1b_edge_23477_23479:
   DDG: -0.16000000000000014
-  dDDG: 0.24933225442569992
+  dDDG: 0.25405591156878754
   ligandA: '23477'
   ligandB: '23479'
   unit: kilocalories / mole
 ptp1b_edge_23477_23482:
   DDG: -1.4600000000000033
-  dDDG: 0.624535047792713
+  dDDG: 0.6191718043160702
   ligandA: '23477'
   ligandB: '23482'
   unit: kilocalories / mole
@@ -228,25 +228,25 @@ ptp1b_edge_23480_23482:
   unit: kilocalories / mole
 ptp1b_edge_23482_23479:
   DDG: 0.09666666666666875
-  dDDG: 0.44222707175178516
+  dDDG: 0.4304167296552972
   ligandA: '23482'
   ligandB: '23479'
   unit: kilocalories / mole
 ptp1b_edge_23482_23485:
   DDG: 1.2433333333333323
-  dDDG: 0.6413766910565596
+  dDDG: 0.6416229002230114
   ligandA: '23482'
   ligandB: '23485'
   unit: kilocalories / mole
 ptp1b_edge_23482_23486:
   DDG: -1.9966666666666673
-  dDDG: 0.8208025785905095
+  dDDG: 0.8523904291496961
   ligandA: '23482'
   ligandB: '23486'
   unit: kilocalories / mole
 ptp1b_edge_23483_23479:
   DDG: 0.2566666666666653
-  dDDG: 0.8298398685020123
+  dDDG: 0.8445746312571004
   ligandA: '23483'
   ligandB: '23479'
   unit: kilocalories / mole
@@ -288,7 +288,7 @@ ptp1b_edge_23486_23479:
   unit: kilocalories / mole
 ptp1b_edge_23486_23485:
   DDG: 2.2099999999999995
-  dDDG: 0.47206578048405917
+  dDDG: 0.4792121607814514
   ligandA: '23486'
   ligandB: '23485'
   unit: kilocalories / mole

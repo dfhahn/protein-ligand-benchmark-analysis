@@ -1,0 +1,19 @@
+# Statistics for target cdk8 and method pmx_cgenff_gapsys compared to exp. values:
+# RMSE: root mean square deviation
+# MUE: mean unsigned error
+# R2: coefficient of determination
+# rho: Pearson's correlation coefficent
+# KTAU: Kendall's tau
+# mle: maximum likelihood estimate
+# stderr: standard error
+# mean: average result of bootstrap samples (1000)
+# low: lower bound of 95% confidence interval
+# high: higher bound of 95% confidence interval
+# All energy values (RMSE, MUE) in kcal/mol
+# Values generated with Arsenic
+,mle,stderr,mean,low,high
+RMSE,1.45,0.16,1.44,1.15,1.74
+MUE,1.19,0.15,1.20,0.93,1.49
+R2,0.38,0.13,0.38,0.12,0.65
+rho,0.62,0.13,0.61,0.32,0.82
+KTAU,0.46,0.12,0.46,0.21,0.68

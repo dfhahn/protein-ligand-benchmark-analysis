@@ -1,0 +1,19 @@
+# Statistics for target bace_hunt and method pmx_converged_openff-1.0.0.offxml_hahn compared to exp. values:
+# RMSE: root mean square deviation
+# MUE: mean unsigned error
+# R2: coefficient of determination
+# rho: Pearson's correlation coefficent
+# KTAU: Kendall's tau
+# mle: maximum likelihood estimate
+# stderr: standard error
+# mean: average result of bootstrap samples (1000)
+# low: lower bound of 95% confidence interval
+# high: higher bound of 95% confidence interval
+# All energy values (RMSE, MUE) in kcal/mol
+# Values generated with Arsenic
+,mle,stderr,mean,low,high
+RMSE,0.80,0.10,0.79,0.60,0.99
+MUE,0.64,0.08,0.64,0.49,0.81
+R2,0.56,0.13,0.55,0.28,0.77
+rho,0.75,0.09,0.75,0.54,0.88
+KTAU,0.60,0.10,0.59,0.36,0.77

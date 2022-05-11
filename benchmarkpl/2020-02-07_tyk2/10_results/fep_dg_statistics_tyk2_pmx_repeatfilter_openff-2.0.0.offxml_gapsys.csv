@@ -1,0 +1,19 @@
+# Statistics for target tyk2 and method pmx_repeatfilter_openff-2.0.0.offxml_gapsys compared to exp. values:
+# RMSE: root mean square deviation
+# MUE: mean unsigned error
+# R2: coefficient of determination
+# rho: Pearson's correlation coefficent
+# KTAU: Kendall's tau
+# mle: maximum likelihood estimate
+# stderr: standard error
+# mean: average result of bootstrap samples (1000)
+# low: lower bound of 95% confidence interval
+# high: higher bound of 95% confidence interval
+# All energy values (RMSE, MUE) in kcal/mol
+# Values generated with Arsenic
+,mle,stderr,mean,low,high
+RMSE,0.71,0.12,0.70,0.47,0.93
+MUE,0.58,0.10,0.58,0.39,0.78
+R2,0.71,0.12,0.72,0.42,0.89
+rho,0.84,0.08,0.84,0.64,0.94
+KTAU,0.68,0.13,0.69,0.43,0.90
