@@ -1,3 +1,4 @@
+import os
 import numpy as np
 from scipy.stats import norm
 import pandas as pd
@@ -9,7 +10,6 @@ from rdkit import Chem
 from rdkit.Chem import Draw, rdDepictor, rdFMCS, TemplateAlign
 from rdkit.Chem.Draw import rdMolDraw2D
 from svgutils import transform as sg
-
 from PLBenchmarks import targets, ligands, edges
 
 
@@ -365,3 +365,50 @@ def hist(results, c1, c2, ax_max=None, title=''):
         )
     )
     return fig
+
+
+def create_perturbation_visualization(df, text='', img_size=('400px', '200px'), directory='13_outliers', redraw=False):
+    import benchmarkpl
+    path = benchmarkpl.__path__[0]
+    targets.set_data_dir(path)
+    # check whether image exists
+    os.makedirs(os.path.join(path, targets.get_target_dir(df["target"]), directory), exist_ok=True)
+    file_path = os.path.join(path, targets.get_target_dir(df["target"]), directory, f'{df["edge"]}.svg')
+    if not redraw and os.path.exists(file_path):
+        with open(file_path, 'r') as file:
+            img = file.read()
+    else:
+        # visualization
+        if os.path.exists('../../../02_benchmark_calculations/'):
+            targets.set_data_dir('../../../02_benchmark_calculations/')
+        target_path = f'{targets.data_path}/{targets.get_target_dir(df["target"])}'
+        m1 = Chem.SDMolSupplier(
+            f'{target_path}/02_ligands/lig_{df["ligandA"]}/crd/lig_{df["ligandA"]}.sdf', 
+            removeHs=False)[0]
+        m2 = Chem.SDMolSupplier(
+            f'{target_path}/02_ligands/lig_{df["ligandB"]}/crd/lig_{df["ligandB"]}.sdf', 
+            removeHs=False)[0]
+        pairs = np.loadtxt(
+            f'{target_path}/03_hybrid/edge_{df["ligandA"]}_{df["ligandB"]}/water/crd/pairs.dat'
+        )
+        # decrement pairs to match rdkit counting from 0!
+        pairs -= 1
+        
+        img = drawPerturbationInverted(m1, # rdkit molecule 1
+                                       m2, # rdkit molecule 2
+                                       pairs, # pairs, np array or list of lists
+                                       target=df["target"], # string with target name
+                                       n1=df["ligandA"], # name mol 1
+                                       n2=df["ligandB"], # name  mol 2
+                                       text=text # additional text
+                                      )
+        
+        with open(file_path, 'w') as file:
+            file.write(img)
+        
+        targets.set_data_dir(path)
+    original = sg.fromstring(img)
+    original.set_size(img_size)
+    svgstring = original.to_str().decode("utf-8").rstrip()
+    svgstring = '\n'.join(svgstring.split('\n')[1:])
+    return svgstring
