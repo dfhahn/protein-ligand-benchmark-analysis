@@ -1,6 +1,6 @@
 shp2_edge_10_E30:
   DDG: -3.323333333333333
-  dDDG: 0.4556713766072744
+  dDDG: 0.46314304937499384
   ligandA: '10'
   ligandB: E30
   unit: kilocalories / mole
@@ -42,7 +42,7 @@ shp2_edge_3_E9:
   unit: kilocalories / mole
 shp2_edge_4_E27:
   DDG: -0.9333333333333371
-  dDDG: 0.18090422533148212
+  dDDG: 0.18434461563328172
   ligandA: '4'
   ligandB: E27
   unit: kilocalories / mole
@@ -54,7 +54,7 @@ shp2_edge_4_E5:
   unit: kilocalories / mole
 shp2_edge_4_SHP836-2:
   DDG: -0.2966666666666667
-  dDDG: 0.16297279131189613
+  dDDG: 0.1672953280696949
   ligandA: '4'
   ligandB: SHP836-2
   unit: kilocalories / mole
@@ -96,13 +96,13 @@ shp2_edge_E1_E24:
   unit: kilocalories / mole
 shp2_edge_E1_E3:
   DDG: 1.9266666666666659
-  dDDG: 0.46176546777277044
+  dDDG: 0.46479029453651344
   ligandA: E1
   ligandB: E3
   unit: kilocalories / mole
 shp2_edge_E1_E4:
   DDG: 2.016666666666666
-  dDDG: 0.5241024290919498
+  dDDG: 0.5187111161209611
   ligandA: E1
   ligandB: E4
   unit: kilocalories / mole
@@ -114,13 +114,13 @@ shp2_edge_E22_7:
   unit: kilocalories / mole
 shp2_edge_E22_E23:
   DDG: -1.1066666666666667
-  dDDG: 0.1571812722186098
+  dDDG: 0.15577871141034574
   ligandA: E22
   ligandB: E23
   unit: kilocalories / mole
 shp2_edge_E24_E23:
   DDG: -0.15333333333333302
-  dDDG: 0.1516231165613855
+  dDDG: 0.14868838016347355
   ligandA: E24
   ligandB: E23
   unit: kilocalories / mole
@@ -132,7 +132,7 @@ shp2_edge_E24_E28:
   unit: kilocalories / mole
 shp2_edge_E24_E30:
   DDG: -5.146666666666671
-  dDDG: 0.43704434519236113
+  dDDG: 0.437328840460164
   ligandA: E24
   ligandB: E30
   unit: kilocalories / mole
@@ -144,7 +144,7 @@ shp2_edge_E25_E3:
   unit: kilocalories / mole
 shp2_edge_E26_E25:
   DDG: -0.2166666666666662
-  dDDG: 0.46426695701665055
+  dDDG: 0.462108353574497
   ligandA: E26
   ligandB: E25
   unit: kilocalories / mole
@@ -186,7 +186,7 @@ shp2_edge_E29_E9:
   unit: kilocalories / mole
 shp2_edge_E2_E1:
   DDG: -1.8966666666666672
-  dDDG: 0.1832201625162404
+  dDDG: 0.18130082187251942
   ligandA: E2
   ligandB: E1
   unit: kilocalories / mole
@@ -198,13 +198,13 @@ shp2_edge_E2_E23:
   unit: kilocalories / mole
 shp2_edge_E2_E4:
   DDG: -0.4066666666666663
-  dDDG: 0.36590020472938883
+  dDDG: 0.3700460764603624
   ligandA: E2
   ligandB: E4
   unit: kilocalories / mole
 shp2_edge_E4_E3:
   DDG: -0.36666666666666653
-  dDDG: 0.16703569905009596
+  dDDG: 0.1693843442609278
   ligandA: E4
   ligandB: E3
   unit: kilocalories / mole
@@ -246,13 +246,13 @@ shp2_edge_E9_E30:
   unit: kilocalories / mole
 shp2_edge_SHP099-1_10:
   DDG: 0.9633333333333312
-  dDDG: 0.20891117186794875
+  dDDG: 0.20962776589781404
   ligandA: SHP099-1
   ligandB: '10'
   unit: kilocalories / mole
 shp2_edge_SHP099-1_E1:
   DDG: -0.603333333333334
-  dDDG: 0.15749052705263916
+  dDDG: 0.15794341544795634
   ligandA: SHP099-1
   ligandB: E1
   unit: kilocalories / mole
@@ -264,7 +264,7 @@ shp2_edge_SHP099-1_E14:
   unit: kilocalories / mole
 shp2_edge_SHP099-1_E2:
   DDG: 0.9166666666666666
-  dDDG: 0.21359426580659555
+  dDDG: 0.21547698532281573
   ligandA: SHP099-1
   ligandB: E2
   unit: kilocalories / mole
@@ -276,13 +276,13 @@ shp2_edge_SHP099-1_E22:
   unit: kilocalories / mole
 shp2_edge_SHP099-1_E23:
   DDG: 3.530000000000001
-  dDDG: 0.4586369220907868
+  dDDG: 0.4578957513391496
   ligandA: SHP099-1
   ligandB: E23
   unit: kilocalories / mole
 shp2_edge_SHP099-1_E24:
   DDG: 2.466666666666667
-  dDDG: 0.8034590412158065
+  dDDG: 0.8044319806274413
   ligandA: SHP099-1
   ligandB: E24
   unit: kilocalories / mole
@@ -306,7 +306,7 @@ shp2_edge_SHP099-1_E28:
   unit: kilocalories / mole
 shp2_edge_SHP099-1_E30:
   DDG: -1.906666666666671
-  dDDG: 0.24979188688476958
+  dDDG: 0.2466120520829967
   ligandA: SHP099-1
   ligandB: E30
   unit: kilocalories / mole
@@ -324,7 +324,7 @@ shp2_edge_SHP099-1_E8:
   unit: kilocalories / mole
 shp2_edge_SHP836-2_E27:
   DDG: -0.4299999999999879
-  dDDG: 0.34753816479605004
+  dDDG: 0.3436136811964581
   ligandA: SHP836-2
   ligandB: E27
   unit: kilocalories / mole

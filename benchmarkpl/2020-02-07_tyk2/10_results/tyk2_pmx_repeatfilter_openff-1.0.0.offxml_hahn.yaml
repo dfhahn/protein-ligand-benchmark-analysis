@@ -1,144 +1,144 @@
 tyk2_edge_ejm_31_ejm_43:
   DDG: 1.3733333333333324
-  dDDG: 0.23039530289761773
+  dDDG: 0.23597333652090344
   ligandA: ejm_31
   ligandB: ejm_43
   unit: kilocalories / mole
 tyk2_edge_ejm_31_ejm_45:
   DDG: 0.0266666666666661
-  dDDG: 0.12607220957087628
+  dDDG: 0.12632727233559402
   ligandA: ejm_31
   ligandB: ejm_45
   unit: kilocalories / mole
 tyk2_edge_ejm_31_ejm_46:
   DDG: -1.0399999999999991
-  dDDG: 0.21075974074109916
+  dDDG: 0.21142619565699305
   ligandA: ejm_31
   ligandB: ejm_46
   unit: kilocalories / mole
 tyk2_edge_ejm_31_ejm_48:
   DDG: 0.6166666666666659
-  dDDG: 0.3771109385603907
+  dDDG: 0.37598068182535394
   ligandA: ejm_31
   ligandB: ejm_48
   unit: kilocalories / mole
 tyk2_edge_ejm_31_jmc_28:
   DDG: -0.0899999999999963
-  dDDG: 0.2764462969506357
+  dDDG: 0.2784997589386149
   ligandA: ejm_31
   ligandB: jmc_28
   unit: kilocalories / mole
 tyk2_edge_ejm_42_ejm_48:
   DDG: 0.5666666666666664
-  dDDG: 0.4605637273100483
+  dDDG: 0.461665063137346
   ligandA: ejm_42
   ligandB: ejm_48
   unit: kilocalories / mole
 tyk2_edge_ejm_42_ejm_54:
   DDG: -1.6333333333333329
-  dDDG: 0.11110794100838305
+  dDDG: 0.11294216733914081
   ligandA: ejm_42
   ligandB: ejm_54
   unit: kilocalories / mole
 tyk2_edge_ejm_42_ejm_55:
   DDG: -1.1266666666666663
-  dDDG: 0.06956360660194133
+  dDDG: 0.06864240452264525
   ligandA: ejm_42
   ligandB: ejm_55
   unit: kilocalories / mole
 tyk2_edge_ejm_43_ejm_55:
   DDG: -3.0066666666666664
-  dDDG: 0.23454947583455543
+  dDDG: 0.23426366927381337
   ligandA: ejm_43
   ligandB: ejm_55
   unit: kilocalories / mole
 tyk2_edge_ejm_44_ejm_42:
   DDG: -2.6566666666666676
-  dDDG: 0.5166476766107899
+  dDDG: 0.5149493009491212
   ligandA: ejm_44
   ligandB: ejm_42
   unit: kilocalories / mole
 tyk2_edge_ejm_44_ejm_55:
   DDG: -4.189999999999998
-  dDDG: 0.2882430243186341
+  dDDG: 0.28832264109841815
   ligandA: ejm_44
   ligandB: ejm_55
   unit: kilocalories / mole
 tyk2_edge_ejm_45_ejm_42:
   DDG: 0.14000000000000057
-  dDDG: 0.08620273311696829
+  dDDG: 0.0858124983459571
   ligandA: ejm_45
   ligandB: ejm_42
   unit: kilocalories / mole
 tyk2_edge_ejm_47_ejm_31:
   DDG: 0.2333333333333331
-  dDDG: 0.23228064734940815
+  dDDG: 0.2268017241600038
   ligandA: ejm_47
   ligandB: ejm_31
   unit: kilocalories / mole
 tyk2_edge_ejm_47_ejm_55:
   DDG: -1.120000000000001
-  dDDG: 0.2505602443731716
+  dDDG: 0.2527108113294744
   ligandA: ejm_47
   ligandB: ejm_55
   unit: kilocalories / mole
 tyk2_edge_ejm_49_ejm_31:
   DDG: -0.8666666666666671
-  dDDG: 0.1190359959830304
+  dDDG: 0.11716611341345076
   ligandA: ejm_49
   ligandB: ejm_31
   unit: kilocalories / mole
 tyk2_edge_ejm_49_ejm_50:
   DDG: -1.4566666666666668
-  dDDG: 0.15737432370055882
+  dDDG: 0.15528438343374096
   ligandA: ejm_49
   ligandB: ejm_50
   unit: kilocalories / mole
 tyk2_edge_ejm_50_ejm_42:
   DDG: -0.4733333333333339
-  dDDG: 0.1316126386677062
+  dDDG: 0.1311227766823958
   ligandA: ejm_50
   ligandB: ejm_42
   unit: kilocalories / mole
 tyk2_edge_ejm_55_ejm_54:
   DDG: -0.8633333333333333
-  dDDG: 0.25547520389611705
+  dDDG: 0.25619433207226017
   ligandA: ejm_55
   ligandB: ejm_54
   unit: kilocalories / mole
 tyk2_edge_jmc_23_ejm_46:
   DDG: 0.0
-  dDDG: 0.10710830532414586
+  dDDG: 0.10760556455004679
   ligandA: jmc_23
   ligandB: ejm_46
   unit: kilocalories / mole
 tyk2_edge_jmc_23_ejm_55:
   DDG: -0.326666666666668
-  dDDG: 0.18639245202813096
+  dDDG: 0.1833499614291444
   ligandA: jmc_23
   ligandB: ejm_55
   unit: kilocalories / mole
 tyk2_edge_jmc_23_jmc_27:
   DDG: 0.12333333333333307
-  dDDG: 0.12856395080845348
+  dDDG: 0.1280464233994083
   ligandA: jmc_23
   ligandB: jmc_27
   unit: kilocalories / mole
 tyk2_edge_jmc_23_jmc_30:
   DDG: -0.32333333333333353
-  dDDG: 0.0746833289451861
+  dDDG: 0.07502711932934958
   ligandA: jmc_23
   ligandB: jmc_30
   unit: kilocalories / mole
 tyk2_edge_jmc_28_jmc_27:
   DDG: -0.6933333333333337
-  dDDG: 0.051208597539968065
+  dDDG: 0.05196653624994643
   ligandA: jmc_28
   ligandB: jmc_27
   unit: kilocalories / mole
 tyk2_edge_jmc_28_jmc_30:
   DDG: -1.03
-  dDDG: 0.05850475922894111
+  dDDG: 0.05781535987317987
   ligandA: jmc_28
   ligandB: jmc_30
   unit: kilocalories / mole

@@ -1,0 +1,23 @@
+id:        14
+name:      ros1
+fullname:  
+netcharge: 
+pdb:       
+ligands:
+    - lig_1495
+    - lig_2359
+    - lig_2606
+    - lig_3040
+    - lig_3053
+    - lig_4326
+    - lig_5109
+    - lig_6691
+    - lig_6770
+    - lig_8602
+references:
+    measurement:
+    calculation:
+        - 10.1021/acs.jctc.8b01290
+comments:
+associated_sets:
+    - Activity Cliffs
