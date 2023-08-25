@@ -1,0 +1,51 @@
+# analyze_dhdl.py, pmx version = 0+untagged.798.gd5d9766.dirty
+# pwd = /netmount/glic3/vgapsys/janssenBioexcel_benchmark/aws_benchmark/s3_buckets/rsync_work_only/output-openff-v2-protein/hif2a/edge_290_23/analyze3
+# Thu Jul 22 14:23:07 2021 (vgapsys)
+# command = /home/vgapsys/anaconda2/envs/python3.7/bin/pmx analyse -iA /netmount/glic3/vgapsys/janssenBioexcel_benchmark/aws_benchmark/s3_buckets/rsync_work_only/output-openff-v2-protein/hif2a/edge_290_23/stateA/run3/work.dat -iB /netmount/glic3/vgapsys/janssenBioexcel_benchmark/aws_benchmark/s3_buckets/rsync_work_only/output-openff-v2-protein/hif2a/edge_290_23/stateB/run3/work.dat -o /netmount/glic3/vgapsys/janssenBioexcel_benchmark/aws_benchmark/s3_buckets/rsync_work_only/output-openff-v2-protein/hif2a/edge_290_23/analyze3/results.dat -w /netmount/glic3/vgapsys/janssenBioexcel_benchmark/aws_benchmark/s3_buckets/rsync_work_only/output-openff-v2-protein/hif2a/edge_290_23/analyze3/wplot.png -t 298 -b 100
+
+
+ ========================================================
+                       ANALYSIS
+ ========================================================
+  Number of forward (0->1) trajectories: 80
+  Number of reverse (1->0) trajectories: 80
+  Temperature : 298.00 K
+
+ --------------------------------------------------------
+             Crooks Gaussian Intersection     
+ --------------------------------------------------------
+  CGI: Forward Gauss mean =  -374.77 kJ/mol std =     6.09 kJ/mol
+  CGI: Reverse Gauss mean =  -402.52 kJ/mol std =     7.80 kJ/mol
+  CGI: dG =  -387.35 kJ/mol
+  CGI: Std Err (bootstrap:parametric) =     0.81 kJ/mol
+  CGI: Std Err (bootstrap) =     0.81 kJ/mol
+    Forward: gaussian quality = 0.37
+             ---> KS-Test Ok
+    Reverse: gaussian quality = 0.34
+             ---> KS-Test Ok
+
+ --------------------------------------------------------
+             Bennett Acceptance Ratio     
+ --------------------------------------------------------
+  BAR: dG =  -389.12 kJ/mol
+  BAR: Std Err (analytical) =     1.06 kJ/mol
+  BAR: Std Err (bootstrap)  =     0.71 kJ/mol
+  BAR: Conv =     0.30
+  BAR: Conv Std Err (bootstrap) =     0.08
+
+ --------------------------------------------------------
+             Jarzynski estimator     
+ --------------------------------------------------------
+  JARZ: dG Forward =  -383.26 kJ/mol
+  JARZ: dG Reverse =  -395.80 kJ/mol
+  JARZ: dG Mean    =  -389.53 kJ/mol
+  JARZ: Std Err Forward (bootstrap) =     1.04 kJ/mol
+  JARZ: Std Err Reverse (bootstrap) =     0.79 kJ/mol
+  JARZ_Gauss: dG Forward =  -382.34 kJ/mol
+  JARZ_Gauss: dG Reverse =  -390.08 kJ/mol
+  JARZ_Gauss: dG Mean    =  -386.21 kJ/mol
+  JARZ_Gauss: Std Err (analytical) Forward =     1.39 kJ/mol
+  JARZ_Gauss: Std Err (analytical) Reverse =     2.16 kJ/mol
+  JARZ_Gauss: Std Err Forward (bootstrap) =     1.60 kJ/mol
+  JARZ_Gauss: Std Err Reverse (bootstrap) =     2.38 kJ/mol
+ ========================================================
