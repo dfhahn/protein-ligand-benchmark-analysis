@@ -24,7 +24,7 @@ shp2_edge_11_E25:
   unit: kilocalories / mole
 shp2_edge_11_E6:
   DDG: -1.4533333333333378
-  dDDG: 0.5272000491846754
+  dDDG: 0.5369926708159385
   ligandA: '11'
   ligandB: E6
   unit: kilocalories / mole
@@ -42,7 +42,7 @@ shp2_edge_3_E9:
   unit: kilocalories / mole
 shp2_edge_4_E27:
   DDG: 0.10333333333332935
-  dDDG: 0.9258904609036711
+  dDDG: 0.9249300601253199
   ligandA: '4'
   ligandB: E27
   unit: kilocalories / mole
@@ -54,7 +54,7 @@ shp2_edge_4_E5:
   unit: kilocalories / mole
 shp2_edge_4_SHP836-2:
   DDG: -0.6833333333333348
-  dDDG: 0.3598399845043174
+  dDDG: 0.3646805522010485
   ligandA: '4'
   ligandB: SHP836-2
   unit: kilocalories / mole
@@ -78,7 +78,7 @@ shp2_edge_E14_7:
   unit: kilocalories / mole
 shp2_edge_E1_6:
   DDG: 0.5333333333333338
-  dDDG: 0.7281903934855668
+  dDDG: 0.7306013227207016
   ligandA: E1
   ligandB: '6'
   unit: kilocalories / mole
@@ -90,13 +90,13 @@ shp2_edge_E1_7:
   unit: kilocalories / mole
 shp2_edge_E1_E24:
   DDG: -0.1633333333333269
-  dDDG: 0.4033994014272673
+  dDDG: 0.40388937505934885
   ligandA: E1
   ligandB: E24
   unit: kilocalories / mole
 shp2_edge_E1_E3:
   DDG: 1.6666666666666619
-  dDDG: 0.5971268462135805
+  dDDG: 0.5959322137851658
   ligandA: E1
   ligandB: E3
   unit: kilocalories / mole
@@ -114,13 +114,13 @@ shp2_edge_E22_7:
   unit: kilocalories / mole
 shp2_edge_E22_E23:
   DDG: -0.01999999999999998
-  dDDG: 0.1795269390073608
+  dDDG: 0.18326945462255223
   ligandA: E22
   ligandB: E23
   unit: kilocalories / mole
 shp2_edge_E24_E23:
   DDG: -2.206666666666667
-  dDDG: 0.11841099193593575
+  dDDG: 0.11731405733702717
   ligandA: E24
   ligandB: E23
   unit: kilocalories / mole
@@ -144,7 +144,7 @@ shp2_edge_E25_E3:
   unit: kilocalories / mole
 shp2_edge_E26_E25:
   DDG: -0.29000000000000153
-  dDDG: 0.5879221453109627
+  dDDG: 0.5776442905245074
   ligandA: E26
   ligandB: E25
   unit: kilocalories / mole
@@ -186,7 +186,7 @@ shp2_edge_E29_E9:
   unit: kilocalories / mole
 shp2_edge_E2_E1:
   DDG: 0.029999999999999954
-  dDDG: 0.18457603279568643
+  dDDG: 0.18659215899504336
   ligandA: E2
   ligandB: E1
   unit: kilocalories / mole
@@ -198,13 +198,13 @@ shp2_edge_E2_E23:
   unit: kilocalories / mole
 shp2_edge_E2_E4:
   DDG: 1.1300000000000001
-  dDDG: 0.632409090852937
+  dDDG: 0.6383271538970862
   ligandA: E2
   ligandB: E4
   unit: kilocalories / mole
 shp2_edge_E4_E3:
   DDG: -0.32333333333333175
-  dDDG: 0.2659936576888045
+  dDDG: 0.2634293151881376
   ligandA: E4
   ligandB: E3
   unit: kilocalories / mole
@@ -228,7 +228,7 @@ shp2_edge_E6_E8:
   unit: kilocalories / mole
 shp2_edge_E8_E30:
   DDG: -1.4066666666666663
-  dDDG: 0.615106259979686
+  dDDG: 0.611145057575612
   ligandA: E8
   ligandB: E30
   unit: kilocalories / mole
@@ -240,7 +240,7 @@ shp2_edge_E8_E4:
   unit: kilocalories / mole
 shp2_edge_E9_E30:
   DDG: -1.8466666666666687
-  dDDG: 0.4320704027505719
+  dDDG: 0.43849148322294623
   ligandA: E9
   ligandB: E30
   unit: kilocalories / mole
@@ -270,19 +270,19 @@ shp2_edge_SHP099-1_E2:
   unit: kilocalories / mole
 shp2_edge_SHP099-1_E22:
   DDG: -1.3199999999999992
-  dDDG: 0.3070597446060068
+  dDDG: 0.30359706733610325
   ligandA: SHP099-1
   ligandB: E22
   unit: kilocalories / mole
 shp2_edge_SHP099-1_E23:
   DDG: -1.6899999999999988
-  dDDG: 0.47505941407675867
+  dDDG: 0.47784804928157826
   ligandA: SHP099-1
   ligandB: E23
   unit: kilocalories / mole
 shp2_edge_SHP099-1_E24:
   DDG: 0.5133333333333336
-  dDDG: 0.31932020355909446
+  dDDG: 0.3179411740420504
   ligandA: SHP099-1
   ligandB: E24
   unit: kilocalories / mole
@@ -306,7 +306,7 @@ shp2_edge_SHP099-1_E28:
   unit: kilocalories / mole
 shp2_edge_SHP099-1_E30:
   DDG: 0.11000000000000017
-  dDDG: 0.1974225844908105
+  dDDG: 0.20042338123882747
   ligandA: SHP099-1
   ligandB: E30
   unit: kilocalories / mole
@@ -318,13 +318,13 @@ shp2_edge_SHP099-1_E5:
   unit: kilocalories / mole
 shp2_edge_SHP099-1_E8:
   DDG: 0.7199999999999989
-  dDDG: 0.3920060140554678
+  dDDG: 0.3944915658312641
   ligandA: SHP099-1
   ligandB: E8
   unit: kilocalories / mole
 shp2_edge_SHP836-2_E27:
   DDG: 1.5766666666666633
-  dDDG: 0.34229885662676696
+  dDDG: 0.33937608406672365
   ligandA: SHP836-2
   ligandB: E27
   unit: kilocalories / mole

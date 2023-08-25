@@ -1,0 +1,22 @@
+# analyze_crooks.py, pmx version = 2.0+65.g8d87706.dirty
+# pwd = /projects/CNS/OGA/FEP_compare/openforcefield/03_benchmark_analysis/benchmarkpl/00_data
+# Wed Dec  8 12:16:00 2021 (dhahn3)
+# command = /home/dhahn3/miniconda3/envs/off/bin/pmx analyse -o analyze/openff-2.0.0.offxml/ros1/complex/edge_1537_0529/analyze1/results.txt -iA gapsys_openff-2.0.0_work/output-run2-protein/ros1/edge_1537_0529/stateA/run1/work.dat -iB gapsys_openff-2.0.0_work/output-run2-protein/ros1/edge_1537_0529/stateB/run1/work.dat --work_plot none -b 100 -t 298 -m bar --no_ks --unit kcal
+
+
+ ========================================================
+                       ANALYSIS
+ ========================================================
+  Number of forward (0->1) trajectories: 80
+  Number of reverse (1->0) trajectories: 80
+  Temperature : 298.00 K
+
+ --------------------------------------------------------
+             Bennett Acceptance Ratio     
+ --------------------------------------------------------
+  BAR: dG =   -15.33 kcal/mol
+  BAR: Std Err (analytical) =     0.24 kcal/mol
+  BAR: Std Err (bootstrap)  =     0.11 kcal/mol
+  BAR: Conv =     0.53
+  BAR: Conv Std Err (bootstrap) =     0.07
+ ========================================================

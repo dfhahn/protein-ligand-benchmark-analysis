@@ -1,0 +1,96 @@
+thrombin_edge_1a_3b:
+  DDG: 1.1399043977055445
+  dDDG: 1.306934605354415
+  ligandA: 1a
+  ligandB: 3b
+  unit: kilocalories / mole
+thrombin_edge_1a_5:
+  DDG: 1.320908221797323
+  dDDG: 0.21505643306129668
+  ligandA: 1a
+  ligandB: '5'
+  unit: kilocalories / mole
+thrombin_edge_1b_1a:
+  DDG: 0.7620650095602295
+  dDDG: 0.08886692557546015
+  ligandA: 1b
+  ligandB: 1a
+  unit: kilocalories / mole
+thrombin_edge_1b_1c:
+  DDG: -0.12370936902485666
+  dDDG: 0.17701478058860515
+  ligandA: 1b
+  ligandB: 1c
+  unit: kilocalories / mole
+thrombin_edge_1b_3b:
+  DDG: 2.0648374760994264
+  dDDG: 0.22322947510669622
+  ligandA: 1b
+  ligandB: 3b
+  unit: kilocalories / mole
+thrombin_edge_1b_7a:
+  DDG: 1.1890726577437856
+  dDDG: 0.6960285273841063
+  ligandA: 1b
+  ligandB: 7a
+  unit: kilocalories / mole
+thrombin_edge_1d_1a:
+  DDG: 0.23323135755258118
+  dDDG: 0.7148120974217943
+  ligandA: 1d
+  ligandB: 1a
+  unit: kilocalories / mole
+thrombin_edge_1d_1c:
+  DDG: -1.1964627151051626
+  dDDG: 0.5549616542064579
+  ligandA: 1d
+  ligandB: 1c
+  unit: kilocalories / mole
+thrombin_edge_1d_5:
+  DDG: 0.3504302103250476
+  dDDG: 1.756594818165665
+  ligandA: 1d
+  ligandB: '5'
+  unit: kilocalories / mole
+thrombin_edge_1d_6e:
+  DDG: -1.0678585086042065
+  dDDG: 1.1919655127860451
+  ligandA: 1d
+  ligandB: 6e
+  unit: kilocalories / mole
+thrombin_edge_1d_7a:
+  DDG: -0.053279158699808815
+  dDDG: 0.9539078057652698
+  ligandA: 1d
+  ligandB: 7a
+  unit: kilocalories / mole
+thrombin_edge_3a_1b:
+  DDG: -0.7487571701720843
+  dDDG: 0.1622425185030336
+  ligandA: 3a
+  ligandB: 1b
+  unit: kilocalories / mole
+thrombin_edge_3a_1d:
+  DDG: 1.3918164435946458
+  dDDG: 0.4319802588580675
+  ligandA: 3a
+  ligandB: 1d
+  unit: kilocalories / mole
+thrombin_edge_6a_1b:
+  DDG: -0.7246462715105164
+  dDDG: 0.21826127840576887
+  ligandA: 6a
+  ligandB: 1b
+  unit: kilocalories / mole
+thrombin_edge_6a_6b:
+  DDG: 0.8688910133843215
+  dDDG: 0.08926506186434448
+  ligandA: 6a
+  ligandB: 6b
+  unit: kilocalories / mole
+thrombin_edge_6e_6b:
+  DDG: 1.2289005736137666
+  dDDG: 0.11032713586956866
+  ligandA: 6e
+  ligandB: 6b
+  unit: kilocalories / mole

@@ -1,0 +1,337 @@
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.071
+  - 0.0
+  - uM
+name: lig_SHP099-1
+smiles: '[H][c]1[n][c](-[c]2[c]([H])[c]([H])[c]([H])[c]([Cl])[c]2[Cl])[c]([N]([H])[H])[n][c]1[N]1[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]1([H])[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.169
+  - 0.0
+  - uM
+name: lig_E22
+smiles: '[H][c]1[c]([H])[c]([Cl])[c]([Cl])[c](-[c]2[n][c]([Br])[c]([N]3[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]3([H])[H])[n][c]2[N]([H])[H])[c]1[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 2.585
+  - 0.0
+  - uM
+name: lig_E29
+smiles: '[H][C]1=[C]([c]2[n][c]([H])[c]([N]3[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]3([H])[H])[n][c]2[N]([H])[H])[C]([H])([H])[C]([H])([H])[C]([H])([H])[C]1([H])[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 22
+  - 0.0
+  - uM
+name: lig_11
+smiles: '[H][c]1[n][c](-[c]2[c]([H])[c]([H])[c]([H])[c]([Cl])[c]2[Cl])[c]([N]([H])[C]([H])([H])[H])[n][c]1[N]1[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]1([H])[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 54
+  - 0.0
+  - uM
+name: lig_4
+smiles: '[H][c]1[n][c]([N]2[C]([H])([H])[C@]([H])([C]([H])([H])[H])[N+]([H])([H])[C@]([H])([C]([H])([H])[H])[C]2([H])[H])[n][c]([N]([H])[H])[c]1-[c]1[c]([H])[c]([H])[c]([Cl])[c]([Cl])[c]1[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.858
+  - 0.0
+  - uM
+name: lig_E2
+smiles: '[H][c]1[n][c]([N]2[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]2([H])[H])[n][c]([N]([H])[H])[c]1-[c]1[c]([H])[c]([H])[c]([H])[c]([C]([H])([H])[H])[c]1[Cl]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.068
+  - 0.0
+  - uM
+name: lig_E14
+smiles: '[H][c]1[n][c](-[c]2[c]([H])[c]([H])[c]([H])[c]([Cl])[c]2[Cl])[c]([N]([H])[H])[n][c]1[N]1[C]([H])([H])[C]([H])([H])[C@@]([H])([C]([H])([H])[N+]([H])([H])[H])[C]1([H])[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.271
+  - 0.0
+  - uM
+name: lig_E26
+smiles: '[H][c]1[c]([H])[c]([Cl])[c]([Cl])[c](-[c]2[n][c]([C](=[O])[N]([H])[H])[c]([N]3[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]3([H])[H])[n][c]2[N]([H])[H])[c]1[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 12
+  - 0.0
+  - uM
+name: lig_SHP836-2
+smiles: '[H][c]1[n][c]([N]2[C]([H])([H])[C@]([H])([C]([H])([H])[H])[N+]([H])([H])[C@]([H])([C]([H])([H])[H])[C]2([H])[H])[n][c]([N]([H])[H])[c]1-[c]1[c]([H])[c]([H])[c]([H])[c]([Cl])[c]1[Cl]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.225
+  - 0.0
+  - uM
+name: lig_E6
+smiles: '[H][O][c]1[c]([H])[c]([Cl])[c]([Cl])[c](-[c]2[c]([H])[n][c]([N]3[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]3([H])[H])[n][c]2[N]([H])[H])[c]1[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.258
+  - 0.0
+  - uM
+name: lig_E1
+smiles: '[H][c]1[n][c]([N]2[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]2([H])[H])[n][c]([N]([H])[H])[c]1-[c]1[c]([H])[c]([H])[c]([H])[c]([Cl])[c]1[Cl]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 99
+  - 0.0
+  - uM
+name: lig_3
+smiles: '[H][c]1[n][c]([N]2[C]([H])([H])[C@]([H])([C]([H])([H])[H])[N+]([H])([H])[C@]([H])([C]([H])([H])[H])[C]2([H])[H])[n][c]([N]([H])[H])[c]1-[c]1[c]([H])[c]([H])[c]([H])[c]([Cl])[c]1[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.358
+  - 0.0
+  - uM
+name: lig_E9
+smiles: '[H][c]1[n][c](-[c]2[c]([H])[c]([H])[c]([H])[c]([Cl])[c]2[Cl])[c]([N]([H])[H])[n][c]1[N]1[C]([H])([H])[C]([H])([H])[C]([H])([C]([H])([H])[N+]([H])([H])[H])[C]([H])([H])[C]1([H])[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.076
+  - 0.0
+  - uM
+name: lig_E8
+smiles: '[H][c]1[n][c](-[c]2[c]([H])[c]([H])[c]([H])[c]([Cl])[c]2[Cl])[c]([N]([H])[H])[n][c]1[N]1[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([C]([H])([H])[N+]([H])([H])[H])[C]([H])([H])[C]1([H])[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 6.5
+  - 0.0
+  - uM
+name: lig_7
+smiles: '[H][c]1[n][c]([N]2[C]([H])([H])[C]([H])([H])[C]([H])([N+]([H])([C]([H])([H])[H])[C]([H])([H])[H])[C]([H])([H])[C]2([H])[H])[n][c]([N]([H])[H])[c]1-[c]1[c]([H])[c]([H])[c]([H])[c]([Cl])[c]1[Cl]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.222
+  - 0.0
+  - uM
+name: lig_E24
+smiles: '[H][c]1[c]([H])[c]([Cl])[c]([Cl])[c](-[c]2[n][c]([C]([H])([H])[H])[c]([N]3[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]3([H])[H])[n][c]2[N]([H])[H])[c]1[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.632
+  - 0.0
+  - uM
+name: lig_E28
+smiles: '[H][C]1=[C]([H])[N]([H])[c]2[c]1[c]([H])[c]([H])[c]([H])[c]2-[c]1[n][c]([H])[c]([N]2[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]2([H])[H])[n][c]1[N]([H])[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 5.7
+  - 0.0
+  - uM
+name: lig_10
+smiles: '[H][c]1[n][c]([N]2[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]2([H])[H])[c]([H])[n][c]1-[c]1[c]([H])[c]([H])[c]([H])[c]([Cl])[c]1[Cl]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.315
+  - 0.0
+  - uM
+name: lig_E25
+smiles: '[H][c]1[c]([H])[c]([Cl])[c]([Cl])[c](-[c]2[n][c]([C]#[N])[c]([N]3[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]3([H])[H])[n][c]2[N]([H])[H])[c]1[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.57
+  - 0.0
+  - uM
+name: lig_E27
+smiles: '[H][c]1[n][c](-[c]2[c]([H])[c]([H])[c]([H])[c]([Cl])[c]2[Cl])[c]([N]([H])[H])[n][c]1[N]1[C]([H])([H])[C@]([H])([C]([H])([H])[H])[N+]([H])([H])[C@]([H])([C]([H])([H])[H])[C]1([H])[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 1.3
+  - 0.0
+  - uM
+name: lig_6
+smiles: '[H][c]1[n][c]([N]2[C]([H])([H])[C]([H])([H])[C]([H])([N+]([H])([H])[H])[C]([H])([H])[C]2([H])[H])[n][c]([N]([H])[H])[c]1-[c]1[c]([H])[c]([H])[c]([H])[c]([Cl])[c]1[Cl]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.194
+  - 0.0
+  - uM
+name: lig_E30
+smiles: '[H][c]1[c]([H])[c]([Cl])[c]([Cl])[c](-[c]2[n][n][c]([N]3[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]3([H])[H])[n][c]2[N]([H])[H])[c]1[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 2.859
+  - 0.0
+  - uM
+name: lig_E5
+smiles: '[H][c]1[n][c]([N]2[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]2([H])[H])[n][c]([N]([H])[H])[c]1-[c]1[c]([H])[c]([O][C]([H])([H])[H])[c]([H])[c]([Cl])[c]1[Cl]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.974
+  - 0.0
+  - uM
+name: lig_E4
+smiles: '[H][C]1=[C]([c]2[c]([H])[n][c]([N]3[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]3([H])[H])[n][c]2[N]([H])[H])[S][C]([C]([H])([H])[H])=[C]1[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.392
+  - 0.0
+  - uM
+name: lig_E23
+smiles: '[H][c]1[c]([H])[c]([Cl])[c]([Cl])[c](-[c]2[n][c]([Cl])[c]([N]3[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]3([H])[H])[n][c]2[N]([H])[H])[c]1[H]'
+---
+charge: 1.0
+measurement:
+  doi:
+  - 10.1038/nature18621
+  - 10.1021/acs.jmedchem.6b00680
+  - https://patents.google.com/patent/US10093646B2
+  ic50:
+  - 0.95
+  - 0.0
+  - uM
+name: lig_E3
+smiles: '[H][C]1=[C]([Cl])[S][C]([c]2[c]([H])[n][c]([N]3[C]([H])([H])[C]([H])([H])[C]([C]([H])([H])[H])([N+]([H])([H])[H])[C]([H])([H])[C]3([H])[H])[n][c]2[N]([H])[H])=[C]1[H]'

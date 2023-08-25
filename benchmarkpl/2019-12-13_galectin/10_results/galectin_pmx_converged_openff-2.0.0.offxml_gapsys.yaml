@@ -1,42 +1,42 @@
 galectin_edge_02_ligOMe_05_ligOEt:
   DDG: 0.85
-  dDDG: 0.2678370283315206
+  dDDG: 0.26698588404712814
   ligandA: 02_ligOMe
   ligandB: 05_ligOEt
   unit: kilocalories / mole
 galectin_edge_03_ligNHMe_02_ligOMe:
   DDG: -1.3400000000000005
-  dDDG: 0.15958239594018825
+  dDDG: 0.1584011846819373
   ligandA: 03_ligNHMe
   ligandB: 02_ligOMe
   unit: kilocalories / mole
 galectin_edge_03_ligNHMe_04_ligNMe2:
   DDG: 0.32999999999999946
-  dDDG: 0.2570543456901346
+  dDDG: 0.25643662049464827
   ligandA: 03_ligNHMe
   ligandB: 04_ligNMe2
   unit: kilocalories / mole
 galectin_edge_04_ligNMe2_08_ligNH2:
   DDG: -1.1266666666666652
-  dDDG: 0.2313752464816232
+  dDDG: 0.22958394927347558
   ligandA: 04_ligNMe2
   ligandB: 08_ligNH2
   unit: kilocalories / mole
 galectin_edge_06_ligPyr_01_ligF:
   DDG: -2.18
-  dDDG: 0.21743898628282596
+  dDDG: 0.21624422326653583
   ligandA: 06_ligPyr
   ligandB: 01_ligF
   unit: kilocalories / mole
 galectin_edge_07_ligOH_01_ligF:
   DDG: -0.5266666666666667
-  dDDG: 0.1070976676352618
+  dDDG: 0.11408875342004086
   ligandA: 07_ligOH
   ligandB: 01_ligF
   unit: kilocalories / mole
 galectin_edge_07_ligOH_02_ligOMe:
   DDG: 0.006666666666666525
-  dDDG: 0.1956189096508216
+  dDDG: 0.1990487093916306
   ligandA: 07_ligOH
   ligandB: 02_ligOMe
   unit: kilocalories / mole

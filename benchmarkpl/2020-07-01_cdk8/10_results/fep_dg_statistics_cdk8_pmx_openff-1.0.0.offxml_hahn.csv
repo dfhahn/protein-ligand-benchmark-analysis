@@ -11,9 +11,9 @@
 # high: higher bound of 95% confidence interval
 # All energy values (RMSE, MUE) in kcal/mol
 # Values generated with Arsenic
-,mle,stderr,mean,low,high
-RMSE,1.12,0.12,1.11,0.86,1.35
-MUE,0.90,0.11,0.90,0.68,1.14
-R2,0.59,0.08,0.61,0.45,0.78
-rho,0.77,0.05,0.78,0.67,0.88
-KTAU,0.65,0.07,0.65,0.53,0.78
+,observed,stderr,mean,mle,low,high
+RMSE,1.11,0.13,1.10,1.10,0.86,1.36
+MUE,0.90,0.11,0.90,0.92,0.70,1.12
+R2,0.59,0.08,0.61,0.57,0.46,0.78
+rho,0.77,0.05,0.78,0.77,0.68,0.88
+KTAU,0.65,0.07,0.65,0.63,0.51,0.77

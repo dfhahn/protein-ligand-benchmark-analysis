@@ -1,0 +1,54 @@
+# analyze_dhdl.py, pmx version = 0+untagged.798.gd5d9766.dirty
+# pwd = /netmount/glic3/vgapsys/janssenBioexcel_benchmark/aws_benchmark/s3_buckets/rsync_files/output-openff-v2-protein/cmet/edge_CHEMBL3402750_400_CHEMBL3402749_500/analyze2
+# Wed Jul 21 16:41:53 2021 (vgapsys)
+# command = /home/vgapsys/anaconda2/envs/python3.7/bin/pmx analyse -iA /netmount/glic3/vgapsys/janssenBioexcel_benchmark/aws_benchmark/s3_buckets/rsync_files/output-openff-v2-protein/cmet/edge_CHEMBL3402750_400_CHEMBL3402749_500/stateA/run2/work.dat -iB /netmount/glic3/vgapsys/janssenBioexcel_benchmark/aws_benchmark/s3_buckets/rsync_files/output-openff-v2-protein/cmet/edge_CHEMBL3402750_400_CHEMBL3402749_500/stateB/run2/work.dat -o /netmount/glic3/vgapsys/janssenBioexcel_benchmark/aws_benchmark/s3_buckets/rsync_files/output-openff-v2-protein/cmet/edge_CHEMBL3402750_400_CHEMBL3402749_500/analyze2/results.dat -w /netmount/glic3/vgapsys/janssenBioexcel_benchmark/aws_benchmark/s3_buckets/rsync_files/output-openff-v2-protein/cmet/edge_CHEMBL3402750_400_CHEMBL3402749_500/analyze2/wplot.png -t 298 -b 100
+
+
+ ========================================================
+                       ANALYSIS
+ ========================================================
+  Number of forward (0->1) trajectories: 80
+  Number of reverse (1->0) trajectories: 80
+  Temperature : 298.00 K
+
+ --------------------------------------------------------
+             Crooks Gaussian Intersection     
+ --------------------------------------------------------
+  CGI: Forward Gauss mean =   -15.11 kJ/mol std =     1.53 kJ/mol
+  CGI: Reverse Gauss mean =   -16.54 kJ/mol std =     3.21 kJ/mol
+
+  Gaussians too close for intersection calculation
+   --> Taking difference of mean values
+  CGI: dG =   -15.82 kJ/mol
+  CGI: Std Err (bootstrap:parametric) =     0.45 kJ/mol
+  CGI: Std Err (bootstrap) =     0.32 kJ/mol
+    Forward: gaussian quality = 0.20
+             ---> KS-Test Ok
+    Reverse: gaussian quality = 0.01
+             ---> KS-Test Failed. sqrt(N)*Dmax = 0.01, lambda0 = 1.57
+
+ --------------------------------------------------------
+             Bennett Acceptance Ratio     
+ --------------------------------------------------------
+  BAR: dG =   -15.63 kJ/mol
+  BAR: Std Err (analytical) =     0.15 kJ/mol
+  BAR: Std Err (bootstrap)  =     0.15 kJ/mol
+  BAR: Conv =    -0.03
+  BAR: Conv Std Err (bootstrap) =     0.02
+
+ --------------------------------------------------------
+             Jarzynski estimator     
+ --------------------------------------------------------
+  JARZ: dG Forward =   -15.61 kJ/mol
+  JARZ: dG Reverse =   -15.40 kJ/mol
+  JARZ: dG Mean    =   -15.50 kJ/mol
+  JARZ: Std Err Forward (bootstrap) =     0.18 kJ/mol
+  JARZ: Std Err Reverse (bootstrap) =     0.24 kJ/mol
+  JARZ_Gauss: dG Forward =   -15.59 kJ/mol
+  JARZ_Gauss: dG Reverse =   -14.43 kJ/mol
+  JARZ_Gauss: dG Mean    =   -15.01 kJ/mol
+  JARZ_Gauss: Std Err (analytical) Forward =     0.19 kJ/mol
+  JARZ_Gauss: Std Err (analytical) Reverse =     0.49 kJ/mol
+  JARZ_Gauss: Std Err Forward (bootstrap) =     0.21 kJ/mol
+  JARZ_Gauss: Std Err Reverse (bootstrap) =     0.42 kJ/mol
+ ========================================================

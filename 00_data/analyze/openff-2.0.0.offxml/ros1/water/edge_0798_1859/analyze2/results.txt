@@ -1,0 +1,22 @@
+# analyze_crooks.py, pmx version = 2.0+65.g8d87706.dirty
+# pwd = /projects/CNS/OGA/FEP_compare/openforcefield/03_benchmark_analysis/benchmarkpl/00_data
+# Wed Dec  8 12:03:20 2021 (dhahn3)
+# command = /home/dhahn3/miniconda3/envs/off/bin/pmx analyse -o analyze/openff-2.0.0.offxml/ros1/water/edge_0798_1859/analyze2/results.txt -iA gapsys_openff-2.0.0_work/output-run2-water/ros1/edge_0798_1859/stateA/run2/work.dat -iB gapsys_openff-2.0.0_work/output-run2-water/ros1/edge_0798_1859/stateB/run2/work.dat --work_plot none -b 100 -t 298 -m bar --no_ks --unit kcal
+
+
+ ========================================================
+                       ANALYSIS
+ ========================================================
+  Number of forward (0->1) trajectories: 80
+  Number of reverse (1->0) trajectories: 80
+  Temperature : 298.00 K
+
+ --------------------------------------------------------
+             Bennett Acceptance Ratio     
+ --------------------------------------------------------
+  BAR: dG =     5.83 kcal/mol
+  BAR: Std Err (analytical) =     0.08 kcal/mol
+  BAR: Std Err (bootstrap)  =     0.08 kcal/mol
+  BAR: Conv =     0.02
+  BAR: Conv Std Err (bootstrap) =     0.05
+ ========================================================

@@ -1,0 +1,6 @@
+# analyze_crooks.py, pmx version = 2.0+65.g8d87706.dirty
+# pwd = /projects/CNS/OGA/FEP_compare/openforcefield/03_benchmark_analysis/benchmarkpl/00_data
+# Wed Dec  8 12:15:11 2021 (dhahn3)
+# command = /home/dhahn3/miniconda3/envs/off/bin/pmx analyse -o analyze/openff-2.0.0.offxml/ros1/complex/edge_8794_6674/analyze3/results.txt -iA gapsys_openff-2.0.0_work/output-run2-protein/ros1/edge_8794_6674/stateA/run3/work.dat -iB gapsys_openff-2.0.0_work/output-run2-protein/ros1/edge_8794_6674/stateB/run3/work.dat --work_plot none -b 100 -t 298 -m bar --no_ks --unit kcal
+
+
